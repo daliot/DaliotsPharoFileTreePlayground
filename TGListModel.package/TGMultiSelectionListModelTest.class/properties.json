@@ -1,0 +1,14 @@
+{
+	"category" : "TGListModel",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"lm" ],
+	"name" : "TGMultiSelectionListModelTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

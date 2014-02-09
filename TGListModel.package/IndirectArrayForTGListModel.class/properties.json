@@ -1,0 +1,16 @@
+{
+	"category" : "TGListModel",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"source",
+		"getter",
+		"setter" ],
+	"name" : "IndirectArrayForTGListModel",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
