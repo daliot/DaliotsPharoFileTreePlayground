@@ -1,0 +1,3 @@
+*SyncRepo
+useAsAuthenticationReadyRepositoryFor: aMCHttpRepository 
+	^false

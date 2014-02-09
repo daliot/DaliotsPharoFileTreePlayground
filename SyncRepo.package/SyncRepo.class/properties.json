@@ -1,0 +1,15 @@
+{
+	"category" : "SyncRepo",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"packageNames",
+		"repos" ],
+	"name" : "SyncRepo",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

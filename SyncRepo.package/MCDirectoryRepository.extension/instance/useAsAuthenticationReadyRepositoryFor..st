@@ -1,0 +1,3 @@
+*SyncRepo
+useAsAuthenticationReadyRepositoryFor: aMCDirectoryRepository 
+	^false

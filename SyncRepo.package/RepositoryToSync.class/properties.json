@@ -1,0 +1,15 @@
+{
+	"category" : "SyncRepo",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"repository",
+		"sync" ],
+	"name" : "RepositoryToSync",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
