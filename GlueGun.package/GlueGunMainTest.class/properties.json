@@ -1,0 +1,14 @@
+{
+	"category" : "GlueGun-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "GlueGunMainTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

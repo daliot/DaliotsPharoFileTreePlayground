@@ -1,0 +1,14 @@
+{
+	"category" : "GlueGun",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "GlueGunGlobalMissingError",
+	"pools" : [
+		 ],
+	"super" : "Error",
+	"type" : "normal" }

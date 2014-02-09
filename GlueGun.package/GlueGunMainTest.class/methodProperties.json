@@ -1,0 +1,9 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"testSmalltalkImageIfGlobalExistDo" : "HwaJong 10/25/2013 19:47",
+		"testSmalltalkImageIfGlobalExistDoIfGlobalExistDo" : "HwaJong 10/25/2013 19:59",
+		"testSymbolIfGlobalExistIfGlobalNotExist" : "HwaJong 10/25/2013 19:54",
+		"testSymbolIfGlobalExistThenPerform" : "HwaJong 10/25/2013 19:55",
+		"testValueEitherWayAround" : "HwaJong 1/15/2014 19:20" } }
