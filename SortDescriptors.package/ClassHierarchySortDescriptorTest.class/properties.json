@@ -1,0 +1,15 @@
+{
+	"category" : "SortDescriptors",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"objects",
+		"sortedObjects" ],
+	"name" : "ClassHierarchySortDescriptorTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

@@ -1,0 +1,10 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"printedStringOfSortedObjects" : "hjo 1/8/2012 13:52",
+		"setUp" : "hjo 1/8/2012 14:03",
+		"sortWithDescriptor:" : "hjo 1/8/2012 13:52",
+		"testAscending" : "hjo 1/16/2012 11:47",
+		"testCollectionVsObject" : "hjo 1/16/2012 11:47",
+		"testObjectVsCollection" : "hjo 1/16/2012 11:47" } }

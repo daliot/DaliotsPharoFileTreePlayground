@@ -1,0 +1,14 @@
+{
+	"category" : "SortDescriptors",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "hjo 1/8/2012 15:29",
+	"instvars" : [
+		"aspect" ],
+	"name" : "UnarySortDescriptor",
+	"pools" : [
+		 ],
+	"super" : "SortDescriptor",
+	"type" : "normal" }

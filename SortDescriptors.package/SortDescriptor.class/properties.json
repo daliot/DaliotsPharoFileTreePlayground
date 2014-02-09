@@ -1,0 +1,15 @@
+{
+	"category" : "SortDescriptors",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"ascending",
+		"subSortDescriptor" ],
+	"name" : "SortDescriptor",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

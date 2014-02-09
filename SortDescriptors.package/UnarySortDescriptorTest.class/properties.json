@@ -1,0 +1,15 @@
+{
+	"category" : "SortDescriptors",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"objects",
+		"sortedObjects" ],
+	"name" : "UnarySortDescriptorTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }
