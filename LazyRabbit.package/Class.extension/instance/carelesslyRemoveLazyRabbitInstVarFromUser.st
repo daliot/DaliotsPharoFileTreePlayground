@@ -1,0 +1,3 @@
+*LazyRabbit
+carelesslyRemoveLazyRabbitInstVarFromUser
+	LazyRabbitOperation carelesslyRemoveVariableNameFromUserAndSubjectClass: self.

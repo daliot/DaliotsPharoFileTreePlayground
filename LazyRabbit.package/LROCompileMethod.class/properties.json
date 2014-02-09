@@ -1,0 +1,14 @@
+{
+	"category" : "LazyRabbit-abstract",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "LROCompileMethod",
+	"pools" : [
+		 ],
+	"super" : "LazyRabbitOperation",
+	"type" : "normal" }

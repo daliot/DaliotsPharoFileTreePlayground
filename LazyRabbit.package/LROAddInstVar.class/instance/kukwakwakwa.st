@@ -1,0 +1,3 @@
+private
+kukwakwakwa
+	subjectClass addInstVarNamed: variableName

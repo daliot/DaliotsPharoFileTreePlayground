@@ -1,0 +1,14 @@
+{
+	"category" : "LazyRabbit-concrete",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "LROAddInstVar",
+	"pools" : [
+		 ],
+	"super" : "LazyRabbitOperation",
+	"type" : "normal" }

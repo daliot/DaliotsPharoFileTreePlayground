@@ -1,0 +1,4 @@
+*LazyRabbit
+createLazyRabbitVar
+
+	LazyRabbitOperation variableNameFromUserAndSubjectClass: self selectedClass.

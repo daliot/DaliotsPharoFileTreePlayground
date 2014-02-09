@@ -1,0 +1,11 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"addLazyRabbitInstVar:" : "HwaJong 1/12/2013 14:02",
+		"addLazyRabbitInstVarFromUser" : "HwaJong 1/12/2013 15:17",
+		"carelesslyRemoveLazyRabbitInstVar:" : "HwaJong 1/12/2013 14:05",
+		"carelesslyRemoveLazyRabbitInstVarFromUser" : "HwaJong 1/12/2013 15:17",
+		"instanceCreator:" : "HwaJong 2/4/2013 14:51",
+		"instanceCreatorWithPairs:" : "HwaJong 2/4/2013 14:52",
+		"instanceCreatorWithSignature:" : "HwaJong 2/4/2013 14:53" } }

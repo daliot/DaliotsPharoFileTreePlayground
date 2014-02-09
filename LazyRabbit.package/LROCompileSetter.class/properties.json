@@ -1,0 +1,14 @@
+{
+	"category" : "LazyRabbit-concrete",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "LROCompileSetter",
+	"pools" : [
+		 ],
+	"super" : "LROCompileAccessor",
+	"type" : "normal" }

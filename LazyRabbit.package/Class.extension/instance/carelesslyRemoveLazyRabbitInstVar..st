@@ -1,0 +1,3 @@
+*LazyRabbit
+carelesslyRemoveLazyRabbitInstVar: aString
+	LazyRabbitOperation carelesslyRemoveVariableName: aString subjectClass: self.

@@ -1,0 +1,3 @@
+user interactions
+notExistOperation
+	^self privateOperation

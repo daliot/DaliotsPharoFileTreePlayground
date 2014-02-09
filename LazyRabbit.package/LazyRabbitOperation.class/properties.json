@@ -1,0 +1,15 @@
+{
+	"category" : "LazyRabbit-abstract",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"subjectClass",
+		"variableName" ],
+	"name" : "LazyRabbitOperation",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

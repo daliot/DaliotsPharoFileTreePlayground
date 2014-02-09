@@ -1,0 +1,14 @@
+{
+	"category" : "LazyRabbit-PureTest",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"op" ],
+	"name" : "LazyRabbitOperationTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

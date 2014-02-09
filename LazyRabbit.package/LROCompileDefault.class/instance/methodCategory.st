@@ -1,0 +1,3 @@
+self evaluating
+methodCategory
+	^'defaults'
