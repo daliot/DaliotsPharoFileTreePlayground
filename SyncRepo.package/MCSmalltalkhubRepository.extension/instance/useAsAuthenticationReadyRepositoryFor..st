@@ -2,6 +2,5 @@
 useAsAuthenticationReadyRepositoryFor: aMCHttpRepository 
 	^self class = aMCHttpRepository class
 		ifTrue: 
-			[location = 
-					(aMCHttpRepository ifRespondsToThenPerform: #location elsePerform: #description) ]
+			[ project = aMCHttpRepository project ]
 		ifFalse: [false]
