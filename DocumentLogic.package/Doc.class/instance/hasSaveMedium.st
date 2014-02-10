@@ -1,3 +1,3 @@
 testing
 hasSaveMedium
-^isNew not
+^hasSaveMedium

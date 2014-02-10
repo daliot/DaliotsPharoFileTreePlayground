@@ -2,11 +2,8 @@
 	"class" : {
 		 },
 	"instance" : {
-		"allocationCollidesToPut:startingAt:" : "hjo 4/23/2011 18:50",
-		"doAddFragmentFromIndex:withBytes:" : "hjo 4/23/2011 18:51",
-		"doDeleteFile" : "hjo 4/23/2011 18:50",
-		"doUnifyToOneFragment" : "hjo 4/24/2011 09:17",
+		"addContinuousByesFromIndex:withBytes:" : "hjo 4/17/2011 17:19",
+		"cheatBeDefragged" : "hjo 4/17/2011 15:40",
 		"fileSystem:" : "hjo 4/17/2011 17:19",
-		"fragCount" : "hjo 4/23/2011 18:50",
-		"fragments" : "hjo 4/23/2011 18:50",
-		"initialize" : "hjo 4/23/2011 18:50" } }
+		"fragCount" : "hjo 4/17/2011 15:37",
+		"initialize" : "hjo 4/17/2011 15:39" } }

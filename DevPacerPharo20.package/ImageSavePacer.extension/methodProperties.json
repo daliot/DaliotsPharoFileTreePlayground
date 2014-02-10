@@ -1,6 +1,7 @@
 {
 	"class" : {
 		"initialize" : "HwaJong 3/16/2013 15:39",
-		"registerToAnnouncements" : "HwaJong 3/16/2013 15:39" },
+		"registerToAnnouncements" : "HwaJong 3/16/2013 16:48",
+		"unregisterToAnnouncements" : "HwaJong 3/16/2013 16:29" },
 	"instance" : {
 		 } }

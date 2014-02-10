@@ -3,7 +3,7 @@ line9Slow
 
 	| instance |
 	instance := self new.
-	instance lineName: '9-slow'.
+	instance line: '9-slow'.
 	instance lineColor: (Color r: 170/255 g:152/255 b:114/255).
 	
 	instance setIntegerForFirstStationId: 901.

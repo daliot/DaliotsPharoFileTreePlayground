@@ -2,7 +2,7 @@ list
 nodeSelectionIndex: anInteger 
 
 	listModel selectionIndex: anInteger.
-	self jumpToPeekNode.
+	self controlBrowserToShowSelectedNode.
 	self changed: #nodeSelectionIndex.
 	self changed: #annotationText.
 	self changed: #shouldAnnotationTextMorphBeEnabled.

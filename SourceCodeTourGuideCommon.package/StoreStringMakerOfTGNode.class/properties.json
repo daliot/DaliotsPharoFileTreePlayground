@@ -1,0 +1,15 @@
+{
+	"category" : "SourceCodeTourGuideCommon",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"node",
+		"stream" ],
+	"name" : "StoreStringMakerOfTGNode",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

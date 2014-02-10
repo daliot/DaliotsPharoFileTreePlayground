@@ -1,6 +1,8 @@
 as yet unclassified
-from: aVertex to: bVertex through: edgeSequence
+from: aVertex to: bVertex through: anEdgeSequence
 
-	^edgeSequence inject: (GraphPathWithOneVertex vertex: aVertex) into: [:path :edge | path extendedVia: edge ]
-	
-	
+	^self new
+		startVertex: aVertex;
+		endVertex: bVertex;
+		edgeSequence: anEdgeSequence;
+		yourself

@@ -1,0 +1,17 @@
+{
+	"category" : "WaffleLayout-MorphicLayout",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"rowIndex",
+		"columnIndex",
+		"rowRange",
+		"columnRange" ],
+	"name" : "WaffleLayoutSubProperties",
+	"pools" : [
+		 ],
+	"super" : "WaffleLayoutProperties",
+	"type" : "normal" }

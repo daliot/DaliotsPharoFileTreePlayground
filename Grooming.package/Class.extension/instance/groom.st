@@ -2,9 +2,7 @@
 groom
 |demolish demolishBothSide|
 demolish := [:aClass| 
-	| unsent |
-	unsent := aClass allUnsentMessages.
-	unsent notEmpty ifTrue: [unsent explore].
+	aClass allUnsentMessages. "cannot delete them."
 	aClass allUnreferencedClassVariables
 		do: [:varName| aClass removeClassVarNamed: varName].
 	aClass allUnreferencedInstanceVariables

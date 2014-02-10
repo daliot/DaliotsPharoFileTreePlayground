@@ -1,4 +1,4 @@
 as yet unclassified
 inspectorOf: anObject
 
-	^((Smalltalk tools inspectorClassOf: anObject) ifNil: [Inspector]) inspect: anObject.
+	^(ToolSet inspectorClassOf: anObject) inspect: anObject

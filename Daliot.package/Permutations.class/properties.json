@@ -1,0 +1,16 @@
+{
+	"category" : "Daliot-PseudoCollections",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"choices",
+		"length",
+		"multiQuoAndRem" ],
+	"name" : "Permutations",
+	"pools" : [
+		 ],
+	"super" : "SequenceableCollection",
+	"type" : "normal" }

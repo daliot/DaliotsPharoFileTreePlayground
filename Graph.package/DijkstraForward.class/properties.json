@@ -1,0 +1,16 @@
+{
+	"category" : "Graph-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"priorityQueue",
+		"source",
+		"goalVertex" ],
+	"name" : "DijkstraForward",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

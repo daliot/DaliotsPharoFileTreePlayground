@@ -36,6 +36,7 @@ version131: spec
 		spec package: 'Jihachol' with:  'Jihachol-hjo.34'.
 		spec package: 'LazyRabbit' with:  'LazyRabbit-hjo.28'.
 		spec package: 'MaxClub' with:  'MaxClub-hjo.8'.
+		spec package: 'MobienceIPhoneProject' with:  'MobienceIPhoneProject-hjo.16'.
 		spec package: 'MorphoPhysics' with:  'MorphoPhysics-hjo.32'.
 		spec package: 'MoveClass' with: 'MoveClass-HwaJong.1'.
 		spec package: 'MultiDimensionalEnumeration' with:  'MultiDimensionalEnumeration-HwaJong.9'.

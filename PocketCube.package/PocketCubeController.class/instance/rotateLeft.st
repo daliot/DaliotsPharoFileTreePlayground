@@ -1,3 +1,3 @@
 rotate
 rotateLeft
-	self model rotateLeft.
+	model rotateLeft.

@@ -3,5 +3,7 @@ printOn: aStream
 
 	super printOn: aStream.
 	aStream nextPutParenthesisAround: [ 
-		self printMasterObjectOn: aStream.
+		masterObject isNil
+			ifTrue: [aStream nextPutAll: 'nil']
+			ifFalse: [masterObject printVertexDetailOn: aStream]
 		]

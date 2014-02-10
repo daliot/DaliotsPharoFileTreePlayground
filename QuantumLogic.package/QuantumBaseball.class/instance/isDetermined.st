@@ -1,4 +1,0 @@
-testing
-isDetermined
-
-	^quantumObject isDetermined

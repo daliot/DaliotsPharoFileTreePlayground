@@ -1,0 +1,4 @@
+*Daliot
+senderChainIncludesSelector: aByteSymbol 
+
+	^false

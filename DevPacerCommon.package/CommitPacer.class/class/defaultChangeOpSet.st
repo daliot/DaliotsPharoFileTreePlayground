@@ -1,3 +1,0 @@
-defaults
-defaultChangeOpSet
-	^Dictionary new

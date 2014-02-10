@@ -1,4 +1,4 @@
 as yet unclassified
 setRandomAmount
 
-	self setRandomAmount: Collection randomForPicking
+	amount := #(1 2 -1) atRandom.

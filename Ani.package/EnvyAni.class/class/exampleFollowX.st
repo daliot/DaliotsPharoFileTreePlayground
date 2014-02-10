@@ -13,10 +13,5 @@ dy startStepping.
 dy targetEvaluator: [m3 right].  
 dy currentEvaluator: [m4 left].  
 dy operation: [:z| m4 left: z].
-dy stiffness: 0.1
-.
-
-"clean up"
+dy stiffness: 0.1.
 dy stopStepping.
-m3 delete.
-m4 delete.

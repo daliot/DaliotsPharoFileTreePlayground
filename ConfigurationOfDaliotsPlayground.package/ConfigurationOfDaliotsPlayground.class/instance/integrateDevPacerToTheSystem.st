@@ -1,3 +1,0 @@
-script
-integrateDevPacerToTheSystem
-	#PacerBase ifGlobalExistThenPerform: #integratePacersToTheSystem

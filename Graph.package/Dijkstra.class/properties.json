@@ -1,0 +1,16 @@
+{
+	"category" : "Graph-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"startingVertex",
+		"goalVertex",
+		"hyperDijkstra" ],
+	"name" : "Dijkstra",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

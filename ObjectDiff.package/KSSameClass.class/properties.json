@@ -1,0 +1,14 @@
+{
+	"category" : "ObjectDiff",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "KSSameClass",
+	"pools" : [
+		 ],
+	"super" : "KSClassComparison",
+	"type" : "normal" }

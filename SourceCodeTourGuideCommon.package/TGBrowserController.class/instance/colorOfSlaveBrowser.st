@@ -1,6 +1,5 @@
-backing morph
+controling emphasis
 colorOfSlaveBrowser
-
-	windowBackingMorph isNil ifTrue: [^Color gray].
-	(World submorphs includes: windowBackingMorph) not ifTrue: [^Color gray ].
-	^windowBackingMorph color
+^self hasVisibleControllingBrowser
+	ifTrue: [self ivarColorOfSlaveBrowser]
+	ifFalse: [Color gray].

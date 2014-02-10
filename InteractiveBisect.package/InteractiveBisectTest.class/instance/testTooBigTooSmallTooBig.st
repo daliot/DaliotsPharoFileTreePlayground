@@ -1,4 +1,4 @@
-as yet unclassified
+tests
 testTooBigTooSmallTooBig
 
 	bisect inputNumber: 10.0.
@@ -14,9 +14,9 @@ testTooBigTooSmallTooBig
 	self assert: bisect stringOfInputNumber equals: '5.0'.
 	self assert: bisect stringOfTooBigNumber equals: '10.0'.
 
-	gotInputNumberChanged := false.
+	gotNumberChanged := false.
 	bisect treatTheNumberTooBig.
-	self assert: gotInputNumberChanged.
+	self assert: gotNumberChanged.
 	self assert: (bisect inputNumber asNumber) equals: 2.5.
 	"STAssertEqualsWithAccuracy(2.5, [[bisect inputNumber] doubleValue], 0.0001, nil);"
 	self assert: bisect stringOfTooSmallNumber equals: '0.0'.

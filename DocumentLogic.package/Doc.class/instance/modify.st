@@ -1,3 +1,3 @@
 actions
 modify
-isDirty := true.
+hasUnsavedChange := true.

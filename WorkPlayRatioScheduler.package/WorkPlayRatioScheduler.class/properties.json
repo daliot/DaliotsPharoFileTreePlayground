@@ -9,7 +9,8 @@
 		"workMin",
 		"workPerPlayRatio",
 		"mins",
-		"schedule" ],
+		"schedule",
+		"tempBisectVar" ],
 	"name" : "WorkPlayRatioScheduler",
 	"pools" : [
 		 ],

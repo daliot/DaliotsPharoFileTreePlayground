@@ -1,4 +1,4 @@
 testing
 canStep
 
-	^costSortedObjects notEmpty
+	^costSortedLives notEmpty

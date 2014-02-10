@@ -1,0 +1,15 @@
+{
+	"category" : "Daliot-Plot",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"point1",
+		"point2" ],
+	"name" : "LineSegment2D",
+	"pools" : [
+		 ],
+	"super" : "Line2DAbstract",
+	"type" : "normal" }

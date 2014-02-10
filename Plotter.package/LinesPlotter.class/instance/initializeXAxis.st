@@ -2,7 +2,7 @@ initialize-release
 initializeXAxis
 	xAxis := 
 		HorizontalPlotterAxis new
-			fixedValue: 492;
+			fixedPixel: 492;
 			pixelStart: 74;
 			pixelEnd: 682;
 			mapper: 

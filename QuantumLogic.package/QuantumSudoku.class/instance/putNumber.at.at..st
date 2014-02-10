@@ -1,4 +1,4 @@
-changing
+as yet unclassified
 putNumber: aNumber at: rowIndex at: columnIndex
 
 	| determinedQuantum blockR blockC cellsAffected|

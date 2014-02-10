@@ -1,0 +1,3 @@
+testing
+canDupNode
+	^listModel hasSelection  

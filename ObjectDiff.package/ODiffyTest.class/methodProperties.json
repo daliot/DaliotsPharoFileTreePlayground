@@ -1,0 +1,7 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"testDifferent" : "HwaJong 10/13/2012 10:20",
+		"testEqual" : "HwaJong 10/13/2012 10:21",
+		"testIdentical" : "HwaJong 10/13/2012 10:19" } }

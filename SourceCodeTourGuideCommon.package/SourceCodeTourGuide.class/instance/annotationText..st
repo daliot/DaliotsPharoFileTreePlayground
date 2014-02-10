@@ -1,4 +1,9 @@
 annotation text
 annotationText: aText 
 
-	^listModel selection text: aText.
+	listModel
+		ifHasSelection: 
+			[:node|
+			node text: aText.
+			self changed: #annotationText]
+	

@@ -1,0 +1,14 @@
+{
+	"category" : "InteractiveBisect-Auto",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "TooBig",
+	"pools" : [
+		 ],
+	"super" : "BisectEval",
+	"type" : "normal" }

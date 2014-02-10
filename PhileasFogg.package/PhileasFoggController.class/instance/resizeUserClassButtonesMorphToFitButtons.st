@@ -1,5 +1,5 @@
-view organazing
+as yet unclassified
 resizeUserClassButtonesMorphToFitButtons
 
-	self userClassButtonesMorph width: (buttons isEmpty ifTrue: [30] ifFalse: [(buttons collect: #width) max]).
-	self userClassButtonesMorph height: (buttons isEmpty ifTrue: [30] ifFalse: [(buttons collect: #height) sum]).
+	self userClassButtonesMorph width: (buttons collect: #width) max.
+	self userClassButtonesMorph height: (buttons collect: #height) sum.

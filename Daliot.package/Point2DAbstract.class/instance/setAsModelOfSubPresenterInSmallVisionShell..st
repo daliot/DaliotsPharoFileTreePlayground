@@ -1,0 +1,4 @@
+as yet unclassified
+setAsModelOfSubPresenterInSmallVisionShell: aSmallVisionShell
+
+	self setAsModel: self center ofSubPresenter: aSmallVisionShell pointPresenter

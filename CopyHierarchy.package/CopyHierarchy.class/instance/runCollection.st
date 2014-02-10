@@ -2,4 +2,4 @@
 runCollection
 	classNamePrefix := 'X'.
 	classCategoryForDupedClass := 'NewCol'.
-	self runWithAllKindOf: Collection.
+	self runWithClass: Collection.

@@ -1,0 +1,14 @@
+{
+	"category" : "Daliot",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "GaussianEliminationError",
+	"pools" : [
+		 ],
+	"super" : "Error",
+	"type" : "normal" }

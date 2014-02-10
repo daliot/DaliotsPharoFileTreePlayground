@@ -1,4 +1,4 @@
 accessing
 defaultVertexClass
 
-	^Vertex
+	^NamedVertex

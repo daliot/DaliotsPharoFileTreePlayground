@@ -7,5 +7,5 @@ setUp
 	edgeVisitation := OrderedCollection new.
 
 	visitor := BreadthFirstGraphVisitor new.
-	visitor vertexOperation: [:vertex| vertexVisitation add: (vertex masterObject) ].
+	visitor vertexOperation: [:vertex| vertexVisitation add: (graph nameOf: vertex) ].
 	visitor edgeOperation: [:edge| edgeVisitation add: edge ].

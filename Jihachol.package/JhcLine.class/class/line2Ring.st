@@ -3,7 +3,7 @@ line2Ring
 
 	| instance |
 	instance := self new.
-	instance lineName: '2'.
+	instance line: '2'.
 	instance idPrefix: ''.
 	instance setIntegerForFirstStationId: 201.
 	
@@ -15,6 +15,5 @@ line2Ring
 		do: [:each| each isString ifTrue:  [instance addStationNamed: each] ifFalse: [ instance addStationNamed: each first secondName: each second ] ].
 
 	instance connectStationsInRange: (1 to: 43), (Array with: 1) withEdgesWithTimeSpanMinutes:  #(2 2 1 2 2 2 1 2 3 1 2 3 2 3 3 2 2 2 2 2 2 2 1 3 3 2 2 2 2 2 2 2 3 3 1 2 4 2 3 2 1 2 2).
-	instance lineColor: (Color r: 51/255 g: 162/255 b: 61/255).
 
 	^instance

@@ -1,4 +1,4 @@
 accessing
-line: aJhcLine 
+line: aSmallInteger 
 
-	line := aJhcLine
+	line := aSmallInteger

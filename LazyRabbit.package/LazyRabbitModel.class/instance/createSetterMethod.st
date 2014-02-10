@@ -1,0 +1,4 @@
+compiling
+createSetterMethod
+
+	self compileAsAccessing: self sourceCodeForCreatingSetterMethod

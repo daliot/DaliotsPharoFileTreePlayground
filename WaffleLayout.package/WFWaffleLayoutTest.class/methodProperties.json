@@ -1,0 +1,11 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"setUp" : "HwaJong 1/12/2013 18:12",
+		"testHeightTooSmall" : "HwaJong 1/13/2013 23:53",
+		"testHorizontalLinePosition" : "HwaJong 1/15/2013 21:49",
+		"testMinimalExtent" : "HwaJong 1/12/2013 18:16",
+		"testProperExtent" : "HwaJong 1/12/2013 18:14",
+		"testVerticalLinePosition" : "HwaJong 1/15/2013 21:50",
+		"testWidthTooSmall" : "HwaJong 1/13/2013 23:52" } }

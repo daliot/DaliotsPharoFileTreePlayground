@@ -1,0 +1,4 @@
+defaults
+defaultUserWantsToQuit
+
+	^false

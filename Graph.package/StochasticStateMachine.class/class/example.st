@@ -2,7 +2,6 @@ examples
 example
 
 	|ssm|
-	self revisit: 'This method may raise error, since addVertex:named: being moved from Graph to NamedGraph.'.
 	ssm := self new.
 	ssm
 		addVertex: (self defaultVertexClass new name: 'hungry')  named: 'hungry';

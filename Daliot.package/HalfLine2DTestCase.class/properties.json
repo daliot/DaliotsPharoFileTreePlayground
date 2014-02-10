@@ -1,0 +1,14 @@
+{
+	"category" : "Daliot-Plot",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "HalfLine2DTestCase",
+	"pools" : [
+		 ],
+	"super" : "Line2DAbstractTestCase",
+	"type" : "normal" }

@@ -1,5 +1,5 @@
 as yet unclassified
 testZ2
 
-	self assert: ({PoRotateRight. PoRotateCounterClockwise. PoTwistLowerLayerLeft. PoTwistLowerLayerLeft . PoRotateClockwise. PoRotateLeft} collect: [:each| each singleton]) equals: (ScrambleZ new amount: 2) operations
+	self assert: #(#rotateRight #rotateCounterClockwise #twistLowerLayerLeft #twistLowerLayerLeft #rotateClockwise #rotateLeft) equals: (ScrambleZ new amount: 2) operations
 	

@@ -1,3 +1,0 @@
-private
-zaaap
-	self subclassResponsibility.

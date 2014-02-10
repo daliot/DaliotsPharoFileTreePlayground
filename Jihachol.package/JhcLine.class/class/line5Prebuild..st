@@ -4,7 +4,7 @@ line5Prebuild: lineName
 	| instance |
 	instance := self new.
 	instance lineColor: (Color r: 139/255 g: 80/255 b: 164/255 ).
-	instance lineName: lineName.
+	instance line: lineName.
 	
 	instance setIntegerForFirstStationId: 510.
 	instance addStationsWithNamesAndCosts:

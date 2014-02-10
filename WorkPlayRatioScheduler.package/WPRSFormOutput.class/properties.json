@@ -1,0 +1,14 @@
+{
+	"category" : "WorkPlayRatioScheduler",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"scheduler" ],
+	"name" : "WPRSFormOutput",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

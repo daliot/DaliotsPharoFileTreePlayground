@@ -1,0 +1,15 @@
+{
+	"category" : "ObjectSheet-Morphic",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"objectSheet",
+		"selectionIndex" ],
+	"name" : "ObjectSheetPluggableMultiColumnListMorphModel",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

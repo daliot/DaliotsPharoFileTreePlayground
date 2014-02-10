@@ -20,7 +20,7 @@ example
 	e2 connect: v2 and: v3.
 	e3 connect: v3 and: v4.
 
-	p := self new.
+	p := Path new.
 	p startVertex: v1.
 	p endVertex: v4.
 	p edgeSequence: (OrderedCollection with: e1 with: e2 with: e3).

@@ -1,3 +1,0 @@
-testing
-playerIsAtGoal
-^playerRowColumn = goalRowColumn 

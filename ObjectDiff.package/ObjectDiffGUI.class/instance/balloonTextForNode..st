@@ -1,3 +1,3 @@
 list
 balloonTextForNode: aPluggableTreeItemNode 
-^aPluggableTreeItemNode item balloonText.
+^'bal bal'

@@ -8,7 +8,8 @@
 	"instvars" : [
 		"window",
 		"browser",
-		"windowBackingMorph" ],
+		"announcer",
+		"ivarColorOfSlaveBrowser" ],
 	"name" : "TGBrowserController",
 	"pools" : [
 		 ],

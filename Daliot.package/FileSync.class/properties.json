@@ -1,0 +1,16 @@
+{
+	"category" : "Daliot-FileSync",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"referencePath",
+		"fileName",
+		"destinationPath" ],
+	"name" : "FileSync",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

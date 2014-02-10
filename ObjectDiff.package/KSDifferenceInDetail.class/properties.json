@@ -1,0 +1,15 @@
+{
+	"category" : "ObjectDiff",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"classComparison",
+		"insideComparisons" ],
+	"name" : "KSDifferenceInDetail",
+	"pools" : [
+		 ],
+	"super" : "KSComparison",
+	"type" : "normal" }

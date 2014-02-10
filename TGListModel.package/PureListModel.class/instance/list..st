@@ -1,3 +1,4 @@
 accessing
 list: anOrderedCollection
-	list := anOrderedCollection
+	list := anOrderedCollection.
+	self correctSelectionIndex

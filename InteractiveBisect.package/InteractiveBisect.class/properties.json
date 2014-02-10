@@ -6,11 +6,11 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"announcer",
 		"integerMode",
 		"inputNumber",
 		"tooSmallNumber",
-		"tooBigNumber" ],
+		"tooBigNumber",
+		"controllingBlock" ],
 	"name" : "InteractiveBisect",
 	"pools" : [
 		 ],

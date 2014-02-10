@@ -1,0 +1,14 @@
+{
+	"category" : "Daliot-Morphic",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"mousePosition" ],
+	"name" : "ProcessingDemoLikeMorph",
+	"pools" : [
+		 ],
+	"super" : "BorderedMorph",
+	"type" : "normal" }

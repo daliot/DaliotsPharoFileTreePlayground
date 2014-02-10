@@ -1,0 +1,25 @@
+{
+	"category" : "Daliot",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"a",
+		"b",
+		"c",
+		"d",
+		"h1",
+		"h2",
+		"h3",
+		"h4",
+		"v1",
+		"v3",
+		"v4",
+		"e" ],
+	"name" : "SquareSum",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

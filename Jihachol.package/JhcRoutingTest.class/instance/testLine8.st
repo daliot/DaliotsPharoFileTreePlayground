@@ -21,6 +21,6 @@ testLine8
 	line add: (JhcStation newName: 'Sujin' line: '8' id: '825').
 	line add: (JhcStation newName: 'Moran' line: '8' id: '826').
 
-	line doCouple: [:a :b| a connect: b cost: 2 ].
+	line doCouple: [:a :b| a graphVertex connect: b graphVertex cost: 2 ].
 	
 	self assert: ((line at:10) timespanMinutesTo: (line at:15)) equals: 10

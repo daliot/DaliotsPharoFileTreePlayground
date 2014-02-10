@@ -24,6 +24,6 @@ testBundangLine
 	line add: (JhcStation newName: 'Jukjeon' line: 'Bundang' id: 'K233').
 	line add: (JhcStation newName: 'Bojeong' line: 'Bundang' id: 'K234').
 
-	line doCouple: [:a :b| a connect: b cost: 2 ].
+	line doCouple: [:a :b| a graphVertex connect: b graphVertex cost: 2 ].
 	
 	self assert: ((line at:1) timespanMinutesTo: (line at:15)) equals: 28

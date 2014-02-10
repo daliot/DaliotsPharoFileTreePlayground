@@ -1,0 +1,17 @@
+{
+	"category" : "Daliot-Plot",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"d",
+		"e",
+		"bd",
+		"ce" ],
+	"name" : "HironakasTriangle",
+	"pools" : [
+		 ],
+	"super" : "Triangle2D",
+	"type" : "normal" }

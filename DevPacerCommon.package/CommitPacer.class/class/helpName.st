@@ -1,4 +1,0 @@
-gui
-helpName
-
-	^'commit pacer'

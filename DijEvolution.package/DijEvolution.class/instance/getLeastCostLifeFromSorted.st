@@ -1,3 +1,3 @@
 subroutines
 getLeastCostLifeFromSorted
-	leastCostLife := costSortedObjects removeFirst.
+	leastCostLife := costSortedLives removeFirst.

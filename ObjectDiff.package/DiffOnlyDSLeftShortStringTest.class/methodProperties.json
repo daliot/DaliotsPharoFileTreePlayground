@@ -1,9 +1,0 @@
-{
-	"class" : {
-		 },
-	"instance" : {
-		"setUp" : "HwaJong 12/26/2012 18:42",
-		"testCanOpenInnerDifference" : "HwaJong 12/27/2012 12:21",
-		"testCanOpenInspector" : "HwaJong 12/27/2012 12:17",
-		"testComparisonResultInLiterals" : "HwaJong 12/27/2012 12:21",
-		"testObjectsLiteralForm" : "HwaJong 12/27/2012 12:20" } }

@@ -1,0 +1,15 @@
+{
+	"category" : "Graph-Extended",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"capacity",
+		"flow" ],
+	"name" : "FlowEdge",
+	"pools" : [
+		 ],
+	"super" : "Edge",
+	"type" : "normal" }

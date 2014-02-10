@@ -9,10 +9,8 @@
 		"name",
 		"id",
 		"line",
-		"secondName",
-		"screenPosition",
-		"platform1",
-		"platform2" ],
+		"graphVertex",
+		"secondName" ],
 	"name" : "JhcStation",
 	"pools" : [
 		 ],

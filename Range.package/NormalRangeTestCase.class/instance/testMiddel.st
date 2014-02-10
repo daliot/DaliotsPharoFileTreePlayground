@@ -1,4 +1,4 @@
 as yet unclassified
 testMiddel
 
-	self assert: (self startNumber + self stopNumber)/2 equals: range middle
+	self assertEquals: (self startNumber + self stopNumber)/2 to: range middle

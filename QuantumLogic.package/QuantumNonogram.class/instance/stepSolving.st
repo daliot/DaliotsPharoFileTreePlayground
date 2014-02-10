@@ -1,4 +1,0 @@
-running
-stepSolving
-
-	self fillInTheCellIfCan

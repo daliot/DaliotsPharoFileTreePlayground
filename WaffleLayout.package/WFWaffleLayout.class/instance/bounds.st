@@ -1,4 +1,4 @@
-as yet unclassified
+bounds
 bounds
 
-	^(self columnLengths range start @ self rowLengths range start) corner: (self columnLengths range stop @ self rowLengths range stop)
+	^self privateGetBoundsFromXRange: (self columnSegments range) yRange:  (self rowSegments range)

@@ -1,0 +1,4 @@
+computing
+canRunStep
+
+	^state canAutoBisectRunStep.

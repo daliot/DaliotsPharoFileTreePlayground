@@ -1,5 +1,5 @@
 twist
 twistUpperLayerRight
 
-	self model twistUpperLayerRight.
+	model twistUpperLayerRight.
 	self playSoundMoveCube.

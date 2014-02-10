@@ -1,0 +1,4 @@
+computing
+currentNumber
+
+	^interactiveBisect inputNumber.

@@ -1,3 +1,3 @@
 initialize
 scrollSelectionIntoView
-	^self
+	^self .

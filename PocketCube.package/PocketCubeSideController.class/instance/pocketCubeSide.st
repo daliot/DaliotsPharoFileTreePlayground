@@ -1,4 +1,4 @@
 as yet unclassified
 pocketCubeSide
 
-	^self pocketCube perform: sideAccessor
+	^pocketCube perform: sideAccessor

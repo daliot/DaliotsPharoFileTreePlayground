@@ -1,0 +1,14 @@
+{
+	"category" : "Daliot-Plot",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"points" ],
+	"name" : "DaliotsPolygon",
+	"pools" : [
+		 ],
+	"super" : "Plot2DObject",
+	"type" : "normal" }

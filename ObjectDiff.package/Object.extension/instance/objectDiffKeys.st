@@ -1,3 +1,3 @@
 *ObjectDiff-System
 objectDiffKeys
-^self class allInstVarNames.
+^self class instVarNames.

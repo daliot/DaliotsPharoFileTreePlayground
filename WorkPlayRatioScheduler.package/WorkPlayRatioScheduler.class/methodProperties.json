@@ -1,19 +1,25 @@
 {
 	"class" : {
+		"outputScheduleForm" : "HwaJong 12/18/2012 13:05",
 		"ratio4hour4" : "HwaJong 11/23/2012 15:02",
-		"ratio5hour8" : "HwaJong 11/23/2012 15:03" },
+		"ratio5hour8" : "HwaJong 11/23/2012 15:03",
+		"work5play3upto9pm" : "HwaJong 11/27/2012 10:55" },
 	"instance" : {
 		"addEntryToSchedule" : "HwaJong 11/23/2012 14:56",
 		"compute" : "HwaJong 11/23/2012 15:00",
 		"hours:" : "HwaJong 11/23/2012 14:58",
 		"increaseWorkMin" : "HwaJong 11/23/2012 14:50",
-		"initialize" : "HwaJong 11/23/2012 14:56",
+		"initialize" : "HwaJong 12/27/2012 10:19",
 		"mins:" : "HwaJong 11/23/2012 14:58",
+		"openForm" : "HwaJong 12/18/2012 12:54",
 		"playMin" : "HwaJong 11/23/2012 14:48",
 		"reduceMin" : "HwaJong 11/23/2012 14:50",
+		"saveFormToPNGName:" : "HwaJong 12/18/2012 12:53",
 		"schedule" : "HwaJong 11/23/2012 15:00",
+		"scheduleForm" : "HwaJong 12/27/2012 10:49",
 		"workMin" : "HwaJong 11/23/2012 14:57",
 		"workMin:" : "HwaJong 11/23/2012 14:57",
 		"workPerPlayRatio" : "HwaJong 11/23/2012 14:57",
 		"workPerPlayRatio:" : "HwaJong 11/23/2012 14:57",
-		"workPlayEntry" : "HwaJong 11/23/2012 14:49" } }
+		"workPlayEntry" : "HwaJong 11/23/2012 14:49",
+		"workUpTo:" : "HwaJong 11/27/2012 10:49" } }

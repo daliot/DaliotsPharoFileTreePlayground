@@ -1,7 +1,6 @@
 as yet unclassified
 release
 
-	windowBackingMorph ifNotNil: [windowBackingMorph delete].
-	windowBackingMorph := nil.
+	self deemphasisControlledWindow.
 	Smalltalk garbageCollect.
 	super release.

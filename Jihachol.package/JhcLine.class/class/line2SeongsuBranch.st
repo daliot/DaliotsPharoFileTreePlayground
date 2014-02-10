@@ -3,7 +3,7 @@ line2SeongsuBranch
 
 	| instance accessor |
 	instance := self new.
-	instance lineName: '2-seongsu-branch'.
+	instance line: '2-seongsu-branch'.
 	
 	accessor := KeyedObjectAccessor new.
 	accessor setArrayIndicesAs: #(stationName secondName id).
@@ -19,6 +19,5 @@ line2SeongsuBranch
 			instance addStationNamed: accessor stationName secondName: accessor secondName id: accessor id.
 			].
 	instance connectStationsWithEdgesWithTimeSpanMinutes: #(3 2 2 2).
-	instance lineColor: (Color r: 51/255 g: 162/255 b: 61/255).
 	^instance
 	

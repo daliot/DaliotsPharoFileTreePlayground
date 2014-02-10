@@ -1,4 +1,4 @@
-creating path
+as yet unclassified
 subPathFrom: aCostVertex to: aCostVertex2
 	
 	^aCostVertex2 == lastVertex

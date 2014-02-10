@@ -6,3 +6,9 @@ isConnected
 	visitor currentVertices: (Array with: self vertices anyOne).
 	visitor run.
 	^visitor visitedVertices equalElementsTo: self vertices
+	"| connectedVertices |
+	connectedVertices := Set new.
+	self
+		breadthFirstDo: [:vertex| connectedVertices add: vertex ]
+		startingAt: self vertices any.
+	^self vertices equals: connectedVertices"

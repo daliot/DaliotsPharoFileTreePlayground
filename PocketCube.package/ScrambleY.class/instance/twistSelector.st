@@ -1,3 +1,3 @@
 as yet unclassified
 twistSelector
-	^(amount > 0 ifTrue: [PoTwistUpperLayerRight] ifFalse: [PoTwistUpperLayerLeft]) singleton.
+	^amount > 0 ifTrue: [#twistUpperLayerRight] ifFalse: [#twistUpperLayerLeft].

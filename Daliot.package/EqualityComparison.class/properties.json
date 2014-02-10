@@ -1,0 +1,14 @@
+{
+	"category" : "Daliot",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"selectors" ],
+	"name" : "EqualityComparison",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

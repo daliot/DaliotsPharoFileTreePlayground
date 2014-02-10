@@ -1,3 +1,0 @@
-*ObjectDiff-System
-isCollectionToObjectDiff
-	^false

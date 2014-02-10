@@ -6,13 +6,16 @@ open
 and to update slave OmniBrowser'.
 	list dropEnabled: true. 
 	list dropItemSelector: #dropItem:atIndex: .
-	list getMenuSelector: #menuWithMenu:shiftState:.    
+	list getMenuSelector: #menuWithMenu:shiftState:.
+	list autoDeselect: true.
+
 	buttons := {
-		UITheme builder newButtonFor: browserController action: #pickBrowserToControl label: 'pick' help: 'Pick a browser to control'.
-		UITheme builder newButtonFor: browserController action: #letGoControllingBrowser label: 'unpick' help: 'Free controlled browser'.
+		UITheme builder newButtonFor: browserController getState: nil action: #toggleBrowserControl arguments: #() getEnabled: nil getLabel: #labelForPickButton help: 'Pick a browser to control'.
 		UITheme builder newButtonFor: self action: #deleteSelectedNode label: 'del' help: 'Delete selected item'.
 		UITheme builder newButtonFor: self action: #moveNodePrev label: 'up' help: 'Move selected item up'.
 		UITheme builder newButtonFor: self action: #moveNodeNext label: 'down' help: 'Move selected item down'.
+		(UITheme builder newButtonFor: self action: #letSelectedNodeRememberTextSelection label: 'sel' help: 'remember text selection') getEnabledSelector: #canLetSelectedNodeRememberTextSelection.
+		(UITheme builder newButtonFor: self action: #dupNode label: 'dup' help: 'Duplicate selected node') getEnabledSelector: #canDupNode.
 		}.
 	buttonPane := UITheme builder newRow: buttons.
 	maxWidth := (buttons collect: #width) max.
@@ -20,10 +23,11 @@ and to update slave OmniBrowser'.
 	buttonAndColor := UITheme builder newRow: {buttonPane. UITheme builder newColorPresenterFor: browserController getColor: #colorOfSlaveBrowser help: 'color of controlled browser'}.
 	listPane := UITheme builder newColumn: {list. buttonAndColor}.
 	
-	annotationPane := UITheme builder newAutoAcceptTextEditorFor: self getText: #annotationText  setText: #annotationText: getEnabled: #shouldAnnotationTextMorphBeEnabled.  
-	
+	annotationPane := UITheme builder newTextEditorFor: self getText: #annotationText setText: #annotationText: getEnabled: #shouldAnnotationTextMorphBeEnabled.
+	annotationPane acceptOnCR: true.
+	annotationPane acceptOnFocusChange: true.
 	
 	main := UITheme builder newRow: { listPane . annotationPane }.
 	main extent: 726@173.
-	window := main openInWindowLabeled: 'Tour Guide'. 
+	window := main openInWindowLabeled: (self labelString). 
 	window model: self.

@@ -1,0 +1,18 @@
+{
+	"category" : "Daliot-Plot",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"name",
+		"mapper",
+		"domain",
+		"viewPort",
+		"tickGap" ],
+	"name" : "SpaceAxis",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

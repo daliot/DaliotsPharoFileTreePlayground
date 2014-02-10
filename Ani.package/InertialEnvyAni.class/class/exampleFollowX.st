@@ -3,7 +3,6 @@ exampleFollowX
 
 | m3 m4 dy |
 
-
 "prepare"
 m3 := Morph new.
 m3 openInWorld.
@@ -20,10 +19,6 @@ dy currentEvaluator: [m4 left].
 dy operation: [:z| m4 left: z].
 dy stiffness: 0.1.
 
-"start"
+"start/stop"
 dy startStepping..
-
-"clean up"
 dy stopStepping.
-m3 delete.
-m4 delete.

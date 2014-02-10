@@ -1,0 +1,14 @@
+{
+	"category" : "Daliot-Painter",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"painter" ],
+	"name" : "PainterDeco",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

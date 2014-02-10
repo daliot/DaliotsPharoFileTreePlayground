@@ -1,4 +1,4 @@
 adding
 addSeed: anObject
 
-	costSortedObjects add: (DijLife object: anObject cost: 0).
+	costSortedLives add: (DijLife object: anObject cost: 0).

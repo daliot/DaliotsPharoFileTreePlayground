@@ -6,8 +6,8 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"rowLengths",
-		"columnLengths" ],
+		"columnSegments",
+		"rowSegments" ],
 	"name" : "WFWaffleLayout",
 	"pools" : [
 		 ],

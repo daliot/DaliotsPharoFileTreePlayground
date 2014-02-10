@@ -1,4 +1,0 @@
-geometry
-gapBetweenChoiceMorphs
-
-	^3

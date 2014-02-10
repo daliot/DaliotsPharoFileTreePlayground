@@ -62,9 +62,3 @@ baseline41: spec
 		spec package: 'SourceCodeTourGuidePharo14' with: [spec requires: 'SourceCodeTourGuideCore'].
 		spec group: 'SourceCodeTourGuide' with: {'SourceCodeTourGuideCore'. 'SourceCodeTourGuidePharo14'}.
 		].
-	spec for: #'pharo2.x' do: [ 
-		spec package: 'DevPacerPharo20' with: [spec requires: 'DevPacerCommon'].
-		spec group: 'DevPacer' with: {'DevPacerCommon'. 'DevPacerPharo20'}.
-		spec package: 'SourceCodeTourGuidePharo20' with: [spec requires: 'SourceCodeTourGuideCommon'].
-		spec group: 'SourceCodeTourGuide' with: {'SourceCodeTourGuideCommon'. 'SourceCodeTourGuidePharo20'}.
-		].

@@ -2,8 +2,4 @@
 	"class" : {
 		"isAbstract" : "hjo 10/12/2009 13:25" },
 	"instance" : {
-		"assertStation:lineName:id:name:secondName:" : "hjo 10/31/2009 14:14",
-		"assertStationAtName:id:lineName:secondName:" : "hjo 11/10/2009 13:56",
-		"assertStationAtName:id:lineNames:secondName:" : "hjo 10/31/2009 16:51",
-		"pathsFrom:to:" : "hjo 11/9/2009 14:55",
-		"timeFrom:to:" : "hjo 11/6/2009 19:58" } }
+		"timeFrom:to:" : "jhan 10/13/2009 09:56" } }

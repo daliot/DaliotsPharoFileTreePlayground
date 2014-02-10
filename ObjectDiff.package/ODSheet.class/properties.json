@@ -1,0 +1,15 @@
+{
+	"category" : "ObjectDiff-Sheet",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"objects",
+		"accesses" ],
+	"name" : "ODSheet",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

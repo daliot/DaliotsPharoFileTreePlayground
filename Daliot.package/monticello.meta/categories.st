@@ -1,1 +1,12 @@
 SystemOrganization addCategory: #Daliot!
+SystemOrganization addCategory: #'Daliot-FileSync'!
+SystemOrganization addCategory: #'Daliot-Mapper'!
+SystemOrganization addCategory: #'Daliot-Morphic'!
+SystemOrganization addCategory: #'Daliot-Painter'!
+SystemOrganization addCategory: #'Daliot-Plot'!
+SystemOrganization addCategory: #'Daliot-PseudoCollections'!
+SystemOrganization addCategory: #'Daliot-QuictSort'!
+SystemOrganization addCategory: #'Daliot-Roulette'!
+SystemOrganization addCategory: #'Daliot-Statisticals'!
+SystemOrganization addCategory: #'Daliot-common'!
+SystemOrganization addCategory: #'Daliot-AppleScript'!

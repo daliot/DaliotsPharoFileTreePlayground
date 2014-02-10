@@ -4,7 +4,7 @@ line4
 
 | instance |
 	instance := self new.
-	instance lineName: '4'.
+	instance line: '4'.
 	instance lineColor: (Color r:50/255 g:161/255 b:200/255 ).
 	instance setIntegerForFirstStationId: 409.
 	

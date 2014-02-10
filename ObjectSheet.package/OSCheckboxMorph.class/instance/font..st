@@ -1,3 +1,0 @@
-accessing
-font: aStrikeFont 
-	^self

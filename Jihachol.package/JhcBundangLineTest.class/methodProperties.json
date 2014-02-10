@@ -3,12 +3,12 @@
 		 },
 	"instance" : {
 		"setUp" : "hjo 9/28/2009 13:12",
-		"testDogok" : "hjo 10/31/2009 16:35",
-		"testGaepoDong" : "hjo 10/31/2009 16:36",
-		"testGuryong" : "hjo 10/31/2009 16:36",
-		"testHanti" : "hjo 10/31/2009 16:37",
-		"testOri" : "hjo 10/31/2009 16:37",
-		"testSeolleung" : "hjo 10/31/2009 16:38",
+		"testDogok" : "hjo 9/27/2009 22:35",
+		"testGaepoDong" : "hjo 9/27/2009 22:40",
+		"testGuryong" : "hjo 9/27/2009 22:37",
+		"testHanti" : "hjo 9/27/2009 22:35",
+		"testOri" : "hjo 9/27/2009 22:47",
+		"testSeolleung" : "hjo 9/27/2009 22:33",
 		"testTimeSpanFromBojeongToGaepoDong" : "hjo 10/12/2009 13:38",
 		"testTimeSpanFromDogokToSeolleung" : "hjo 10/12/2009 13:39",
 		"testTimeSpanFromSuseoToKyungwonUniv" : "hjo 10/12/2009 13:40" } }

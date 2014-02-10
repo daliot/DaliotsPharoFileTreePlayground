@@ -1,5 +1,9 @@
-SystemOrganization addCategory: #ObjectDiff!
-SystemOrganization addCategory: #'ObjectDiff-GUI'!
-SystemOrganization addCategory: #'ObjectDiff-SequentialDiff'!
+SystemOrganization addCategory: #'ObjectDiff-OD'!
+SystemOrganization addCategory: #'ObjectDiff-OD-Test'!
+SystemOrganization addCategory: #'ObjectDiff-Sheet'!
+SystemOrganization addCategory: #'ObjectDiff-Sheet-Test'!
+SystemOrganization addCategory: #'ObjectDiff-Sheet-GUI'!
 SystemOrganization addCategory: #'ObjectDiff-System'!
+SystemOrganization addCategory: #ObjectDiff!
 SystemOrganization addCategory: #'ObjectDiff-Test'!
+SystemOrganization addCategory: #'ObjectDiff-GUI'!

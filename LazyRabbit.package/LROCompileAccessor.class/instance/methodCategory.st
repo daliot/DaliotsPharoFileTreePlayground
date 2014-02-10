@@ -1,3 +1,0 @@
-self evaluating
-methodCategory
-	^'accessing'

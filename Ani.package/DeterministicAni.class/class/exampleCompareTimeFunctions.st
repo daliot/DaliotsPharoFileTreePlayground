@@ -25,11 +25,6 @@ s1 startStepping.
 s2 startStepping.
 s3 startStepping.
 
-"clean up"
-s1 stopStepping.
-s2 stopStepping.
-s3 stopStepping.
-
 m1 delete.
 m2 delete.
 m3 delete.

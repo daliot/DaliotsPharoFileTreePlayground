@@ -1,0 +1,24 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"createAllMethodsForSubjectClass" : "hjo 8/27/2009 12:47",
+		"defaultModel" : "hjo 8/25/2009 20:44",
+		"defaultUserWantsToQuit" : "hjo 8/24/2009 16:27",
+		"model" : "hjo 8/25/2009 20:44",
+		"model:" : "hjo 8/25/2009 20:44",
+		"overwriteDefaultGeneratorMethodIfUserWantsTo" : "hjo 8/27/2009 10:59",
+		"overwriteGetterMethodIfUserWantsTo" : "hjo 8/27/2009 10:59",
+		"overwriteSetterMethodIfUserWantsTo" : "hjo 8/27/2009 12:32",
+		"tryToCreateDefaultGeneratorMethod" : "hjo 8/27/2009 12:34",
+		"tryToCreateGetterMethod" : "hjo 8/27/2009 12:36",
+		"tryToCreateMethods" : "hjo 8/27/2009 12:37",
+		"tryToCreateSetterMethod" : "hjo 8/27/2009 12:37",
+		"tryToCreateVariableAndMethods" : "hjo 8/27/2009 12:47",
+		"tryToProceedWhenTheVariableAlreadyExists" : "hjo 8/27/2009 12:40",
+		"userEnderedDefaultExpression:" : "hjo 8/27/2009 22:26",
+		"userWantsToOverwriteDefaultGenerator:" : "hjo 8/22/2009 16:57",
+		"userWantsToOverwriteGetter:" : "hjo 8/21/2009 13:45",
+		"userWantsToOverwriteSetter:" : "hjo 8/21/2009 20:47",
+		"userWantsToQuit" : "hjo 8/24/2009 16:27",
+		"userWantsToQuit:" : "hjo 8/23/2009 07:01" } }

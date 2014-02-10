@@ -1,4 +1,9 @@
 station
 testSeongsu
 
-	self assertStation: (line stations at: 1) lineName: '2-seongsu-branch' id: '211' name: 'Seongsu' secondName: nil
+	| station |
+	station := line stations at: 1.
+	self assert: station line equals: '2-seongsu-branch'.
+	self assert: station id equals: '211'.
+	self assert: station name equals: 'Seongsu'.
+	self assert: station secondName equals: nil

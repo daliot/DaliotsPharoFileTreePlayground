@@ -6,10 +6,4 @@ arrowKey: aCharacter from: aPluggableMultiColumnListMorph
 		ifTrue: [self taskListModel moveSelectionUp. self changed: #taskList. self changed: #taskListIndex.^self].
 	aCharacter =  $n
 		ifTrue: [self addTask. ^self].
-	aCharacter =  $x
-		ifTrue: [self deleteSelectedTask. ^self].
-	aCharacter =  $t
-		ifTrue: [self changeNameOfSelectedTask. ^self].
-	aCharacter =  $d
-		ifTrue: [self changeDurationOfSelectedTask. ^self].	
 	self error: 'not supported key'

@@ -1,0 +1,16 @@
+{
+	"category" : "LazyRabbit",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"subjectClass",
+		"variableName",
+		"defaultGeneratorSourceCode" ],
+	"name" : "LazyRabbitModel",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

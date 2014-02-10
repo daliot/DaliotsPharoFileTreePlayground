@@ -1,0 +1,14 @@
+{
+	"category" : "Daliot-Statisticals",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"sum" ],
+	"name" : "Accumulator",
+	"pools" : [
+		 ],
+	"super" : "StatisticsAgent",
+	"type" : "normal" }

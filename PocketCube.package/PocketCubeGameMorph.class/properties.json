@@ -10,5 +10,5 @@
 	"name" : "PocketCubeGameMorph",
 	"pools" : [
 		 ],
-	"super" : "BorderedMorph",
+	"super" : "RectangleMorph",
 	"type" : "normal" }

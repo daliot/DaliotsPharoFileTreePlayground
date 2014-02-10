@@ -1,13 +1,11 @@
 {
 	"class" : {
-		"initialize" : "hjo 3/25/2011 16:35",
-		"on:" : "hjo 1/31/2011 19:05",
-		"removeAllPatternClasses" : "hjo 3/25/2011 15:40" },
+		"on:" : "hjo 1/31/2011 19:05" },
 	"instance" : {
 		"oneStepBetter" : "hjo 2/1/2011 12:54",
 		"oneStepBetterWithPattern" : "hjo 2/1/2011 12:57",
 		"pattern:" : "hjo 2/2/2011 23:58",
 		"patternFound" : "hjo 2/3/2011 12:11",
 		"pocketCube:" : "hjo 2/1/2011 12:53",
-		"scanPattern" : "hjo 3/24/2011 19:27",
+		"scanPattern" : "hjo 2/21/2011 15:53",
 		"scanPattern:" : "hjo 2/3/2011 12:01" } }

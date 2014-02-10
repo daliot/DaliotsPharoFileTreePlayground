@@ -1,3 +1,0 @@
-testing
-canOpenInnerDifferenceAtKey: aByteString 
-	^false

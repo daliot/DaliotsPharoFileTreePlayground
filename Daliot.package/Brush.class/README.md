@@ -1,0 +1,1 @@
+Dolphin has Brush. Squeak does not. What is equivalent to Brush in Squeak?

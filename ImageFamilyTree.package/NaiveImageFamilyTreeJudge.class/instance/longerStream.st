@@ -1,0 +1,4 @@
+accessing
+longerStream
+
+	^longerStream

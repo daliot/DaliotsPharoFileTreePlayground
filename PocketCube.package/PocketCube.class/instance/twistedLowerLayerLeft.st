@@ -1,4 +1,0 @@
-breeding
-twistedLowerLayerLeft
-
-	^self copyForBreeding twistLowerLayerLeft

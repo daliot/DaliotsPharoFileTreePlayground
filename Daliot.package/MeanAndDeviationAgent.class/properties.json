@@ -1,0 +1,16 @@
+{
+	"category" : "Daliot-Statisticals",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"squaredSum",
+		"variance",
+		"standardDeviation" ],
+	"name" : "MeanAndDeviationAgent",
+	"pools" : [
+		 ],
+	"super" : "AverageAgent",
+	"type" : "normal" }

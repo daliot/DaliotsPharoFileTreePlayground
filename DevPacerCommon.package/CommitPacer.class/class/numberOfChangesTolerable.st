@@ -1,3 +1,0 @@
-accessing
-numberOfChangesTolerable
-^NumberOfChangesTolerable setDefault: #defaultNumberOfChangesTolerable for: self withSetter: #numberOfChangesTolerable:

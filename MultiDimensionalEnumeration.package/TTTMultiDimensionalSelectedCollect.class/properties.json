@@ -1,0 +1,14 @@
+{
+	"category" : "MultiDimensionalEnumeration",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"selectingBlock" ],
+	"name" : "TTTMultiDimensionalSelectedCollect",
+	"pools" : [
+		 ],
+	"super" : "TTTMultiDimensionalSelect",
+	"type" : "normal" }

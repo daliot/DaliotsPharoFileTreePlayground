@@ -18,4 +18,4 @@ registerToAnnouncements
 		on: MethodRemoved send: #systemChanged to: self;
 		on: ProtocolAdded send: #systemChanged to: self;
 		on: ProtocolRemoved send: #systemChanged to: self;
-		on: UnknownSystemChange send: #systemChanged to: self
+		on: ExpressionEvaluated send: #systemChanged to: self

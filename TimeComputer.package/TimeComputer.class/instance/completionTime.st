@@ -1,3 +1,3 @@
 answering
 completionTime
-	^DateAndTime now + self sumOfTaskDurations.
+	^Time now addSeconds: self sumOfTaskDurations asSeconds.

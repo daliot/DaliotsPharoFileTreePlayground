@@ -3,7 +3,7 @@ loadData: input for: lineId
 	| instance literalArrays prevStation nextStation accessor |
 	
 	instance := self new.
-	instance lineName: lineId.
+	instance line: lineId.
 	
 	literalArrays := input lines collect: [ :each |
 			self parseInputLine: each

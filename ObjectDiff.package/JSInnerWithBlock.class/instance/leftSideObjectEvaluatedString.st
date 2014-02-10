@@ -1,3 +1,0 @@
-self evaluating
-leftSideObjectEvaluatedString
-	^self leftSideObjectEvaluated printString 

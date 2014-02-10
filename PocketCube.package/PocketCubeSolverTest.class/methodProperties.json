@@ -1,0 +1,16 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"setUp" : "hjo 2/3/2011 13:21",
+		"testComplicatedCase2" : "hjo 2/3/2011 21:43",
+		"testComplicatedUpperLayerTwistedRight" : "hjo 2/3/2011 14:07",
+		"testFrontSideBackSideOneColor" : "hjo 2/3/2011 13:27",
+		"testOrder3Case1" : "hjo 2/7/2011 19:17",
+		"testOrder3Case2" : "hjo 2/7/2011 19:41",
+		"testSolved" : "hjo 2/3/2011 13:23",
+		"testUnknownPattern" : "hjo 2/3/2011 13:29",
+		"testUpperLayerTwistedLeftPattern" : "hjo 2/3/2011 13:31",
+		"testUpperLayerTwistedRightPattern" : "hjo 2/3/2011 13:31",
+		"testUpperLayerTwistedTwicePattern" : "hjo 2/3/2011 13:32",
+		"testVerticallyLayerTwistedPattern" : "hjo 2/3/2011 13:34" } }

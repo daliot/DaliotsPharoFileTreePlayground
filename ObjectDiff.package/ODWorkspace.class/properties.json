@@ -1,0 +1,17 @@
+{
+	"category" : "ObjectDiff-Sheet-GUI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"sheet",
+		"cellExtent",
+		"contents",
+		"win" ],
+	"name" : "ODWorkspace",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

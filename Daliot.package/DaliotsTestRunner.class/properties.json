@@ -1,0 +1,14 @@
+{
+	"category" : "Daliot",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "DaliotsTestRunner",
+	"pools" : [
+		 ],
+	"super" : "TestRunner",
+	"type" : "normal" }

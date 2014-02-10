@@ -1,4 +1,4 @@
 rotate
 rotateRight
 
-	self model rotateRight.
+	model rotateRight.

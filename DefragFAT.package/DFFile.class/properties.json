@@ -6,7 +6,8 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"fragments",
+		"continuousBytes",
+		"fragCount",
 		"fileSystem" ],
 	"name" : "DFFile",
 	"pools" : [

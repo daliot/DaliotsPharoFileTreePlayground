@@ -3,14 +3,8 @@
 		"on:withScrambler:" : "hjo 2/21/2011 15:17" },
 	"instance" : {
 		"colorToMatches" : "hjo 2/21/2011 12:59",
-		"generatePatternClass" : "hjo 3/24/2011 19:23",
-		"generatePatternClassForModifiedPocketCube" : "hjo 3/25/2011 15:13",
-		"generatePatternClassForUnmodifiedPocketCube" : "hjo 3/25/2011 15:12",
-		"implementationStringOfIsPatternOf" : "hjo 3/25/2011 15:08",
-		"implementationStringOfOneStepBetterDoNothing" : "hjo 3/25/2011 15:09",
-		"implementationStringOfOneStepBetterWithAction" : "hjo 3/25/2011 15:36",
+		"generatePatternClass" : "hjo 2/21/2011 15:53",
 		"patternMatchingCode" : "hjo 2/21/2011 13:46",
 		"pieceSet" : "hjo 2/21/2011 13:01",
 		"pocketCube:" : "hjo 2/21/2011 11:06",
-		"primGeneratePatternClass" : "hjo 3/25/2011 14:56",
 		"scrambler:" : "hjo 2/21/2011 15:16" } }

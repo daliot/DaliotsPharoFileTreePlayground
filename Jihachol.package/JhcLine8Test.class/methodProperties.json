@@ -3,9 +3,10 @@
 		 },
 	"instance" : {
 		"setUp" : "hjo 9/28/2009 13:16",
-		"testAmsa" : "hjo 10/31/2009 15:37",
-		"testJamsil" : "hjo 10/31/2009 15:37",
+		"testAmsa" : "hjo 10/23/2009 18:35",
+		"testJamsil" : "hjo 10/23/2009 18:34",
 		"testLineColor" : "hjo 10/13/2009 14:44",
-		"testSongpa" : "hjo 10/31/2009 15:38",
+		"testSongpa" : "hjo 10/23/2009 18:35",
+		"testStationAndVertexHandshake" : "hjo 9/29/2009 11:10",
 		"testTimeSpanFromAmsaToSongpa" : "hjo 10/12/2009 13:28",
 		"testTimeSpanFromBokjeongToSanseong" : "hjo 10/12/2009 13:31" } }

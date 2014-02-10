@@ -1,3 +1,3 @@
-annotation text
+self evaluating
 selection
 	^self list at: self selectionIndex

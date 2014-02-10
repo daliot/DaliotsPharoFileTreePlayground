@@ -1,0 +1,15 @@
+{
+	"category" : "Daliot-Plot",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"startPoint",
+		"direction" ],
+	"name" : "HalfLine2D",
+	"pools" : [
+		 ],
+	"super" : "Line2DAbstract",
+	"type" : "normal" }

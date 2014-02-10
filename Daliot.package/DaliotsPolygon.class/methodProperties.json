@@ -1,0 +1,15 @@
+{
+	"class" : {
+		"points:" : "hjo 7/15/2008 10:48" },
+	"instance" : {
+		"area" : "hjo 4/13/2008 06:52",
+		"asMorphicPolygon" : "hjo 7/18/2008 18:52",
+		"basicDrawOn:space2d:" : "hjo 7/25/2008 16:42",
+		"center" : "hjo 4/13/2008 06:52",
+		"centerOfMass" : "hjo 7/15/2008 10:52",
+		"containsPoint:" : "hjo 4/13/2008 13:18",
+		"convexValues" : "hjo 4/13/2008 06:52",
+		"isConcave" : "hjo 4/15/2008 18:05",
+		"points" : "hjo 4/13/2008 06:52",
+		"points:" : "hjo 4/13/2008 06:52",
+		"rectangle" : "hjo 4/13/2008 06:52" } }

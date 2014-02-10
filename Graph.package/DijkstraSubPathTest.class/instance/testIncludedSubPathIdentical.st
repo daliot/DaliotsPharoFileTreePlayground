@@ -1,4 +1,4 @@
 as yet unclassified
 testIncludedSubPathIdentical
 
-	self assert: (dij3 minimumCostFrom: b to: e) equals: 3
+	self assert: (e minimumCostFrom: b) equals: 3

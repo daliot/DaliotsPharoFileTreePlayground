@@ -1,0 +1,4 @@
+accessing
+subjectClass
+
+	^LazyRabbitTestResource current subjectClass

@@ -1,0 +1,4 @@
+window menu
+windowMenuBringBrowserForward
+	
+	browserController bringBrowserWindowForward

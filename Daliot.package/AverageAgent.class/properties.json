@@ -1,0 +1,15 @@
+{
+	"category" : "Daliot-Statisticals",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"count",
+		"mean" ],
+	"name" : "AverageAgent",
+	"pools" : [
+		 ],
+	"super" : "Accumulator",
+	"type" : "normal" }

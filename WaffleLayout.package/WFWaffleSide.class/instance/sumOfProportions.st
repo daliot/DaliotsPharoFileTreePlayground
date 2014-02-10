@@ -1,4 +1,4 @@
-as yet unclassified
+sum
 sumOfProportions
 
-	^(self proportionalLengths collect: #proportion) sum
+	^(self proportionalSegments collect: #proportion) sum

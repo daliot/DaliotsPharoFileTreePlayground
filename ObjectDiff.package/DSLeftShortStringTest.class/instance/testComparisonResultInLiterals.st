@@ -1,12 +1,3 @@
 as yet unclassified
 testComparisonResultInLiterals
-self assert: s comparisonResultInLiterals equals: 
-#(
-	#(#different 'object' '''hell''' '''hello''') 
-	#(#identical 'class' 'ByteString' 'ByteString') 
-	#(#different 'size' '4' '5') 
-	#(#identical '1' '$h' '$h') 
-	#(#identical '2' '$e' '$e') 
-	#(#identical '3' '$l' '$l') 
-	#(#identical '4' '$l' '$l') 
-	#(#leftMissing '5' '' '$o'))
+self assert: s comparisonResultInLiterals equals: #(#(#class #same) #(1 #identical) #(2 #identical) #(3 #identical) #(4 #identical) #(5 #leftMissing)) 

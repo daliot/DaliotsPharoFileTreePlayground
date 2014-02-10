@@ -1,3 +1,0 @@
-testing
-playerCanGoEast
-^self playerCell canGoEast

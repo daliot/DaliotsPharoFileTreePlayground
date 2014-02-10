@@ -3,4 +3,4 @@ testOpenOpen
 
 	range1 isStopOpen: true.
 	range2 isStartOpen: true.
-	self assert: (Range new start: 3; stop: 5; isStartOpen: true; isStopOpen: true) equals: (range1 intersection: range2)
+	self assertEquals: (Range new start: 3; stop: 5; isStartOpen: true; isStopOpen: true) to: (range1 intersection: range2)

@@ -1,0 +1,14 @@
+{
+	"category" : "DijEvolution-Test",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"evo" ],
+	"name" : "DijEvolutionTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

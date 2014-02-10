@@ -1,0 +1,15 @@
+{
+	"category" : "ObjectDiff-OD-Test",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"array1",
+		"array2" ],
+	"name" : "ODiffyArrayArrayTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

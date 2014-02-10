@@ -2,10 +2,10 @@
 	"class" : {
 		"matrix:" : "hjo 1/28/2012 19:35" },
 	"instance" : {
-		"isDetermined" : "hjo 1/29/2012 17:31",
+		"isFullyConstructed" : "hjo 1/28/2012 19:54",
 		"matrix" : "hjo 1/28/2012 19:35",
 		"matrix:" : "hjo 1/28/2012 19:35",
 		"matrixIndexOfAmbiguousElement" : "hjo 1/28/2012 19:45",
-		"possibilities" : "hjo 1/29/2012 17:30",
 		"printOn:" : "hjo 1/28/2012 20:23",
-		"putNumber:at:at:" : "hjo 1/28/2012 20:15" } }
+		"putNumber:at:at:" : "hjo 1/28/2012 20:15",
+		"spreadAmbiguous" : "hjo 1/28/2012 20:19" } }

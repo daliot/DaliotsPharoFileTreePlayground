@@ -1,4 +1,0 @@
-accessing
-controllerMatrixOfModifiedPocketCubes
-
-	^controllerMatrixOfModifiedPocketCubes setDefault: #defaultControllerMatrixOfModifiedPocketCubes for: self withSetter: #controllerMatrixOfModifiedPocketCubes:

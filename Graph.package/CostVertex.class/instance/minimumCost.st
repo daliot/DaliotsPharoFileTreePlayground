@@ -1,0 +1,4 @@
+accessing
+minimumCost
+
+	^minimumCostPaths minimum

@@ -2,8 +2,5 @@
 	"class" : {
 		 },
 	"instance" : {
-		"complexity" : "hjo 8/23/2012 18:21",
-		"complexityWithAllSuperclasses" : "hjo 8/23/2012 18:30",
 		"copyAs:" : "hjo 10/4/2008 17:41",
-		"copyAs:into:" : "hjo 10/4/2008 17:41",
-		"siblingClass:" : "hjo 9/9/2012 22:20" } }
+		"copyAs:into:" : "hjo 10/4/2008 17:41" } }

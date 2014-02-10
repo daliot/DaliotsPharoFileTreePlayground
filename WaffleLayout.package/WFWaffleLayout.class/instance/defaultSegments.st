@@ -1,0 +1,4 @@
+accessing
+defaultSegments
+
+	^WFWaffleSide new

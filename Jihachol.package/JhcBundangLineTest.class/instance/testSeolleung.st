@@ -1,4 +1,8 @@
 station
 testSeolleung
 
-	self assertStation: (line stations at: 1) lineName: 'Bundang' id: 'K215' name: 'Seolleung' secondName: nil
+	| s |
+	s := line stations at: 1.
+	self assert: s line equals: 'Bundang'.
+	self assert: s name equals: 'Seolleung'.
+	self assert: s id equals: 'K215'

@@ -3,7 +3,10 @@
 	"classinstvars" : [
 		 ],
 	"classvars" : [
-		 ],
+		"IconForEqual",
+		"IconForIdentical",
+		"IconForLeftMissing",
+		"IconForRightMissing" ],
 	"commentStamp" : "",
 	"instvars" : [
 		"diffSheet",

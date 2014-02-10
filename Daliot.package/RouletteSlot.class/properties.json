@@ -1,0 +1,15 @@
+{
+	"category" : "Daliot-Roulette",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"area",
+		"subject" ],
+	"name" : "RouletteSlot",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

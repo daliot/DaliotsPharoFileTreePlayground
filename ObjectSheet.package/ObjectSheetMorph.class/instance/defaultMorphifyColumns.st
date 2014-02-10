@@ -4,6 +4,6 @@ defaultMorphifyColumns
 	^sheetModel columns 
 		collect: 
 			[:each| 
-			OSMorphifyColumn new 
+			OSMorphifyColumn2 new 
 				column: each; 
 				objectSheetMorph: self]

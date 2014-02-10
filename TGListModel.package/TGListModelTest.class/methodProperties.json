@@ -2,10 +2,12 @@
 	"class" : {
 		 },
 	"instance" : {
+		"testDelete" : "HwaJong 1/31/2013 11:05",
 		"testDeleteSelection" : "hjo 4/14/2012 19:42",
 		"testInsertAllAt" : "hjo 4/14/2012 19:49",
 		"testInsertAt" : "hjo 4/14/2012 19:35",
 		"testInsertInsaneIndex" : "hjo 4/14/2012 18:31",
 		"testMoveSelectionDown" : "hjo 4/14/2012 18:38",
 		"testMoveSelectionUp" : "hjo 4/14/2012 18:37",
-		"testMoveSelectionUpDownWithOneItem" : "hjo 4/14/2012 18:40" } }
+		"testMoveSelectionUpDownWithOneItem" : "hjo 4/14/2012 18:40",
+		"testSettingListCorrectsSelectionIndex" : "HwaJong 1/31/2013 11:00" } }

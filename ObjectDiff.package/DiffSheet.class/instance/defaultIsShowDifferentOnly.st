@@ -1,3 +1,0 @@
-self evaluating
-defaultIsShowDifferentOnly
-	^false

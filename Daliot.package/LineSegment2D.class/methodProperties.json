@@ -1,0 +1,20 @@
+{
+	"class" : {
+		"point1:point2:" : "hjo 7/25/2008 17:43" },
+	"instance" : {
+		"=" : "hjo 7/25/2008 17:40",
+		"basicDrawOn:space2d:" : "hjo 7/25/2008 17:41",
+		"center" : "hjo 7/25/2008 17:41",
+		"crossPointExcludingEndPoints:" : "hjo 7/25/2008 17:41",
+		"detailsStringForSmallVisionList" : "hjo 7/25/2008 17:41",
+		"direction" : "hjo 7/25/2008 17:41",
+		"hash" : "hjo 7/25/2008 17:41",
+		"includes:" : "hjo 7/25/2008 17:42",
+		"includingPoint" : "hjo 7/25/2008 17:42",
+		"isLineSegment" : "hjo 7/25/2008 17:42",
+		"length" : "hjo 7/25/2008 17:42",
+		"point1" : "hjo 7/25/2008 17:42",
+		"point1:" : "hjo 7/25/2008 17:42",
+		"point2" : "hjo 7/25/2008 17:42",
+		"point2:" : "hjo 7/25/2008 17:42",
+		"typeStringForSmallVisionShellList" : "hjo 7/25/2008 17:42" } }

@@ -3,4 +3,4 @@ initialize
 
 	super initialize.
 	list := Array new.
-	selectionIndex := 0.
+	self selectNone.

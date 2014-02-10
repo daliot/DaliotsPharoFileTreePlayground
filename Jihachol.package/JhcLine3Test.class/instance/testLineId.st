@@ -1,3 +1,3 @@
 etc
 testLineId
-	self assert: ('3' = line lineName)
+	self assert: ('3' = line line)

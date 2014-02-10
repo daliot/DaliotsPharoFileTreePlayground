@@ -9,7 +9,7 @@ testNodeNames
 	
 	self assert: (graph vertexNamed: 'a') equals: v.
 	
-	v masterObject: 'c'.
+	graph name: v as: 'c'.
 	self assert: (graph vertexNamed: 'c') equals: v.
 	self assert: (graph vertexNames includes: 'c').
 	self assert: (graph nodeNames includes: 'c')

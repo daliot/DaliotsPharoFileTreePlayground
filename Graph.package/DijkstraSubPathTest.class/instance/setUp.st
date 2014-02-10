@@ -15,7 +15,7 @@ setUp
 	c connect: d cost: 1.
 	d connect: e cost: 1.
 	e connect: f cost: 1.
-
-	dij3 := Dijkstra4 new.
-	self assert: (dij3 minimumCostFrom: b to: e) equals: 3
+	
+	e computeMinimumCostGraphPathsFrom: b.	
+	self assert: e minimumCost equals: 3
 	

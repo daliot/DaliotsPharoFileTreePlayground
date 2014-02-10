@@ -1,0 +1,14 @@
+{
+	"category" : "Daliot-Plot",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "Point2DAbstract",
+	"pools" : [
+		 ],
+	"super" : "Centered2DObject",
+	"type" : "normal" }

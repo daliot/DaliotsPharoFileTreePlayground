@@ -6,9 +6,11 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"lengths",
 		"range",
-		"absoluteLengthPerProportion" ],
+		"absoluteLengthPerProportion",
+		"segments",
+		"boundaryFromNameToIndex",
+		"nameToSegmentIndex" ],
 	"name" : "WFWaffleSide",
 	"pools" : [
 		 ],

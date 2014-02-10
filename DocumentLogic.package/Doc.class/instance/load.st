@@ -1,3 +1,3 @@
 actions
 load
-isNew := false.
+hasSaveMedium := true.

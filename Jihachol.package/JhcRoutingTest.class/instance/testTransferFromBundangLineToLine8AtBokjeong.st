@@ -9,7 +9,7 @@ testTransferFromBundangLineToLine8AtBokjeong
 	line8 add: (JhcStation newName: 'Sanseong' line: '8' id: '821').
 	line8 add: (JhcStation newName: 'Namhansanseong' secondName: 'Seongnam Court & Public Prosecutor''s Office' line: '8' id: '822').
 
-	line8 doCouple: [:a :b| a connect: b cost: 2 ].
+	line8 doCouple: [:a :b| a graphVertex connect: b graphVertex cost: 2 ].
 	
 	bundangLine := OrderedCollection new.
 	bundangLine add: (JhcStation newName: 'Gaepo-dong' line: 'Bundang' id: 'K219').
@@ -20,7 +20,7 @@ testTransferFromBundangLineToLine8AtBokjeong
 	bundangLine add: (JhcStation newName: 'Taepyeong' line: 'Bundang' id: 'K224').
 	bundangLine add: (JhcStation newName: 'Moran' line: 'Bundang' id: 'K225').
 
-	bundangLine doCouple: [:a :b| a connect: b cost: 2 ].
-	(line8 at: 3) connectSplittingStation: (bundangLine at: 4) cost: 7. "transfer link"
+	bundangLine doCouple: [:a :b| a graphVertex connect: b graphVertex cost: 2 ].
+	(line8 at: 3) graphVertex connect: (bundangLine at: 4) graphVertex cost: 7. "transfer link"
 	
 	self assert: (line8 first timespanMinutesTo: bundangLine last) equals: 17

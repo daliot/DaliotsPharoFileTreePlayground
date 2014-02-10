@@ -1,0 +1,15 @@
+{
+	"category" : "Daliot",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"history",
+		"delta" ],
+	"name" : "SSTrainer",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

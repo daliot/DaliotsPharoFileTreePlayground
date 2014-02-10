@@ -2,9 +2,13 @@
 	"class" : {
 		 },
 	"instance" : {
-		"hasSaveMedium" : "HwaJong 10/5/2012 14:28",
-		"hasUnsavedChange" : "HwaJong 10/5/2012 14:10",
-		"initialize" : "HwaJong 10/3/2012 16:40",
-		"load" : "HwaJong 10/3/2012 18:06",
-		"modify" : "HwaJong 10/3/2012 17:49",
-		"saveAs" : "HwaJong 10/3/2012 22:13" } }
+		"hasSaveMedium" : "HwaJong 10/5/2012 14:39",
+		"hasUnsavedChange" : "HwaJong 10/5/2012 14:38",
+		"initialize" : "HwaJong 10/5/2012 14:39",
+		"load" : "HwaJong 10/5/2012 14:39",
+		"modify" : "HwaJong 10/5/2012 14:38",
+		"saveAs" : "HwaJong 10/6/2012 16:32",
+		"saveAs:" : "HwaJong 10/6/2012 16:32",
+		"whatAreYouGoingToDoWhenUserCloses" : "HwaJong 10/8/2012 08:41",
+		"whatAreYouGoingToDoWhenUserLoads" : "HwaJong 10/8/2012 08:41",
+		"whatAreYouGoingToDoWhenUserSaves" : "HwaJong 10/8/2012 08:41" } }

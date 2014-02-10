@@ -1,0 +1,16 @@
+{
+	"category" : "InteractiveBisect-Auto",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"interactiveBisect",
+		"evaluator",
+		"state" ],
+	"name" : "AutoBisect",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

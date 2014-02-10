@@ -1,0 +1,14 @@
+{
+	"category" : "Daliot-Plot",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"center" ],
+	"name" : "Centered2DObject",
+	"pools" : [
+		 ],
+	"super" : "Plot2DObject",
+	"type" : "normal" }

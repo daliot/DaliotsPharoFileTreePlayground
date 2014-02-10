@@ -2,4 +2,4 @@ as yet unclassified
 testTtukseomHasOneLine
 	| station |
 	station := line stationAtName: 'Ttukseom'.
-	self assert: station lineNames equalsArray: #('2')
+	self assert: station lines equalsArray: #('2')

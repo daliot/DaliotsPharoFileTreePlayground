@@ -1,0 +1,14 @@
+{
+	"category" : "Daliot-FileSync",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"o" ],
+	"name" : "FileSyncSideTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

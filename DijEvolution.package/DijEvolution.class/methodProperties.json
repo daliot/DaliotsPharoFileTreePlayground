@@ -1,18 +1,20 @@
 {
 	"class" : {
-		 },
+		"forGraph" : "hjo 6/28/2012 11:11",
+		"modulo17" : "hjo 6/28/2012 11:14" },
 	"instance" : {
-		"addChildrenToCostSortedObjects" : "hjo 6/28/2012 01:21",
-		"addSeed:" : "hjo 6/27/2012 16:31",
+		"addChildrenToCostSortedLives" : "hjo 7/5/2012 05:17",
+		"addSeed:" : "hjo 6/28/2012 11:59",
 		"ancestors" : "hjo 6/27/2012 13:49",
 		"breedingCode:" : "hjo 6/28/2012 00:38",
-		"canStep" : "hjo 6/27/2012 20:32",
-		"costSortedObjects" : "hjo 6/27/2012 13:51",
-		"dropChildren" : "hjo 6/28/2012 01:21",
-		"getLeastCostLifeFromSorted" : "hjo 6/27/2012 16:59",
-		"initialize" : "hjo 6/28/2012 00:40",
-		"jionLeastCostLifeToAncestors" : "hjo 6/27/2012 17:00",
-		"leaveOnlyTheLeastCostLifeIfThereAreManyLivesOfSameObjectsInTheCostSortedObjects" : "hjo 6/28/2012 01:27",
+		"canStep" : "hjo 6/28/2012 11:59",
+		"costSortedLives" : "hjo 6/28/2012 11:59",
+		"dropChildren" : "hjo 7/8/2012 14:06",
+		"getLeastCostLifeFromSorted" : "hjo 6/28/2012 11:59",
+		"initialize" : "hjo 7/8/2012 14:03",
+		"jionLeastCostLifeToAncestors" : "hjo 7/8/2012 13:52",
 		"makeChildren" : "hjo 6/28/2012 01:21",
-		"runUntilEqual:" : "hjo 6/28/2012 00:42",
-		"step" : "hjo 6/28/2012 01:27" } }
+		"run" : "hjo 6/28/2012 09:01",
+		"runUntil:" : "hjo 7/8/2012 13:52",
+		"runUntilEqual:" : "hjo 7/4/2012 11:37",
+		"step" : "hjo 7/5/2012 07:39" } }

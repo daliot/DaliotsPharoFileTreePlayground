@@ -1,0 +1,18 @@
+{
+	"class" : {
+		"penColorStream" : "hjo 7/25/2008 16:18",
+		"penColorStream:" : "hjo 7/25/2008 16:18" },
+	"instance" : {
+		"detailsStringForSmallVisionList" : "hjo 4/13/2008 13:56",
+		"drawOn:space2d:" : "hjo 4/13/2008 13:56",
+		"flashIn:" : "hjo 4/13/2008 13:56",
+		"isCharacterRecognizer" : "hjo 4/13/2008 13:56",
+		"isLineSegment" : "hjo 4/13/2008 13:56",
+		"isRectangle" : "hjo 4/13/2008 13:56",
+		"pen" : "hjo 4/13/2008 13:56",
+		"pen:" : "hjo 4/13/2008 13:56",
+		"setAsModel:ofSubPresenter:" : "hjo 4/13/2008 14:09",
+		"setAsModelOfSubPresenter:" : "hjo 4/13/2008 14:09",
+		"setAsModelOfSubPresenterInSmallVisionShell:" : "hjo 4/13/2008 14:09",
+		"thickenPenIfIncludedIn:" : "hjo 4/13/2008 14:09",
+		"typeStringForSmallVisionShellList" : "hjo 4/13/2008 14:09" } }

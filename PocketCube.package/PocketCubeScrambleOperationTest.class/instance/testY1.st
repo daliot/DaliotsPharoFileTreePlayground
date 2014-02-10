@@ -1,5 +1,5 @@
 as yet unclassified
 testY1
 
-	self assert: ({PoRotateCounterClockwise. PoTwistUpperLayerRight. PoRotateClockwise} collect: [:each| each singleton]) equals: (ScrambleY new amount: 1) operations
+	self assert: #(#rotateCounterClockwise #twistUpperLayerRight #rotateClockwise) equals: (ScrambleY new amount: 1) operations
 	

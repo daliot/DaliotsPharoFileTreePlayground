@@ -1,4 +1,4 @@
 list
 iconOfNode: aPluggableTreeItemNode 
 ^aPluggableTreeItemNode item
-	ifIdentical: [ODIdenticalIcon formThatCached] ifEqual: [ODEqualIcon formThatCached] ifDifferent: [ODDifferentIcon formThatCached] ifLeftMissing: [ODLeftMissingIcon formThatCached] ifRightMissing: [ODRightMissingIcon formThatCached]
+	ifIdentical: [self class iconForRightMissing.] ifEqual: [self class iconForRightMissing.] ifDifferent: [self class iconForRightMissing.] ifLeftMissing: [self class iconForLeftMissing.] ifRightMissing: [self class iconForRightMissing.]

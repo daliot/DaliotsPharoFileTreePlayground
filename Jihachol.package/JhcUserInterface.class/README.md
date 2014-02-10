@@ -1,1 +1,0 @@
-I am the main object of Jihachol project. Users will not talk to any other object but me.

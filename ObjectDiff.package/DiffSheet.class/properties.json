@@ -7,9 +7,7 @@
 	"commentStamp" : "",
 	"instvars" : [
 		"leftSideObject",
-		"rightSideObject",
-		"comparisonList",
-		"isShowDifferentOnly" ],
+		"rightSideObject" ],
 	"name" : "DiffSheet",
 	"pools" : [
 		 ],

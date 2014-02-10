@@ -1,4 +1,6 @@
 querying
 timespanMinutesFromSingleStation: aJhcStation 
-
-	^(((Array with: self graphVertices with:aJhcStation graphVertices) multiDimensionalCollect2:[:a :b|a minimumCostFrom: b]) select: [:each| each isNumber]) min
+	
+	self revisit: 'CostVertices in the Graph must be initialized some how.'.
+	self graphVertex computeMinimumCostGraphPathsFrom: aJhcStation graphVertex.
+	^self graphVertex minimumCost

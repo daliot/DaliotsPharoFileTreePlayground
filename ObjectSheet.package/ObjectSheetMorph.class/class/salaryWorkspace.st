@@ -31,6 +31,7 @@ os := ObjectSheet new
 	addRow: 'all month' object: {5. 2. 0};
 	addRow: 'all month + 1 event day' object: {5. 2. 1}.
 
-os openInWindowWithRowHeaders bounds: ((40@210) corner: (931@462)).
-dailyCharge openInWindowWithRowHeaders bounds: ((330@31) corner: (583@195)).
-constants openInWindowWithRowHeaders bounds: ((43@32) corner: (318@197)).
+os openWithRowHeaders.
+dailyCharge openWithRowHeaders.
+constants openWithRowHeaders.
+

@@ -2,10 +2,9 @@
 	"class" : {
 		 },
 	"instance" : {
-		"ifExpressionOfTopOfStackIsBinaryExpressionWithNilRight:ifRightOfBinaryExpressionIsNumberExpression:ifExpressionOfTopOfStackIsNumberExpression:else:" : "hjo 8/13/2012 10:42",
-		"initialize" : "hjo 8/12/2012 14:22",
-		"makeParsingDictionary" : "hjo 8/12/2012 18:37",
+		"initialize" : "hjo 8/11/2012 18:38",
+		"makeParsingDictionary" : "hjo 8/11/2012 18:35",
 		"run" : "hjo 8/11/2012 21:07",
 		"sourceString:" : "hjo 8/11/2012 18:41",
 		"stack" : "hjo 8/11/2012 16:53",
-		"step" : "hjo 8/12/2012 18:18" } }
+		"step" : "hjo 8/11/2012 17:02" } }

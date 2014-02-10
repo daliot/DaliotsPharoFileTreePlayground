@@ -1,0 +1,16 @@
+{
+	"category" : "ObjectDiff",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"leftSideObject",
+		"rightSideObject",
+		"key" ],
+	"name" : "KSInsideComparison",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

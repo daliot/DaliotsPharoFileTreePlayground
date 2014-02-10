@@ -7,8 +7,8 @@ updateResults
 	
 	"BEGIN PATCH DevPacer"
 	(result hasPassed and: [result runCount > 0])
-		ifTrue: [TestPacer colorOfTestRunnerGotGreen ]
-		ifFalse: [TestPacer colorOfTestRunnerGotNotGreen ].
+		ifTrue: [(Smalltalk at: #TestPacer) colorOfTestRunnerGotGreen ]
+		ifFalse: [(Smalltalk at: #TestPacer) colorOfTestRunnerGotNotGreen ].
 	"END PATCH DevPacer"
 	
 	failedList size = result failures size ifFalse: [

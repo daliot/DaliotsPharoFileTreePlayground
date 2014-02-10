@@ -8,8 +8,7 @@
 	"instvars" : [
 		"pathFrom",
 		"lastVertex",
-		"edgeToLastVertex",
-		"firstVertex" ],
+		"edgeToLastVertex" ],
 	"name" : "GraphPath",
 	"pools" : [
 		 ],

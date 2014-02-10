@@ -11,7 +11,7 @@ sh addColumn: 'xor' aspect: [:arr| (arr at: 1) xor: [arr at: 2]].
 {{false. false}. {false. true}. {true. false}. {true. true}} 
 	do: [:m| sh addRow: m printString object: m].
 
-mo := ModelForPluggableMultiColumnListMorphOnObjectSheet new objectSheet: sh.
+mo := ObjectSheetPluggableMultiColumnListMorphModel new objectSheet: sh.
 
 li := PluggableMultiColumnListMorph on: mo list: #stringsForMutliColumnListMorph selected: #selectionIndex changeSelected: #selectionIndex: menu: nil wrapSelector: #yourself.
-(li openInWindowLabeled: 'pluggable list') extent: (255@131)
+li openInWindowLabeled: 'yes'

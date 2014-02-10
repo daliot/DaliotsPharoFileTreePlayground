@@ -1,0 +1,14 @@
+{
+	"category" : "ObjectDiff",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "KSRightPartMissing",
+	"pools" : [
+		 ],
+	"super" : "KSInsideComparison",
+	"type" : "normal" }

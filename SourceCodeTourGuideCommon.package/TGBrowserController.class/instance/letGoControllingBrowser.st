@@ -1,11 +1,11 @@
 command
 letGoControllingBrowser
 
-	windowBackingMorph ifNil: [ self createBackingMorph ].
-	windowBackingMorph browserController: nil.
-	windowBackingMorph delete.
+	self deemphasisControlledWindow.
 	
 	window := nil.
 	browser := nil.
 	
 	self changed: #colorOfSlaveBrowser.
+	self changed: #labelForPickButton.
+	self announcer announce: SlavedABrowserOrFreedASaveBrowserAnnouncement.

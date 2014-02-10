@@ -2,11 +2,6 @@
 	"class" : {
 		 },
 	"instance" : {
-		"setUp" : "hjo 4/24/2011 07:01",
-		"testDefrag" : "hjo 4/18/2011 00:19",
-		"testOp1MoveFragmentToEndOfDisk" : "hjo 4/24/2011 08:24",
-		"testOp2MoveFragmentToBeginOfDisk" : "hjo 4/24/2011 08:34",
-		"testOp3MoveFragmentToBeginOfDisk" : "hjo 4/24/2011 08:36",
-		"testOp4MoveFragmentToBeginOfDisk" : "hjo 4/24/2011 08:51",
-		"testOp5UnifyToOneFragment" : "hjo 4/24/2011 08:56",
+		"setUp" : "hjo 4/17/2011 17:45",
+		"testDefrag" : "hjo 4/17/2011 15:36",
 		"testSetUp" : "hjo 4/17/2011 15:20" } }

@@ -1,3 +1,0 @@
-*quickprototypingcommon
-beHorizontalFilling
-	self beHorizontalFillingWithHeight: self height

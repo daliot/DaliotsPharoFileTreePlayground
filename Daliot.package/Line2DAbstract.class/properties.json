@@ -1,0 +1,16 @@
+{
+	"category" : "Daliot-Plot",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"a",
+		"b",
+		"c" ],
+	"name" : "Line2DAbstract",
+	"pools" : [
+		 ],
+	"super" : "Plot2DObject",
+	"type" : "normal" }

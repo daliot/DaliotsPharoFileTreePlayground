@@ -1,0 +1,17 @@
+{
+	"category" : "Daliot-Mapper",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"foreRatio",
+		"backRatio",
+		"domainStart",
+		"rangeStart" ],
+	"name" : "IntervalMapper",
+	"pools" : [
+		 ],
+	"super" : "MapperAbstract",
+	"type" : "normal" }

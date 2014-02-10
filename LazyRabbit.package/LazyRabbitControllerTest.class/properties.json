@@ -1,0 +1,14 @@
+{
+	"category" : "LazyRabbit",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"rabbit" ],
+	"name" : "LazyRabbitControllerTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

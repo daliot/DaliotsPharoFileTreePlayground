@@ -2,9 +2,15 @@
 	"class" : {
 		 },
 	"instance" : {
+		"addClass:" : "hjo 9/1/2011 17:39",
+		"addClassTree:" : "hjo 9/2/2011 00:31",
 		"appleScriptStream" : "hjo 6/16/2009 17:51",
 		"appleScriptStream:" : "hjo 6/16/2009 17:51",
-		"appleScriptVariableNameForClass:" : "hjo 9/1/2011 12:54",
 		"defaultAppleScriptStream" : "hjo 6/16/2009 17:51",
-		"writeAllClassesToFileUnder:" : "hjo 9/1/2011 13:01",
-		"writeAllClassesToFileUnderProtoObject" : "hjo 9/1/2011 12:52" } }
+		"defaultDependencySorter" : "hjo 9/1/2011 16:51",
+		"dependencySorter" : "hjo 9/1/2011 16:50",
+		"dependencySorter:" : "hjo 9/1/2011 16:50",
+		"nonRootClasses" : "hjo 9/1/2011 17:42",
+		"rootClasses" : "hjo 9/1/2011 17:41",
+		"writeAddedClassesToFile" : "hjo 9/2/2011 00:40",
+		"writeAllClassesToFile" : "hjo 9/2/2011 02:12" } }

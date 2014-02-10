@@ -1,3 +1,0 @@
-defaults
-defaultNumberOfChangesTolerable
-^50

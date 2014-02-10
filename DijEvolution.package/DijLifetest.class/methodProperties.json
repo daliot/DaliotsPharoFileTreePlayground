@@ -1,0 +1,9 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"setUp" : "hjo 6/28/2012 16:10",
+		"testBirthMessageChain" : "hjo 6/28/2012 23:20",
+		"testGiveBirthWithCost" : "hjo 6/28/2012 16:14",
+		"testGiveBirthWithCost2" : "hjo 6/28/2012 16:16",
+		"testSetUp" : "hjo 6/28/2012 16:14" } }

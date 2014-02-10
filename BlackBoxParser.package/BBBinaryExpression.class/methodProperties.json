@@ -3,10 +3,7 @@
 		 },
 	"instance" : {
 		"gettersForEquality" : "hjo 8/11/2012 21:12",
-		"isBinaryExpression" : "hjo 8/11/2012 22:06",
-		"isComplete" : "hjo 8/11/2012 22:07",
 		"left" : "hjo 8/11/2012 21:15",
 		"left:" : "hjo 8/11/2012 16:54",
 		"right" : "hjo 8/11/2012 21:15",
-		"right:" : "hjo 8/11/2012 16:55",
-		"rightIsNil" : "hjo 8/12/2012 15:24" } }
+		"right:" : "hjo 8/11/2012 16:55" } }

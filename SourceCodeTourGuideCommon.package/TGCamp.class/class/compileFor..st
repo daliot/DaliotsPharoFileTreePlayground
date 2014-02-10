@@ -14,3 +14,6 @@ compileFor: aSourceCodeTourGuide
 		index := index + 1 ].
 
 	self compileToCampMethod: (String streamContents: [:stream| stream nextPutAll: 'title';cr;cr;tab;nextPut:$^;nextPutAll: aSourceCodeTourGuide title printString]).
+	self compileToCampMethod: 
+'selectionIndex
+	^', aSourceCodeTourGuide nodeSelectionIndex printString.

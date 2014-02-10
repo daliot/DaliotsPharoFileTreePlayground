@@ -6,11 +6,11 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
+		"line",
 		"idPrefix",
 		"stations",
 		"integerStream",
-		"lineColor",
-		"lineName" ],
+		"lineColor" ],
 	"name" : "JhcLine",
 	"pools" : [
 		 ],

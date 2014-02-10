@@ -3,6 +3,6 @@
 		 },
 	"instance" : {
 		"setUp" : "jhan 10/13/2009 10:04",
-		"testStationAtNameLine" : "hjo 10/31/2009 14:04",
+		"testStationAtNameLine" : "hjo 10/13/2009 13:06",
 		"testTransferStationHasIdenticalNameAndIdOfItsSubStations" : "jhan 10/13/2009 10:07",
-		"testTransferTimespan" : "hjo 10/31/2009 14:04" } }
+		"testTransferTimespan" : "hjo 10/13/2009 12:32" } }

@@ -1,4 +1,0 @@
-accessing
-choices
-
-	^choices

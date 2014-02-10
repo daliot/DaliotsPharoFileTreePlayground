@@ -1,0 +1,4 @@
+compiling
+createDefaultGeneratorMehtod
+
+	self compileAsDefaults: self sourceCodeForCreatingDefaultGeneratorMethod

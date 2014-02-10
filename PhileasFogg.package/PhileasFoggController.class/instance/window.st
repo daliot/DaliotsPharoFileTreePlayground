@@ -1,8 +1,6 @@
-view making
+as yet unclassified
 window
 
 	window ifNil: [
-		window := self contentView openInWindow.
-		window model: self.
-		self reorganizeViews.
+		window := self contentView openInWindow. 
 		window setLabel: 'Phileas Fogg' ]  

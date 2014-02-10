@@ -3,10 +3,10 @@
 		 },
 	"instance" : {
 		"setUp" : "hjo 10/13/2009 13:30",
-		"testCheongnyangni" : "hjo 10/31/2009 16:41",
-		"testDongdaemun" : "hjo 10/31/2009 16:48",
+		"testCheongnyangni" : "hjo 10/19/2009 17:08",
+		"testDongdaemun" : "hjo 10/19/2009 17:09",
 		"testFromDongdaemunToJegidong" : "hjo 10/13/2009 13:40",
 		"testFromSeoulStationToJonggak" : "hjo 10/13/2009 13:36",
 		"testFromSeoulStationToSeoulStation" : "hjo 10/13/2009 13:39",
 		"testLineColor" : "hjo 10/13/2009 13:50",
-		"testSeoulStation" : "hjo 10/31/2009 16:48" } }
+		"testSeoulStation" : "hjo 10/19/2009 17:09" } }

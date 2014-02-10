@@ -1,0 +1,15 @@
+{
+	"category" : "Daliot",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"string",
+		"range" ],
+	"name" : "HighlightedString",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

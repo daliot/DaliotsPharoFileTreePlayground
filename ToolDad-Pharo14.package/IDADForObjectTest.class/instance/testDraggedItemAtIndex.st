@@ -4,8 +4,7 @@ testDraggedItemAtIndex
 	"draggedItemAtIndex:"
 	self assert: (inspector draggedItemAtIndex: 0) equals: ''.
 	self assert: (inspector draggedItemAtIndex: 1) equals: inspector object. "self"
-	self assert: (inspector draggedItemAtIndex: 2) equals: 
-'bounds: 	(0@0) corner: (50@40)
+	self assert: (inspector draggedItemAtIndex: 2) equals: 'bounds: 	0@0 corner: 50@40
 owner: 	nil
 submorphs: 	#()
 fullBounds: 	nil

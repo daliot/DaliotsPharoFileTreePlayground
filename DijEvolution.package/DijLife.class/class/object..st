@@ -1,4 +1,4 @@
 instance creation
 object: anObject 
 
-	^self new object: anObject
+	^self object: anObject cost: 0

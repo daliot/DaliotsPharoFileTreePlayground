@@ -3,7 +3,7 @@ line2SinjeongBranch
 
 	| instance |
 	instance := self new.
-	instance lineName: '2-sinjeong-branch'.
+	instance line: '2-sinjeong-branch'.
 	
 	#(
 		('Sindorim' '234')
@@ -15,6 +15,5 @@ line2SinjeongBranch
 		do: [:data| 
 			instance addStationNamed: data first id: data second ].
 	instance connectStationsWithEdgesWithTimeSpanMinutes: #(2 3 4 3).
-	instance lineColor: (Color r: 51/255 g: 162/255 b: 61/255).
 	^instance
 	

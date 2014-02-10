@@ -1,0 +1,14 @@
+{
+	"category" : "Daliot-Plot",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"rectangle" ],
+	"name" : "Rectangle2D",
+	"pools" : [
+		 ],
+	"super" : "Plot2DObject",
+	"type" : "normal" }

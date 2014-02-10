@@ -1,0 +1,15 @@
+{
+	"category" : "Daliot-AppleScript",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"appleScriptStream",
+		"writtenClasses" ],
+	"name" : "OmniOutlinerDocumentOfSmalltalkClassHierarchyGeneratingAppleScriptWriter",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

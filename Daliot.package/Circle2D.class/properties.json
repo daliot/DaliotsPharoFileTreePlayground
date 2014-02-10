@@ -1,0 +1,14 @@
+{
+	"category" : "Daliot-Plot",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"radius" ],
+	"name" : "Circle2D",
+	"pools" : [
+		 ],
+	"super" : "Centered2DObject",
+	"type" : "normal" }

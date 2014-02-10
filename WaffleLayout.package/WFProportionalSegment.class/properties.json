@@ -1,0 +1,14 @@
+{
+	"category" : "WaffleLayout",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"waffleSide" ],
+	"name" : "WFProportionalSegment",
+	"pools" : [
+		 ],
+	"super" : "WFSegment",
+	"type" : "normal" }

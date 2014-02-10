@@ -5,13 +5,10 @@
 		"easeInOut:" : "hjo 12/14/2011 17:36",
 		"easeOut:" : "hjo 12/14/2011 17:36",
 		"exampleBigBang" : "hjo 12/17/2011 15:29",
-		"exampleCompareTimeFunctions" : "hjo 1/11/2012 10:47",
+		"exampleCompareTimeFunctions" : "hjo 12/14/2011 19:11",
 		"exampleDispatch" : "hjo 12/18/2011 21:35",
 		"exampleFinishedOperation" : "hjo 12/14/2011 23:47",
-		"exampleGrouping" : "hjo 12/28/2011 17:49",
-		"exampleSpiral" : "hjo 12/21/2011 10:53",
-		"exampleWalker" : "hjo 12/18/2011 20:45",
-		"sunEarthMoon" : "hjo 1/1/2012 16:58" },
+		"exampleWalker" : "hjo 12/18/2011 20:45" },
 	"instance" : {
 		"animatedTime" : "hjo 12/14/2011 16:37",
 		"animatedTime:" : "hjo 12/14/2011 16:51",
@@ -34,5 +31,4 @@
 		"timeFunction:" : "hjo 12/14/2011 17:43",
 		"useEaseInOutTimeFunction" : "hjo 12/14/2011 17:21",
 		"useEaseInTimeFunction" : "hjo 12/14/2011 17:16",
-		"useEaseOutTimeFunction" : "hjo 12/14/2011 17:17",
-		"useJumpTimeFunction" : "hjo 1/7/2012 10:48" } }
+		"useEaseOutTimeFunction" : "hjo 12/14/2011 17:17" } }

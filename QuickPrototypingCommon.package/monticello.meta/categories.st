@@ -1,2 +1,1 @@
-SystemOrganization addCategory: #Quickprototypingcommon!
-SystemOrganization addCategory: 'Quickprototypingcommon-QuickPrototypingCommon'!
+SystemOrganization addCategory: #QuickPrototypingCommon!

@@ -2,7 +2,7 @@ running
 setUp
 
 	super setUp.
-	pocketCube := PocketCubeWithMemory new.
+	pocketCube := PocketCube new.
 	pocketCube topSide: (PocketCubeSide upperLeftPiece: 1 upperRightPiece: 2 lowerLeftPiece: 3 lowerRightPiece: 4).
 	pocketCube leftSide: (PocketCubeSide upperLeftPiece: 5 upperRightPiece: 6 lowerLeftPiece: 13 lowerRightPiece: 14).
 	pocketCube bottomSide: (PocketCubeSide upperLeftPiece: 21 upperRightPiece: 22 lowerLeftPiece: 23 lowerRightPiece: 24).

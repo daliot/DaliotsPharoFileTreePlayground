@@ -1,4 +1,4 @@
-accessing
+as yet unclassified
 superclassButton
 
-	^superclassButton setDefault: #defaultSuperclassButton for: self withSetter: #superclassButton:
+	^superclassButton ifNil: [superclassButton := PluggableButtonMorph on: self getState: nil action: #goSuperclass label: #nameOfSuperclass  ].

@@ -1,20 +1,11 @@
 testing
 judgeResult
 
-	stream1 size > stream2 size
-		ifTrue: [ shorterStream := stream2. longerStream := stream1 ]
-		ifFalse: [ shorterStream := stream1. longerStream := stream2 ]. 
-		
-	binarySearch := BinarySearcherForIntegerToBoolean new.
-	binarySearch left: 0.
-	binarySearch right: shorterStream size.
-	binarySearch equation: [:pos| 
-		shorterStream position: pos.
-		longerStream position: pos.
-		shorterStream peek = longerStream peek ].
+	self decideShortStreamAndLongStream.
+	self makeBinarySearch.
 	
-	(shorterStream size = longerStream size 
-	and: [(binarySearch value: shorterStream size) = 1] ) ifTrue: [ ^IdenticalJRIFT new ].
+	self streamsAreIdentical
+		ifTrue: [ ^IdenticalJRIFT new ].
 	
 	differBegin := binarySearch solve.
 	

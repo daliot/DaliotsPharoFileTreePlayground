@@ -1,4 +1,4 @@
-as yet unclassified
+computing
 defaultAbsoluteLengthPerProportion
 	
-	^self lengthThatProportionalLengthsMayDivide / self sumOfProportions
+	^self lengthThatProportionalSegmentsMayDivide / self sumOfProportions

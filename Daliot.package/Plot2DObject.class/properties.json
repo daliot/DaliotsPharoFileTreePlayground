@@ -1,0 +1,14 @@
+{
+	"category" : "Daliot-Plot",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"PenColorStream" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"pen" ],
+	"name" : "Plot2DObject",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

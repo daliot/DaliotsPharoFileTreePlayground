@@ -1,0 +1,15 @@
+{
+	"category" : "ObjectDiff-OD",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"object",
+		"instVarName" ],
+	"name" : "OIvarReference",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

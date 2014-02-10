@@ -1,0 +1,14 @@
+{
+	"category" : "Daliot-Plot",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "hjo 7/25/2008 17:33",
+	"instvars" : [
+		 ],
+	"name" : "Brush",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

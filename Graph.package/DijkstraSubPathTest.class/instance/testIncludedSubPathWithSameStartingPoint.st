@@ -1,5 +1,5 @@
 as yet unclassified
 testIncludedSubPathWithSameStartingPoint
 
-	self assert: (dij3 minimumCostFrom: b to: d) equals: 2.
-	self assert: (dij3 minimumCostFrom: b to: c) equals: 1
+	self assert: (d minimumCostFrom: b) equals: 2.
+	self assert: (c minimumCostFrom: b) equals: 1

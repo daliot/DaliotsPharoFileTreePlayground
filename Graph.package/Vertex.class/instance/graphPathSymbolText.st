@@ -1,4 +1,4 @@
-printing
+as yet unclassified
 graphPathSymbolText
 
 	^masterObject isNil

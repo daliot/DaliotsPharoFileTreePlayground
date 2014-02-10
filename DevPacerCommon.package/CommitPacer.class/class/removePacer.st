@@ -1,3 +1,0 @@
-removing
-removePacer
-Pacer := nil

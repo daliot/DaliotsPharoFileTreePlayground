@@ -1,8 +1,10 @@
 display
 openInWindowWithRowHeaders: aBoolean 
-	|window morph|
-	window := self windowWithRowHeaders: aBoolean.
-	window openInWorld.
-	morph := window submorphs last.
-	window extent: morph extentForWindowOwningMe.
+	|morph window|
+	morph := ObjectSheetMorph new.
+	morph treatsFirstColumnAsRowHeaderAspect: aBoolean.
+	morph sheetModel: self.
+	window := morph openInWindowLabeled: self name.
+	morph createThings.
+	morph extent: morph extent.
 	^window

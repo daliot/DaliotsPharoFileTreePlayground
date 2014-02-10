@@ -9,10 +9,10 @@ setUp
 	to transfer at 'split' station.
 	"
 	line1 := JhcLine new.
-	line1 lineName: 'line-fork1'.
+	line1 line: 'line-fork1'.
 	
 	line2 := JhcLine new.
-	line2 lineName: 'line-fork2'.
+	line2 line: 'line-fork2'.
 	
 	line1 addStationsWithNamesAndCosts: #('root' 1 'split' 3 'fork1').
 	line2 addStationsWithNamesAndCosts: #('root' 1 'split' 5 'fork2').
@@ -25,4 +25,4 @@ setUp
 	line stations addAll: line2 stations.
 	
 	"we can connect the splitting station to become a transfer station"
-	(line1 stationAtName: 'split') connectSplittingStation: (line2 stationAtName: 'split') cost: 200.
+	(line1 stationAtName: 'split') connect: (line2 stationAtName: 'split') cost: 200.

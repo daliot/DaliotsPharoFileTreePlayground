@@ -1,0 +1,4 @@
+segments
+defaultSegments
+
+	^OrderedCollection new

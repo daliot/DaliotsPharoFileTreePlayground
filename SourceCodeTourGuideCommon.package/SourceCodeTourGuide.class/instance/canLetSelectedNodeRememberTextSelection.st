@@ -1,0 +1,3 @@
+testing
+canLetSelectedNodeRememberTextSelection
+^browserController hasVisibleControllingBrowser and: [listModel hasSelection]

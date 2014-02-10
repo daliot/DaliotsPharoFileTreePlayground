@@ -2,6 +2,11 @@
 	"class" : {
 		 },
 	"instance" : {
-		"attenders:" : "HwaJong 2/16/2013 14:03",
-		"sortDescriptor:" : "HwaJong 2/16/2013 14:04",
-		"sortedRanks" : "HwaJong 2/16/2013 22:43" } }
+		"attenders:" : "HwaJong 9/11/2013 14:40",
+		"attendersOfRankOrder:" : "HwaJong 4/14/2013 19:53",
+		"defaultSortedRanks" : "HwaJong 9/11/2013 14:38",
+		"rankOrderOfAttender:" : "HwaJong 9/11/2013 14:42",
+		"sortDescriptor" : "HwaJong 8/6/2013 14:20",
+		"sortDescriptor:" : "HwaJong 9/11/2013 14:40",
+		"sortedRanks" : "HwaJong 9/11/2013 14:39",
+		"sortedRanks:" : "HwaJong 9/11/2013 14:39" } }

@@ -22,6 +22,7 @@
 		"endPoints" : "hjo 9/19/2009 15:55",
 		"errorUndirectedEdge" : "hjo 9/18/2009 16:16",
 		"errorVertexMissing" : "hjo 9/18/2009 16:16",
+		"extraPrintString" : "hjo 9/18/2009 16:16",
 		"hasDirection" : "hjo 9/18/2009 16:16",
 		"initialPoint" : "hjo 9/18/2009 16:17",
 		"initialPoint:" : "hjo 9/18/2009 16:17",
@@ -34,6 +35,7 @@
 		"masterObject:" : "hjo 9/19/2009 18:51",
 		"onConnect" : "hjo 9/18/2009 16:18",
 		"otherEndPointOf:" : "hjo 9/18/2009 16:18",
+		"printOn:" : "hjo 9/18/2009 16:18",
 		"rectangleToInvalidate" : "hjo 9/18/2009 16:18",
 		"terminalPoint" : "hjo 9/18/2009 16:18",
 		"terminalPoint:" : "hjo 9/18/2009 16:18" } }

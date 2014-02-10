@@ -1,4 +1,4 @@
-creating path
+as yet unclassified
 subPathToEndFrom: aCostVertex 
 
 	^self copy

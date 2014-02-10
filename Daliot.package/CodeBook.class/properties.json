@@ -1,0 +1,16 @@
+{
+	"category" : "Daliot-PseudoCollections",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"codes",
+		"codeLength",
+		"multiQuoAndRem" ],
+	"name" : "CodeBook",
+	"pools" : [
+		 ],
+	"super" : "SequenceableCollection",
+	"type" : "normal" }

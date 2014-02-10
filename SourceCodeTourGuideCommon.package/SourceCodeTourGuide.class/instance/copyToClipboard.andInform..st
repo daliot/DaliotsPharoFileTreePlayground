@@ -1,0 +1,4 @@
+private
+copyToClipboard: stringToBeCopiedToClipboard andInform: informString
+Clipboard clipboardText: stringToBeCopiedToClipboard.
+UIManager default inform: informString

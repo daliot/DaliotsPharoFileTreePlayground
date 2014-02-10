@@ -1,0 +1,19 @@
+{
+	"category" : "Daliot-Morphic",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"target",
+		"actionSelector",
+		"arguments",
+		"actWhen",
+		"oldColor",
+		"mouseDownTime" ],
+	"name" : "DaliotsButtonMorph",
+	"pools" : [
+		 ],
+	"super" : "RectangleMorph",
+	"type" : "normal" }

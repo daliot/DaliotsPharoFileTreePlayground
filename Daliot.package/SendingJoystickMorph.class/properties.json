@@ -1,0 +1,14 @@
+{
+	"category" : "Daliot-Morphic",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"targets" ],
+	"name" : "SendingJoystickMorph",
+	"pools" : [
+		 ],
+	"super" : "JoystickMorph",
+	"type" : "normal" }

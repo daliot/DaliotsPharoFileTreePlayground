@@ -2,17 +2,16 @@
 	"class" : {
 		"designatedEdgeClass" : "hjo 9/21/2009 14:47" },
 	"instance" : {
+		"clearMinimumCostPaths" : "hjo 11/7/2009 19:24",
+		"computeMinimumCostGraphPathsFrom:" : "hjo 11/11/2009 00:02",
 		"connect:cost:" : "hjo 9/28/2009 12:53",
 		"connectTo:cost:" : "hjo 9/25/2009 19:14",
-		"defaultRoutingTable" : "HwaJong 5/18/2013 17:36",
-		"firstMinimumCostPathFrom:" : "hjo 7/4/2011 23:52",
-		"ifAbsentMakeNewMinimumCostClubFrom:" : "hjo 7/16/2011 20:53",
-		"initializeMinimumCostPathsClubWithSource:" : "hjo 7/17/2011 16:40",
-		"makeNewMinimumCostClubFrom:" : "hjo 7/16/2011 20:38",
-		"minimumCostPathClub:from:" : "HwaJong 5/19/2013 22:40",
-		"minimumCostPathDoesNotExistsFrom:" : "hjo 7/5/2011 00:11",
+		"initialize" : "hjo 9/26/2009 17:46",
+		"initializeMinimumCostPathsClubWithSource:" : "hjo 11/11/2009 08:27",
+		"minCostPathClubFrom:" : "hjo 11/7/2009 18:55",
+		"minimumCost" : "hjo 9/25/2009 18:44",
+		"minimumCostFrom:" : "hjo 11/7/2009 18:55",
+		"minimumCostPaths" : "hjo 9/23/2009 01:14",
+		"minimumCostPathsClub" : "hjo 11/11/2009 08:28",
 		"minimumCostPathsFrom:" : "hjo 11/7/2009 18:56",
-		"minimumCostSubPathsFrom:" : "hjo 7/5/2011 00:08",
-		"minimumSubCostFrom:" : "hjo 7/3/2011 23:00",
-		"routingTable" : "HwaJong 5/18/2013 17:36",
-		"routingTable:" : "HwaJong 5/18/2013 17:37" } }
+		"recyclinglyComputeMinimumCostGraphPathsFrom:" : "hjo 11/7/2009 18:45" } }

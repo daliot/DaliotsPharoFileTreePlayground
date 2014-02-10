@@ -1,5 +1,5 @@
 drawing
 drawOn: aCanvas
-	aCanvas line: self fixedValue @ self pixelStart to: self fixedValue @ self pixelEnd color: self color.
+	aCanvas line: self fixedPixel @ self pixelStart to: self fixedPixel @ self pixelEnd color: self color.
 	self drawTicksOn: aCanvas.
 	self drawTitleOn: aCanvas.

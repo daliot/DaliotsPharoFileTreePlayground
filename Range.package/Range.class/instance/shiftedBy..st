@@ -1,4 +1,4 @@
-computation results
+as yet unclassified
 shiftedBy: aNumber
 
 	^self copy

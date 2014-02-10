@@ -1,4 +1,9 @@
 station
 testJamsil
 
-	self assertStationAtName: 'Jamsil' id: '814' lineName: '8' secondName: 'Songpa-gu Office'
+	| station |
+	station := line stationAtName: 'Jamsil'.
+	self assert: station line equals: '8'.
+	self assert: station name equals: 'Jamsil'.
+	self assert: station id equals: '814'.
+	self assert: station secondName equals: 'Songpa-gu Office'

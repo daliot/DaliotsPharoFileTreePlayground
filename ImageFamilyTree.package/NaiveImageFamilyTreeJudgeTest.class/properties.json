@@ -1,0 +1,17 @@
+{
+	"category" : "ImageFamilyTree",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"stream1",
+		"stream2",
+		"judge",
+		"result" ],
+	"name" : "NaiveImageFamilyTreeJudgeTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

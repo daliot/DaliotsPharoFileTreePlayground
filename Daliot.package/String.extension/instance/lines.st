@@ -1,0 +1,5 @@
+*Daliot
+lines
+
+	^self subStrings: '
+'

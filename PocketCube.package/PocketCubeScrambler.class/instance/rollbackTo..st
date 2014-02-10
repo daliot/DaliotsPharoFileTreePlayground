@@ -1,5 +1,4 @@
 as yet unclassified
 rollbackTo: aPocketCube
 
-	self translateToSelectorSequence reverseDo: 
-		[:each| each inverseOperation applyTo: aPocketCube]
+	self translateSequenceToNetStyle reverseDo: [:each| aPocketCube perform: (self inverseOperationOf: each)]

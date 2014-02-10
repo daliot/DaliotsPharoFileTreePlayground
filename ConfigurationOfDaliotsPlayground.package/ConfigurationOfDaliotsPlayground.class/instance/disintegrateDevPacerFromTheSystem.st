@@ -1,3 +1,0 @@
-script
-disintegrateDevPacerFromTheSystem
-	#PacerBase ifGlobalExistThenPerform: #disintegratePacersFromTheSystem

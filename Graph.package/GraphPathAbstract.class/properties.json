@@ -2,7 +2,6 @@
 	"category" : "Graph-Extended",
 	"classinstvars" : [
 		 ],
-	"classtraitcomposition" : "ClassCheckingHashProofTrait classTrait",
 	"classvars" : [
 		 ],
 	"commentStamp" : "",
@@ -12,5 +11,4 @@
 	"pools" : [
 		 ],
 	"super" : "Object",
-	"traitcomposition" : "ClassCheckingHashProofTrait",
 	"type" : "normal" }

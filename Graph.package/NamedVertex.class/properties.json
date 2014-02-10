@@ -1,0 +1,14 @@
+{
+	"category" : "Graph-Extended",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"name" ],
+	"name" : "NamedVertex",
+	"pools" : [
+		 ],
+	"super" : "Vertex",
+	"type" : "normal" }

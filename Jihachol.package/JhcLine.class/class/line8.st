@@ -3,7 +3,7 @@ line8
 
 	| instance |
 	instance := self new.
-	instance lineName: '8'.
+	instance line: '8'.
 	instance lineColor: (Color r:245/255g:19/255b:97/255).
 	instance idPrefix: ''.
 	instance setIntegerForFirstStationId: 810.

@@ -1,4 +1,4 @@
 as yet unclassified
 testEdgeCount
 
-	self assert: 16 equals: graph edges size
+	self assertEquals: 16 to: graph edges size

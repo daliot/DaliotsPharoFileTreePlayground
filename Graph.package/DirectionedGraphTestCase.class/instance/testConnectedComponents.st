@@ -1,4 +1,4 @@
 as yet unclassified
 testConnectedComponents
 
-	self assert: 1 equals: graph connectedComponents size
+	self assertEquals: 1 to: graph connectedComponents size

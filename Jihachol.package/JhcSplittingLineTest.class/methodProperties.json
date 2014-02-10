@@ -2,7 +2,7 @@
 	"class" : {
 		 },
 	"instance" : {
-		"setUp" : "hjo 11/9/2009 18:14",
+		"setUp" : "hjo 10/20/2009 11:14",
 		"testFromFork1ToFork2" : "hjo 10/20/2009 11:15",
 		"testFromRootToFork1" : "jhan 10/19/2009 22:02",
 		"testFromRootToFork2" : "jhan 10/19/2009 22:26",

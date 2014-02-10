@@ -1,4 +1,4 @@
 testing
 hasVertexNamed: aString
 
-	^vertices anySatisfy: [:v| v masterObject = aString ]
+	^vertices anySatisfy: [:v| v name = aString ]

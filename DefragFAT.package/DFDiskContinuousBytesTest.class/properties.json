@@ -1,0 +1,16 @@
+{
+	"category" : "DefragFAT",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"diskContinuousBytes",
+		"hardDisk",
+		"fat" ],
+	"name" : "DFDiskContinuousBytesTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

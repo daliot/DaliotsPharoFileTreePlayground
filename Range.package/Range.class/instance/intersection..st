@@ -1,11 +1,10 @@
-enumerating
+as yet unclassified
 intersection: aRange
 
 	| ranges |
 	(self covers: aRange) ifTrue: [ ^aRange copy ].
 	(aRange covers: self) ifTrue: [ ^self copy ].
-
-	(ranges := SortedCollection sortBlock: (UnarySortDescriptor ascendingBy: #span))
+	(ranges := SortedCollection sortBlock: #span ascendingSortBlock)
 		add: 
 			(self class new 
 				start: aRange start; 

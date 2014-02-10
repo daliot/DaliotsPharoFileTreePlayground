@@ -1,0 +1,14 @@
+{
+	"category" : "Graph-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"pahaha" ],
+	"name" : "DijkstraTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

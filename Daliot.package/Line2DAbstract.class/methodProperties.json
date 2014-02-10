@@ -1,0 +1,23 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"a" : "hjo 7/25/2008 16:45",
+		"a:" : "hjo 7/25/2008 16:45",
+		"b" : "hjo 7/25/2008 16:45",
+		"b:" : "hjo 7/25/2008 16:45",
+		"basicDrawLineSegmentOn:space2D:fromPoints:" : "hjo 7/25/2008 16:46",
+		"basicDrawOn:space2d:" : "hjo 7/25/2008 16:46",
+		"c" : "hjo 7/25/2008 16:46",
+		"c:" : "hjo 7/25/2008 16:46",
+		"crossPoint:" : "hjo 7/25/2008 16:46",
+		"crossPointWithLine2D:" : "hjo 7/25/2008 16:47",
+		"crossPointsOnBoundariesOfSpace2D:" : "hjo 7/25/2008 16:47",
+		"includes:" : "hjo 7/25/2008 16:47",
+		"initializeAbc" : "hjo 7/25/2008 16:47",
+		"matrixRow" : "hjo 7/25/2008 16:48",
+		"reset" : "hjo 7/25/2008 16:49",
+		"setAbFromDirection:" : "hjo 7/25/2008 16:49",
+		"setAsModelOfSubPresenterInSmallVisionShell:" : "hjo 7/25/2008 16:49",
+		"xAtY:" : "hjo 7/25/2008 16:49",
+		"yAtX:" : "hjo 7/25/2008 16:49" } }

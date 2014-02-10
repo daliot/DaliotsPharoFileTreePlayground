@@ -1,0 +1,15 @@
+{
+	"category" : "Daliot-Plot",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"space2D",
+		"objects" ],
+	"name" : "Plot2DPainter",
+	"pools" : [
+		 ],
+	"super" : "Painter",
+	"type" : "normal" }

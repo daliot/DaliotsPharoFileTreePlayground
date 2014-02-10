@@ -1,0 +1,16 @@
+{
+	"class" : {
+		"new" : "hjo 7/29/2008 14:50" },
+	"instance" : {
+		"foreRatio" : "hjo 7/29/2008 14:48",
+		"from:to:" : "hjo 7/29/2008 14:49",
+		"initialize" : "hjo 7/29/2008 14:49",
+		"map:" : "hjo 7/29/2008 14:49",
+		"mapRectangle:" : "hjo 7/29/2008 14:49",
+		"reversed" : "hjo 7/29/2008 14:49",
+		"unmap:" : "hjo 7/29/2008 14:49",
+		"unmapRectangle:" : "hjo 7/29/2008 14:49",
+		"xMapper" : "hjo 7/29/2008 14:49",
+		"xMapper:" : "hjo 7/29/2008 14:49",
+		"yMapper" : "hjo 7/29/2008 14:50",
+		"yMapper:" : "hjo 7/29/2008 14:50" } }

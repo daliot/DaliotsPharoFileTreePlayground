@@ -1,0 +1,15 @@
+{
+	"category" : "Daliot-PseudoCollections",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "hjo 6/2/2008 20:09",
+	"instvars" : [
+		"choices",
+		"length" ],
+	"name" : "Combinations",
+	"pools" : [
+		 ],
+	"super" : "SequenceableCollection",
+	"type" : "normal" }

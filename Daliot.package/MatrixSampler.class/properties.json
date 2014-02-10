@@ -1,0 +1,17 @@
+{
+	"category" : "Daliot",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"startingRowIndex",
+		"endingRowIndex",
+		"startingColumnIndex",
+		"endingColumnIndex" ],
+	"name" : "MatrixSampler",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

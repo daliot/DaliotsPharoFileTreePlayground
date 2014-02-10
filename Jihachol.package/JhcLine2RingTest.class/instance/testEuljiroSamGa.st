@@ -1,4 +1,9 @@
 stations
 testEuljiroSamGa
 
-	self assertStation: (line stations at: 3) lineName: '2' id: '203' name: 'Euljiro 3(sam)-ga' secondName: nil
+	| station |
+	station := line stations at: 3.
+	self assert: station name equals: 'Euljiro 3(sam)-ga'.
+	self assert: station id equals: '203'.
+	self assert: station line equals: '2'.
+	self assert: station secondName equals: nil

@@ -1,0 +1,15 @@
+{
+	"category" : "Daliot-QuictSort",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"trues",
+		"falses" ],
+	"name" : "QuickSortPart",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

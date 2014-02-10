@@ -1,0 +1,14 @@
+{
+	"category" : "InteractiveBisect-Auto",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "SOABNormal",
+	"pools" : [
+		 ],
+	"super" : "StateOfAutoBisect",
+	"type" : "normal" }

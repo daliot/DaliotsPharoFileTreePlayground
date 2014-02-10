@@ -1,3 +1,0 @@
-*DevPacerCommon
-itemIsIncludedInMonticelloPackage
-	^item itemIsIncludedInMonticelloPackage.

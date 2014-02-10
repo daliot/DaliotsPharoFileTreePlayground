@@ -1,3 +1,3 @@
-inner difference
+as yet unclassified
 canOpenInnerDifferenceAtKey: anObject
-^self comparisonList anySatisfy: [:each| each canOpenInnerDifferenceAtKey: anObject]
+^self comparisonResult canOpenInnerDifferenceAtKey: anObject

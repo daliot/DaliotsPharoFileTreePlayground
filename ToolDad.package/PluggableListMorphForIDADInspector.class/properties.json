@@ -4,11 +4,9 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "hjo 1/1/2009 16:52",
+	"commentStamp" : "",
 	"instvars" : [
-		"dragItemSelector",
-		"dropItemSelector",
-		"wantsDropSelector" ],
+		 ],
 	"name" : "PluggableListMorphForIDADInspector",
 	"pools" : [
 		 ],

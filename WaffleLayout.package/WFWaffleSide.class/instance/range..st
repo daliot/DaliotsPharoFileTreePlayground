@@ -1,5 +1,10 @@
-as yet unclassified
+accessing
 range: aRange 
-
+	|oldRange|
 	self absoluteLengthPerProportion: nil.
-	range := aRange
+	oldRange := range.
+	range := aRange.
+	self length < self sumOfLengthOfFixedSegments
+		ifTrue: 
+			[range := oldRange.
+			self error: 'aRange is too small to be make sense.' ].

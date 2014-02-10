@@ -2,6 +2,6 @@
 	"class" : {
 		"isAbstract" : "hjo 9/18/2009 20:25" },
 	"instance" : {
-		"setUp" : "HwaJong 5/17/2013 19:21",
-		"testConnectedComponents" : "hjo 6/25/2011 17:27",
+		"setUp" : "hjo 9/26/2009 20:24",
+		"testConnectedComponents" : "hjo 9/18/2009 20:24",
 		"testIsTree" : "hjo 9/18/2009 20:25" } }

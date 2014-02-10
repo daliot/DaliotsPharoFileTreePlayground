@@ -2,7 +2,7 @@ initialize-release
 initializeYAxis
 	yAxis := 
 		VerticalPlotterAxis new
-			fixedValue: 62;
+			fixedPixel: 62;
 			pixelStart: 58;
 			pixelEnd: 460;
 			valueStart: 16.0 valueEnd: 0.0;

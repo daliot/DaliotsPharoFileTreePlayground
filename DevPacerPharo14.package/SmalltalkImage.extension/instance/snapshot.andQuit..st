@@ -7,7 +7,7 @@ snapshot: save andQuit: quit
 
 	| snapshotResult resuming startupErrors |
 	"BEGIN PATCH DevPacer"
-	save ifTrue: [ImageSavePacer systemSaved].
+	save ifTrue: [(Smalltalk at: #ImageSavePacer) systemSaved].
 	"END PATCH DevPacer"
 	Object flushDependents.
 	Object flushEvents.

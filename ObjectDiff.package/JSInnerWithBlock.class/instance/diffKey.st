@@ -1,3 +1,0 @@
-accessing
-diffKey
-	^diffKey

@@ -2,11 +2,11 @@
 	"class" : {
 		 },
 	"instance" : {
-		"setUp" : "HwaJong 5/19/2013 10:11",
-		"testIncludedSubPath" : "HwaJong 5/17/2013 14:57",
-		"testIncludedSubPathIdentical" : "HwaJong 5/17/2013 14:57",
-		"testIncludedSubPathWithSameEndingPoint" : "HwaJong 5/17/2013 14:58",
-		"testIncludedSubPathWithSameStartingPoint" : "HwaJong 5/17/2013 14:58",
-		"testOverlappingSubpathAroundEndingPoint" : "HwaJong 5/17/2013 14:59",
-		"testOverlappingSubpathAroundStartingPoint" : "HwaJong 5/17/2013 14:59",
-		"testSubpathIncludingWholePath" : "HwaJong 5/17/2013 14:59" } }
+		"setUp" : "hjo 11/7/2009 12:57",
+		"testIncludedSubPath" : "hjo 11/7/2009 18:50",
+		"testIncludedSubPathIdentical" : "hjo 11/7/2009 18:51",
+		"testIncludedSubPathWithSameEndingPoint" : "hjo 11/7/2009 18:51",
+		"testIncludedSubPathWithSameStartingPoint" : "hjo 11/7/2009 18:49",
+		"testOverlappingSubpathAroundEndingPoint" : "hjo 11/7/2009 18:51",
+		"testOverlappingSubpathAroundStartingPoint" : "hjo 11/7/2009 18:52",
+		"testSubpathIncludingWholePath" : "hjo 11/7/2009 18:52" } }

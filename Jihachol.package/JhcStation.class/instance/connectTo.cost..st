@@ -1,4 +1,3 @@
 graphs
-connectTo: otherStation cost: aNumber
-
-	self platform1 graphVertex connectTo: otherStation platform1 graphVertex cost: aNumber
+connectTo: otherStation cost: aSmallInteger 
+	self graphVertex connectTo: otherStation graphVertex cost: aSmallInteger

@@ -1,5 +1,5 @@
 annotation text
 annotationText
-	listModel selectionIndex = 0
-		ifTrue: [ ^ '' ].
-	^ listModel selection text
+	^listModel 
+		ifHasSelection: [:selectedNode| selectedNode text] 
+		ifDoesNotHaveSelection: [ '' ]

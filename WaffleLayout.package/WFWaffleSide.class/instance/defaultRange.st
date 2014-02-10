@@ -1,4 +1,4 @@
-as yet unclassified
+accessing
 defaultRange
 
 	^Range close: 0 open: 100

@@ -6,11 +6,11 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"fixedValue",
 		"ticks",
 		"pixelStart",
 		"pixelEnd",
-		"mapper" ],
+		"mapper",
+		"fixedPixel" ],
 	"name" : "PlotterAxis",
 	"pools" : [
 		 ],

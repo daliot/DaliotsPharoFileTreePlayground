@@ -2,4 +2,4 @@
 runWithClass: aClass
 
 	self dupClass: aClass.
-	aClass subclasses do: [ :each | self changeSuperclassAfterDupClass: each ].
+	aClass allSubclassesDo: [:each| self changeSuperclassAfterDupClass: each ].

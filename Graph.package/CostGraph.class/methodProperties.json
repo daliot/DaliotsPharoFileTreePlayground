@@ -3,4 +3,5 @@
 		"costedExample" : "hjo 9/21/2009 14:46",
 		"defaultVertexClass" : "hjo 9/22/2009 14:28" },
 	"instance" : {
-		 } }
+		"clearMinimumCostPaths" : "hjo 9/26/2009 17:39",
+		"createNamedVertexAndAddIt:" : "hjo 11/7/2009 13:02" } }

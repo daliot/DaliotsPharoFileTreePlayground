@@ -1,0 +1,4 @@
+user interface
+letSelectedNodeRememberTextSelection
+listModel hasSelection
+	ifTrue: [browserController letBrowserTextSelectionStoredInNode: listModel selection]  

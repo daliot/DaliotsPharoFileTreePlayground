@@ -3,7 +3,7 @@ line9Fast
 	
 	| instance |
 	instance := self new.
-	instance lineName: '9-fast'.
+	instance line: '9-fast'.
 	instance lineColor: (Color r: 170/255 g:152/255 b:114/255).
 	instance addStationsWithNamesAndIds:
 	#(

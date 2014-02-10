@@ -1,0 +1,14 @@
+{
+	"category" : "Daliot-Morphic",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "MyMorph2",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }

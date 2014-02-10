@@ -1,3 +1,0 @@
-*LazyRabbit
-addLazyRabbitInstVarFromUser
-	LazyRabbitOperation variableNameFromUserAndSubjectClass: self.

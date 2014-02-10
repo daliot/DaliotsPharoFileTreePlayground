@@ -1,0 +1,14 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"setUp" : "HwaJong 10/13/2012 14:34",
+		"testValueAt1At1" : "HwaJong 10/13/2012 14:35",
+		"testValueAt1At2" : "HwaJong 10/13/2012 14:31",
+		"testValueAt1At3" : "HwaJong 10/13/2012 14:29",
+		"testValueAt2At1" : "HwaJong 10/13/2012 14:35",
+		"testValueAt2At2" : "HwaJong 10/13/2012 14:36",
+		"testValueAt2At3" : "HwaJong 10/13/2012 14:39",
+		"testValueAt3At1" : "HwaJong 10/13/2012 14:36",
+		"testValueAt3At2" : "HwaJong 10/13/2012 14:37",
+		"testValueAt3At3" : "HwaJong 10/13/2012 14:39" } }

@@ -1,0 +1,4 @@
+as yet unclassified
+setAsModelOfSubPresenterInSmallVisionShell: aSmallVisionShell 
+
+	self setAsModel: self rectangle ofSubPresenter: aSmallVisionShell rectanglePresenter

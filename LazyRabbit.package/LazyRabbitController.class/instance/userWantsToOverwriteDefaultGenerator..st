@@ -1,0 +1,4 @@
+accessing
+userWantsToOverwriteDefaultGenerator: aBoolean
+
+	userWantsToOverwriteDefaultGenerator := aBoolean

@@ -19,3 +19,7 @@ jumpToSourceCodeTourGuideNode: aTGNode
 		self selectedMessageName: symbol.
 		].
 	
+	aTGNode hasTextSelection
+		ifTrue: [ 
+			self codeTextMorph selectFrom: aTGNode textSelection first to: aTGNode textSelection last].
+	

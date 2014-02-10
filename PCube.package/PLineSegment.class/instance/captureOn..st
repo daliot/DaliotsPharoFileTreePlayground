@@ -1,4 +1,4 @@
 as yet unclassified
-captureOn: aPCamera 
+captureOn: aPCamera
 
-	aPCamera captureLineFrom: vertex1 to: vertex2.
+	self captureOn: aPCamera vertex: vertex1 vertex: vertex2.

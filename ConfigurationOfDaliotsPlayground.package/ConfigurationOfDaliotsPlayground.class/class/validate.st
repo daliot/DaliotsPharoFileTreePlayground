@@ -1,4 +1,3 @@
 metacello tool support
 validate 
-	self validateDaleStyle.
-	self validateFailingVersionsAndWhy.
+	(MetacelloToolBox validateConfiguration: ConfigurationOfDaliotsPlayground) explore.

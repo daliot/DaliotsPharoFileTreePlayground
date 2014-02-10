@@ -4,12 +4,11 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "hjo 10/31/2009 18:48",
+	"commentStamp" : "",
 	"instvars" : [
 		"lines",
 		"filteredStations",
-		"filterQuery",
-		"nearTouchRadius" ],
+		"filterQuery" ],
 	"name" : "JhcSubway",
 	"pools" : [
 		 ],

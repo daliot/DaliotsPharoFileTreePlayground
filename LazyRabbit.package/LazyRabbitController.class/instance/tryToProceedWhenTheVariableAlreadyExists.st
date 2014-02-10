@@ -1,0 +1,4 @@
+main
+tryToProceedWhenTheVariableAlreadyExists
+	
+	self tryToCreateMethods

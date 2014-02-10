@@ -1,0 +1,14 @@
+{
+	"category" : "PocketCube-Recognizer",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "PocketCubeVerticalDoubleTwistPattern",
+	"pools" : [
+		 ],
+	"super" : "PocketCubePattern",
+	"type" : "normal" }

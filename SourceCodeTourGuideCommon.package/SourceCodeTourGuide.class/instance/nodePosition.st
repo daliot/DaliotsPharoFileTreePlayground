@@ -1,4 +1,0 @@
-accessing
-nodePosition
-
-	^listModel selectionIndex.

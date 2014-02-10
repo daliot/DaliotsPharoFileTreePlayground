@@ -2,15 +2,12 @@
 	"class" : {
 		 },
 	"instance" : {
-		"testAtIfAbsentPutModify" : "HwaJong 7/9/2013 15:38",
-		"testConcatenateAll" : "hjo 2/21/2011 10:59",
-		"testConcatenateAllSeparatedBy" : "hjo 2/21/2011 11:00",
-		"testDeinterlacedBy" : "hjo 10/21/2009 18:53",
+		"testConcatenateAll" : "hjo 4/4/2008 19:17",
+		"testConcatenateAllSeparatedBy" : "hjo 4/4/2008 19:21",
+		"testEqualityComparison" : "hjo 4/8/2008 13:08",
+		"testEqualityComparisonHashing" : "hjo 4/8/2008 17:39",
 		"testInOrder" : "hjo 4/16/2008 18:04",
-		"testInjectAnyInto" : "hjo 9/29/2009 20:50",
-		"testIntersection" : "hjo 10/5/2009 20:38",
 		"testModular" : "hjo 4/26/2008 14:27",
 		"testPointRotatedBy90Degrees" : "hjo 4/10/2008 16:10",
-		"testReducedWith" : "hjo 9/29/2009 20:51",
 		"testSelectIndicies" : "hjo 9/21/2008 18:51",
-		"testUnitPoint" : "HwaJong 1/19/2013 12:41" } }
+		"testUnitPoint" : "hjo 4/10/2008 12:19" } }

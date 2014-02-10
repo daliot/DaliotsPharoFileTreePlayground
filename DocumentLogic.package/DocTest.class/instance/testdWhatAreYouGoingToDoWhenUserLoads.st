@@ -1,3 +1,0 @@
-tests
-testdWhatAreYouGoingToDoWhenUserLoads
-self assert: doc whatAreYouGoingToDoWhenUserLoads equals: self whatShouldDocDoWhenUserLoads.

@@ -1,4 +1,0 @@
-gui
-helpName
-
-	^'image pacer'

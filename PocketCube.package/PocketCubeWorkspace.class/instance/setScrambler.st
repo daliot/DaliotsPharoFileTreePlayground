@@ -1,4 +1,5 @@
 as yet unclassified
 setScrambler
 
-	self setScramblerOfOrder: 3
+	scr := PocketCubeScrambler new.
+	scr netStyleScrambleSequenceOf: 3.

@@ -5,7 +5,7 @@ line9
 	fastLine := self line9Fast.
 	slowLine := self line9Slow.
 	instance := self new.
-	instance lineName: '9'.
+	instance line: '9'.
 
 	instance stations addAll: fastLine stations.
 	instance stations addAll: slowLine stations.

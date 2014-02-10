@@ -1,0 +1,10 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"array:pivot:sortBlock:" : "hjo 6/10/2008 14:25",
+		"falses" : "hjo 4/1/2008 13:32",
+		"handleEmptyArrays:" : "hjo 6/10/2008 14:25",
+		"handleEmptyFalses:" : "hjo 6/10/2008 14:20",
+		"handleEmptyTrues:" : "hjo 6/10/2008 14:20",
+		"trues" : "hjo 4/1/2008 13:32" } }

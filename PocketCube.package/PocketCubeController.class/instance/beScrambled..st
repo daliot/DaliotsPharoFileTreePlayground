@@ -1,4 +1,4 @@
 as yet unclassified
-beScrambled: anInteger
+beScrambled: aSmallInteger
 
-	(PocketCubeScrambler new selectorSequenceOfScrambleOfOrder: anInteger) do: [:each| self perform: each]
+	(PocketCubeScrambler new netStyleScrambleSequenceOf: aSmallInteger) do: [:each| self perform: each]

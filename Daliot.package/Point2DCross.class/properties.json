@@ -1,0 +1,14 @@
+{
+	"category" : "Daliot-Plot",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "Point2DCross",
+	"pools" : [
+		 ],
+	"super" : "Point2DAbstract",
+	"type" : "normal" }

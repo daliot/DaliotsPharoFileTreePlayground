@@ -1,3 +1,0 @@
-accessing
-lineName
-	^line lineName

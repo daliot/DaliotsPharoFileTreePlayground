@@ -3,4 +3,5 @@ treatTheNumberTooBig
 
 	tooBigNumber := self inputNumber.
 	self changed: #tooBigNumber.
-	self tryToAnnounceComputedNumber
+	self changed: #stringOfTooBigNumber.
+	self tryToControlWithComputedNumber

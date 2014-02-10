@@ -1,4 +1,0 @@
-gui
-buttonLabelString
-
-	^'save'

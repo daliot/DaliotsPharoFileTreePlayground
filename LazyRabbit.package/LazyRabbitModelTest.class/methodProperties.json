@@ -1,0 +1,17 @@
+{
+	"class" : {
+		"resources" : "hjo 8/25/2009 22:15" },
+	"instance" : {
+		"setUp" : "hjo 8/25/2009 22:17",
+		"subjectClass" : "hjo 8/25/2009 22:16",
+		"testCreateDefaultGeneratorMehtod" : "hjo 8/26/2009 19:48",
+		"testCreateGetterMethod" : "hjo 8/26/2009 19:45",
+		"testCreateInstanceVariable" : "hjo 8/25/2009 22:17",
+		"testCreateSetterMethod" : "hjo 8/26/2009 19:43",
+		"testDefaultGeneratorSelector" : "hjo 8/25/2009 22:19",
+		"testGetterSelector" : "hjo 8/25/2009 22:19",
+		"testSetterSelector" : "hjo 8/25/2009 22:19",
+		"testSourceCodeForCreatingDefaultGeneratorMethod" : "hjo 8/26/2009 19:50",
+		"testSourceCodeForCreatingGetterMethod" : "hjo 8/26/2009 19:52",
+		"testSourceCodeForCreatingSetterMethod" : "hjo 8/26/2009 19:54",
+		"testVariableNameIsCorrect" : "hjo 8/26/2009 19:58" } }

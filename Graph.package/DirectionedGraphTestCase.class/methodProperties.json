@@ -3,7 +3,7 @@
 		 },
 	"instance" : {
 		"setUp" : "hjo 9/26/2009 20:22",
-		"testConnectedComponents" : "hjo 6/25/2011 17:26",
+		"testConnectedComponents" : "hjo 9/18/2009 20:23",
 		"testConnection" : "hjo 9/18/2009 20:23",
 		"testIsConnected" : "hjo 9/18/2009 20:23",
 		"testIsTree" : "hjo 9/18/2009 20:23" } }

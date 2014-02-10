@@ -1,5 +1,5 @@
-initialize-release
+as yet unclassified
 initializeMinimumCostPathsClubWithSource: aCostVertex 
 
-	self minimumCostPathClubsByStartingVertex removeKey: aCostVertex ifAbsent: [].  
-	self minimumCostPathClub: (self makeNewMinimumCostClubFrom: aCostVertex) from: aCostVertex
+	minimumCostPaths := MinClub new.
+	minimumCostPaths evaluator: [:path| path costFrom: aCostVertex to: self ]

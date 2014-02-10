@@ -1,0 +1,15 @@
+{
+	"category" : "MultiDimensionalEnumeration",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"block",
+		"domains" ],
+	"name" : "TTTMultiDimensionalEnumeration",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

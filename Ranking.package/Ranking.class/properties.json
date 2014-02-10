@@ -7,7 +7,8 @@
 	"commentStamp" : "",
 	"instvars" : [
 		"attenders",
-		"sortDescriptor" ],
+		"sortDescriptor",
+		"sortedRanks" ],
 	"name" : "Ranking",
 	"pools" : [
 		 ],

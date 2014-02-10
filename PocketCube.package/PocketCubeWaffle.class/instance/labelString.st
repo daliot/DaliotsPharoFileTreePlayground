@@ -1,4 +1,0 @@
-accessing
-labelString 
-
-	^'PocketCube Waffle'

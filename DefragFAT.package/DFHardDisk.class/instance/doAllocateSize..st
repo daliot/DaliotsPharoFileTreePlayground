@@ -1,5 +1,5 @@
 as yet unclassified
-doAllocateSize: anInteger 
+doAllocateSize: aSmallInteger 
 
 	self assert: diskBytes isNil.
-	diskBytes := ByteArray new: anInteger.
+	diskBytes := ByteArray new: aSmallInteger.

@@ -1,4 +1,4 @@
-as yet unclassified
+computing
 absoluteLengthPerProportion: aFloat 
 
 	absoluteLengthPerProportion := aFloat

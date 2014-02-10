@@ -1,0 +1,15 @@
+{
+	"category" : "Daliot-Mapper",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"xMapper",
+		"yMapper" ],
+	"name" : "RectangleMapper",
+	"pools" : [
+		 ],
+	"super" : "MapperAbstract",
+	"type" : "normal" }

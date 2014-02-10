@@ -2,14 +2,14 @@
 	"class" : {
 		 },
 	"instance" : {
-		"setUp" : "hjo 8/30/2011 20:30",
+		"setUp" : "hjo 4/29/2012 15:14",
 		"tearDown" : "hjo 8/30/2011 20:19",
 		"testIntegerMode" : "hjo 8/2/2011 12:37",
-		"testReset" : "hjo 8/30/2011 20:30",
+		"testReset" : "hjo 4/29/2012 15:16",
 		"testSetUp" : "hjo 8/1/2011 23:07",
-		"testTooBig" : "hjo 8/30/2011 20:30",
-		"testTooBigTooSmall" : "hjo 8/30/2011 20:30",
-		"testTooBigTooSmallTooBig" : "hjo 8/30/2011 20:30",
-		"testTooBigTooSmallTooSmll" : "hjo 8/30/2011 20:30",
-		"testTooSmall" : "hjo 8/30/2011 20:30",
-		"update:" : "hjo 8/30/2011 20:30" } }
+		"testTooBig" : "hjo 4/29/2012 15:17",
+		"testTooBigTooSmall" : "hjo 4/29/2012 15:14",
+		"testTooBigTooSmallTooBig" : "hjo 4/29/2012 15:14",
+		"testTooBigTooSmallTooSmall" : "hjo 4/29/2012 15:21",
+		"testTooSmall" : "hjo 4/29/2012 15:17",
+		"update:" : "hjo 4/29/2012 15:14" } }

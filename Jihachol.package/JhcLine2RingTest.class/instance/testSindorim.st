@@ -1,4 +1,9 @@
 stations
 testSindorim
 
-	self assertStation: (line stations at: 34) lineName: '2' id: '234' name: 'Sindorim' secondName: nil
+	| station |
+	station := line stations at: 34.
+	self assert: station line equals: '2'.
+	self assert: station id equals: '234'.
+	self assert: station name equals: 'Sindorim'.
+	self assert: station secondName equals: nil

@@ -1,3 +1,0 @@
-testing
-canOpenLeftInspector
-	^true

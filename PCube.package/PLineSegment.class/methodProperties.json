@@ -6,7 +6,9 @@
 		"point:deltaY:" : "hjo 5/29/2012 10:43",
 		"point:deltaZ:" : "hjo 5/29/2012 10:43" },
 	"instance" : {
-		"captureOn:" : "hjo 5/29/2012 14:31",
+		"captureOn:" : "hjo 5/30/2012 15:23",
+		"captureOn:projectedPoint:formPoint:vertex:vertex:" : "hjo 5/30/2012 15:44",
+		"captureOn:vertex:vertex:" : "hjo 5/30/2012 15:43",
 		"point1" : "hjo 5/29/2012 14:20",
 		"point1:" : "hjo 5/29/2012 14:20",
 		"point2" : "hjo 5/29/2012 14:20",

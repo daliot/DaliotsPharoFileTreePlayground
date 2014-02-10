@@ -1,4 +1,0 @@
-defaults
-defaultRubberBandMorphs
-
-	^OrderedCollection new

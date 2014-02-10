@@ -1,3 +1,0 @@
-accessing
-extentOfBigMorph
-	^bigMorph extent

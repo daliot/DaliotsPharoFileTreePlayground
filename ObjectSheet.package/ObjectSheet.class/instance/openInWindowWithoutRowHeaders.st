@@ -1,3 +1,0 @@
-display
-openInWindowWithoutRowHeaders
-	^self openInWindowWithRowHeaders: false.

@@ -2,6 +2,9 @@
 	"class" : {
 		 },
 	"instance" : {
-		"whatAreYouGoingToDoWhenUserCloses" : "HwaJong 10/5/2012 14:30",
-		"whatAreYouGoingToDoWhenUserLoads" : "HwaJong 10/5/2012 14:30",
-		"whatAreYouGoingToDoWhenUserSaves" : "HwaJong 10/5/2012 14:30" } }
+		"closeActionClose:actionAskUserIfHeWantsToSaveAsBeforeClosing:actionAskUserIfHeWantsToSaveBeforeClosing:actionSaveToOldCamp:actionSaveToNewCamp:" : "HwaJong 10/7/2012 22:54",
+		"closeActionJustClose:actionAskUserIfHeWantsToSaveAsBeforeClosingAndThenClose:actionAskUserIfHeWantsToSaveBeforeClosingAndThenClose:" : "HwaJong 10/6/2012 18:56",
+		"loadActionJustLoad:actionAskUserSaveAsOrDiscardThenLoad:actionAskUserSaveOrSaveAsOrDiscardThenLoad:" : "HwaJong 10/6/2012 16:41",
+		"loadActionLoad:actionAskUserSaveAsOrDiscard:actionAskUserSaveOrSaveAsOrDiscard:actionSaveAs:actionSave:" : "HwaJong 10/6/2012 18:53",
+		"saveActionSaveAs:actionSaveToLoadMedium:" : "HwaJong 10/6/2012 09:10",
+		"saveAs:confirmOverwrite:overwriteOperations:noOverwriteOperations:" : "HwaJong 10/6/2012 16:31" } }

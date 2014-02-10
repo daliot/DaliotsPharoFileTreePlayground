@@ -1,4 +1,4 @@
 as yet unclassified
 testFromB1ToA2
 
-	self assert: (dij3 minimumCostFrom: b1 to: a2) equals: 7
+	self assert: (a2 minimumCostFrom: b1) equals: 7

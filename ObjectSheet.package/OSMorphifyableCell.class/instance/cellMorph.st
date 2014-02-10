@@ -1,17 +1,11 @@
 as yet unclassified
 cellMorph
-	|object morph|
+	|object|
 	object := cell cellObject.
-		
-	morph := 
-		((morphifyColumn cellMorphClassFor: object) new)
-			bounds: (self boundsForCellMorph);
-			font: (sheetMorph defaultCellFont);
-			cell: self;
-			yourself.
-
-	morph contents: 
-		((morphifyColumn morphContentGetter
-			ifNil: [ [:o| o objectSheetCellMorphContents ] ]
-			ifNotNil: [ morphifyColumn morphContentGetter ]) value: object).
-	^morph.
+	
+	^(((morphifyColumn cellMorphClassFor: object) new)
+		bounds: (sheetMorph waffle boundsOfIndentationAtRow: cell rowIndex+1 atColumn: cell columnIndex+sheetMorph columnOffsetByRowHeader);
+		font: sheetMorph defaultCellFont;
+		contents: (object objectSheetCellMorphContents))
+		cell: self;
+		yourself.

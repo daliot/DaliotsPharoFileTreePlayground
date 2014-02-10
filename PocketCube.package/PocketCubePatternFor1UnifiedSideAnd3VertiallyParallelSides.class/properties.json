@@ -1,0 +1,14 @@
+{
+	"category" : "PocketCube-Recognizer",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "PocketCubePatternFor1UnifiedSideAnd3VertiallyParallelSides",
+	"pools" : [
+		 ],
+	"super" : "PocketCubePattern",
+	"type" : "normal" }

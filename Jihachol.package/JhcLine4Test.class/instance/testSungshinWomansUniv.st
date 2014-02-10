@@ -1,4 +1,9 @@
 stations
 testSungshinWomansUniv
 
-	self assertStationAtName: 'Sungshin Woman''s Univ.' id: '418' lineName: '4' secondName: 'Donam'
+	| station |
+	station := line stationAtName: 'Sungshin Woman''s Univ.'.
+	self assert: station name equals: 'Sungshin Woman''s Univ.'.
+	self assert: station id equals: '418'.
+	self assert: station line equals: '4'.
+	self assert: station secondName equals: 'Donam'

@@ -1,0 +1,19 @@
+{
+	"category" : "Daliot-Plot",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"a",
+		"b",
+		"c",
+		"ab",
+		"bc",
+		"ca" ],
+	"name" : "Triangle2D",
+	"pools" : [
+		 ],
+	"super" : "Plot2DObject",
+	"type" : "normal" }

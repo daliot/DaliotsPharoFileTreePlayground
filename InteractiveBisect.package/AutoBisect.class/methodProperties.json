@@ -1,0 +1,15 @@
+{
+	"class" : {
+		"from:to:evaluator:" : "hjo 5/21/2012 10:58" },
+	"instance" : {
+		"canRunStep" : "hjo 5/20/2012 19:49",
+		"currentNumber" : "hjo 5/20/2012 18:12",
+		"evaluator" : "hjo 5/20/2012 17:57",
+		"evaluator:" : "hjo 5/20/2012 17:57",
+		"initialize" : "hjo 5/20/2012 20:19",
+		"inputNumber:" : "hjo 5/20/2012 18:05",
+		"packedInputNumber:" : "hjo 5/21/2012 10:50",
+		"run" : "hjo 5/20/2012 19:48",
+		"runStep" : "hjo 5/20/2012 19:50",
+		"state:" : "hjo 5/20/2012 19:45",
+		"treatTheNumber" : "hjo 5/20/2012 19:42" } }

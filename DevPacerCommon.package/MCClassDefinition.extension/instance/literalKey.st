@@ -1,3 +1,0 @@
-*DevPacerCommon
-literalKey
-	^{name}

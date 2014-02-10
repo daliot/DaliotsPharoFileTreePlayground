@@ -1,4 +1,4 @@
 as yet unclassified
 testIncludesStop
 
-	self assert: self includesStop equals: (range includes: self stopNumber)
+	self assertEquals: self includesStop to: (range includes: self stopNumber)

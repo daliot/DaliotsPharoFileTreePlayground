@@ -1,4 +1,4 @@
-self evaluating
+as yet unclassified
 commonKeys
 |keySet|
 keySet := Set new.

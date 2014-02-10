@@ -1,0 +1,13 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"goalVertex:" : "hjo 9/25/2009 20:44",
+		"gogogo" : "hjo 9/25/2009 21:19",
+		"gogogoWhenStartingAndGoalIsNotIdentical" : "hjo 9/25/2009 21:23",
+		"gogogoWhenStartingAndGoalIsNotIdenticalFrom:through:" : "hjo 9/25/2009 21:31",
+		"hyperDijkstra:" : "hjo 9/25/2009 21:05",
+		"startingVertex:" : "hjo 9/25/2009 20:43",
+		"subDijkstra" : "hjo 9/25/2009 21:29",
+		"subDijkstraTo:" : "hjo 9/25/2009 21:30",
+		"vertexToReachIncludes:" : "hjo 9/25/2009 21:05" } }

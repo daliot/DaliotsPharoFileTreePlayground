@@ -9,7 +9,7 @@
 		"bisect",
 		"gotTooSmallNumberChanged",
 		"gotTooBigNumberChanged",
-		"gotInputNumberChanged" ],
+		"gotNumberChanged" ],
 	"name" : "InteractiveBisectTest",
 	"pools" : [
 		 ],

@@ -1,4 +1,4 @@
 rotate
 rotateClockwise
 	
-	self model rotateClockwise.
+	model rotateClockwise.

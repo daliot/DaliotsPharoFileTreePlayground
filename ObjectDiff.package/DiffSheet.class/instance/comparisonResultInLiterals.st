@@ -1,3 +1,4 @@
-self evaluating
+as yet unclassified
 comparisonResultInLiterals
-^self comparisonList collect: #literalForm
+^self comparisonResult literalForm
+	

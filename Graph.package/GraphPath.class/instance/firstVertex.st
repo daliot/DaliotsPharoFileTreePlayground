@@ -1,4 +1,4 @@
-accessing
+as yet unclassified
 firstVertex
 
-	^firstVertex setDefault: #defaultFirstVertex for: self withSetter: #firstVertex:
+	^self pathFrom firstVertex

@@ -1,0 +1,18 @@
+{
+	"category" : "LazyRabbit",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"userWantsToOverwriteGetter",
+		"userWantsToOverwriteSetter",
+		"userWantsToOverwriteDefaultGenerator",
+		"userWantsToQuit",
+		"model" ],
+	"name" : "LazyRabbitController",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

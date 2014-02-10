@@ -3,6 +3,6 @@ setUp
 
 	super setUp.
 	hasReceivedHasPocketCubeChanged := false.
-	pocketCube := PocketCubeWithMemory new.
+	pocketCube := PocketCube new.
 	pocketCube initializeSidesWithColors.
 	pocketCube when: #pocketCubeChanged send: #onPocketCubeChanged  to: self

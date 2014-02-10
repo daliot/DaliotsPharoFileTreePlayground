@@ -1,5 +1,5 @@
 initialize-release
 initialize 
 super initialize.
-isNew := true.
-isDirty := false.
+hasSaveMedium := false.
+hasUnsavedChange := false.

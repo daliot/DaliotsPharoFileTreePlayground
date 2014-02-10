@@ -1,0 +1,4 @@
+defaults
+defaultDependencySorter
+
+	^SuperClassDependencySorter new

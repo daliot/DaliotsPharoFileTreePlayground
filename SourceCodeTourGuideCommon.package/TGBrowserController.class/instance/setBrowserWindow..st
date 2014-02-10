@@ -1,6 +1,7 @@
 private
 setBrowserWindow: aSystemWindow
-
-	window := aSystemWindow. 
-	browser := window model. 
-	self openBackingMorph
+	window ifNotNil: [window unsubscribe: self].
+	window := aSystemWindow.
+	browser := window model.
+	self emphasisControlledWindow.
+	aSystemWindow announcer on: WindowClosed do: [self letGoControllingBrowser].

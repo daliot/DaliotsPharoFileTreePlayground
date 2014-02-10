@@ -1,4 +1,4 @@
-accessing
+as yet unclassified
 matrixIndexOfAmbiguousElement
 
 	self matrix withIndicesDo: [:x :r :c| 

@@ -1,4 +1,9 @@
 stations
 testDongjak
 
-	self assertStationAtName: 'Dongjak' id: '431' lineName: '4' secondName:   'Seoul National Cemetery'
+	| station |
+	station := line stationAtName: 'Dongjak'.
+	self assert: station name equals: 'Dongjak'.
+	self assert: station id equals: '431'.
+	self assert: station line equals: '4'.
+	self assert: station secondName equals: 'Seoul National Cemetery'

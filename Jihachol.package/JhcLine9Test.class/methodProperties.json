@@ -3,10 +3,10 @@
 		 },
 	"instance" : {
 		"setUp" : "hjo 10/28/2009 19:21",
-		"testFastLineIsFaster" : "hjo 10/31/2009 14:06",
-		"testFromGayangToDongjakFast" : "hjo 10/31/2009 14:06",
-		"testFromGayangToDongjakSlow" : "hjo 10/31/2009 14:06",
-		"testGaehwa" : "hjo 10/31/2009 16:30",
-		"testGimpoIntlAirport" : "hjo 10/31/2009 16:50",
-		"testHeukseok" : "hjo 10/31/2009 16:33",
+		"testFastLineIsFaster" : "hjo 10/29/2009 04:31",
+		"testFromGayangToDongjakFast" : "hjo 10/29/2009 04:29",
+		"testFromGayangToDongjakSlow" : "hjo 10/29/2009 04:30",
+		"testGaehwa" : "hjo 10/28/2009 19:22",
+		"testGimpoIntlAirport" : "hjo 10/29/2009 04:18",
+		"testHeukseok" : "hjo 10/28/2009 19:22",
 		"testLineColor" : "hjo 10/28/2009 19:22" } }

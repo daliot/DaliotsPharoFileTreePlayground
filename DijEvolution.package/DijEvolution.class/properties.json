@@ -7,10 +7,11 @@
 	"commentStamp" : "",
 	"instvars" : [
 		"ancestors",
-		"costSortedObjects",
 		"leastCostLife",
 		"breedingCode",
-		"childrenOfLeastCostLife" ],
+		"childrenOfLeastCostLife",
+		"costSortedLives",
+		"ancestorObjects" ],
 	"name" : "DijEvolution",
 	"pools" : [
 		 ],

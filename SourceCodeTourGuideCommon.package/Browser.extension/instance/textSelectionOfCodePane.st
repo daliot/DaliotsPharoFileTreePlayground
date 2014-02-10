@@ -1,0 +1,3 @@
+*SourceCodeTourGuideCommon
+textSelectionOfCodePane
+^self codeTextMorph selectionInterval  

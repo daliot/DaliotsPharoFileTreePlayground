@@ -1,3 +1,5 @@
 instance creation
 dimension: anArray randomInt: anInteger
-	^self dimension: anArray randomInt: anInteger withRandom: Random new.
+	| r |
+	r := Random new.
+	^self new dimension: anArray; contents: (anArray product timesCollect: [r nextInt: anInteger]).

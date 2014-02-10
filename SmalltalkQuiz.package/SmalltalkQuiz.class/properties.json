@@ -1,0 +1,15 @@
+{
+	"category" : "SmalltalkQuiz",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"answer",
+		"choices" ],
+	"name" : "SmalltalkQuiz",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

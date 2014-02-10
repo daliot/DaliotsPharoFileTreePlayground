@@ -21,6 +21,7 @@ version030: spec
 		spec package: 'Jihachol' with:  'Jihachol-hjo.34'.
 		spec package: 'LazyRabbit' with:  'LazyRabbit-hjo.15'.
 		spec package: 'MaxClub' with:  'MaxClub-hjo.7'.
+		spec package: 'MobienceIPhoneProject' with:  'MobienceIPhoneProject-hjo.16'.
 		spec package: 'MorphoPhysics' with:  'MorphoPhysics-hjo.25'.
 		spec package: 'MultiQuoAndRem' with:  'MultiQuoAndRem-hjo.1'.
 		spec package: 'PocketCube' with:  'PocketCube-hjo.156'.

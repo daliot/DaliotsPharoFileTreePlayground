@@ -1,0 +1,14 @@
+{
+	"category" : "LazyRabbit",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"subjectClass" ],
+	"name" : "LazyRabbitTestResource",
+	"pools" : [
+		 ],
+	"super" : "TestResource",
+	"type" : "normal" }

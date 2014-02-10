@@ -1,3 +1,0 @@
-testing
-canOpenLeftInspector
-^diffSheet canOpenLeftInspectorAtRowIndex: index

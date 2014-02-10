@@ -5,37 +5,31 @@ makeParsingDictionary
 	
 	parsingDictionary 
 		at: $( put: 
-		[stack addFirst: BBParenthesis new].
+		[stream next.
+		stack addFirst: BBParenthesis new].
 
 	parsingDictionary 
-		at: $) put: 
-		[ | inex |
+		at: $1 put: 
+		[stream next.
+		stack addFirst: (BBNumber new number: 1)].
+
+	parsingDictionary at: $+ put: 
+		[stream next.
+		stack addFirst: (BBAdd new left: (stack removeFirst))].
+
+	parsingDictionary at: $2 put: 
+		[stream next.
+		stack first right: (BBNumber new number: 2)].
+
+	parsingDictionary at: $) put: 
+		[ | inex | stream next.
 		inex := stack removeFirst.
 		stack first inner: inex ].
 
-	'1234567890' do: [:digit|
-		parsingDictionary 
-			at: digit put: 
-			[ |n| 
-			n := BBNumber new number: digit digitValue.
-			self
-				ifExpressionOfTopOfStackIsBinaryExpressionWithNilRight: [stack first right: n]
-				ifRightOfBinaryExpressionIsNumberExpression: [:numExpression| numExpression number: numExpression number * 10 + digit digitValue ]
-				ifExpressionOfTopOfStackIsNumberExpression: [:numExpression| numExpression number: numExpression number * 10 + digit digitValue ]
-				else: [stack addFirst: n] ] ].
+	parsingDictionary at: $/ put: 
+		[stream next.
+		stack addFirst: (BBDivide new left: (stack removeFirst))].
 
-	parsingDictionary 
-		at: $+ put: 
-		[stack addFirst: (BBAdd new left: (stack removeFirst))].
-
-	parsingDictionary 
-		at: $- put: 
-		[stack addFirst: (BBSubtract new left: (stack removeFirst))].
-
-	parsingDictionary 
-		at: $* put: 
-		[stack addFirst: (BBMultiply new left: (stack removeFirst))].
-
-	parsingDictionary 
-		at: $/ put: 
-		[stack addFirst: (BBDivide new left: (stack removeFirst))].
+	parsingDictionary at: $3 put: 
+		[stream next.
+		stack first right: (BBNumber new number:3)].

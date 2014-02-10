@@ -1,3 +1,4 @@
 subroutines
 jionLeastCostLifeToAncestors
-	ancestors addLast: leastCostLife.
+	ancestors add: leastCostLife.
+	ancestorObjects add: leastCostLife object.

@@ -1,4 +1,4 @@
-view making
+as yet unclassified
 classNameTextMorph
 
 	^classNameTextMorph ifNil: [

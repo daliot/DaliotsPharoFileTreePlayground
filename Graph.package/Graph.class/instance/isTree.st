@@ -9,3 +9,13 @@ isTree
 		edgeOperation: [:edge| visitedEdges add: edge ];
 		run.
 	^visitedEdges equalElementsTo: self edges
+	
+	"|visited|
+	visited := Set new.
+	self
+		breadthFirstDo:
+			[:vertex|(self vertices includes: vertex)
+				ifTrue: [^false]
+				ifFalse: [visited add: vertex]]
+		startingAt: self vertices asArray first.
+	^true"

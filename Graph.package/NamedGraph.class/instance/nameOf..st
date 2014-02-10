@@ -1,4 +1,4 @@
 names
 nameOf: aNamedVertex
 
-	^aNamedVertex masterObject
+	^aNamedVertex name

@@ -3,13 +3,13 @@
 		 },
 	"instance" : {
 		"setUp" : "hjo 10/10/2009 09:23",
-		"testChildrensGrandPark" : "hjo 10/31/2009 15:34",
-		"testDobongsan" : "hjo 10/31/2009 15:35",
-		"testFirstStationIsConnected" : "hjo 11/9/2009 22:59",
+		"testChildrensGrandPark" : "hjo 10/23/2009 17:49",
+		"testDobongsan" : "hjo 10/23/2009 17:48",
+		"testFirstStationIsConnected" : "hjo 10/10/2009 12:05",
 		"testFromJunghwaToCheongdam" : "hjo 10/12/2009 13:35",
-		"testIntermediateStationIsConnectedTwice" : "hjo 11/9/2009 22:59",
-		"testJangam" : "hjo 10/31/2009 15:35",
-		"testLastStationIsConnected" : "hjo 11/9/2009 23:00",
+		"testIntermediateStationIsConnectedTwice" : "hjo 10/10/2009 12:07",
+		"testJangam" : "hjo 10/23/2009 17:48",
+		"testLastStationIsConnected" : "hjo 10/10/2009 12:04",
 		"testLineColor" : "hjo 10/13/2009 14:42",
-		"testOnsu" : "hjo 10/31/2009 15:36",
-		"testSuraksan" : "hjo 10/31/2009 15:36" } }
+		"testOnsu" : "hjo 10/23/2009 17:49",
+		"testSuraksan" : "hjo 10/23/2009 17:48" } }

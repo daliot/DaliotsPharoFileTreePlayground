@@ -1,4 +1,0 @@
-printing
-questionString
-
-	^self subclassResponsibility

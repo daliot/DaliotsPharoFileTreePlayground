@@ -1,0 +1,15 @@
+{
+	"category" : "ObjectDiff-OD",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"leftSideObject",
+		"rightSideObject" ],
+	"name" : "ODiffy",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

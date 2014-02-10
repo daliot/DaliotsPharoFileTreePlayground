@@ -5,5 +5,4 @@ step
 	self jionLeastCostLifeToAncestors.
 	self makeChildren.
 	self dropChildren.
-	self addChildrenToCostSortedObjects.
-	self leaveOnlyTheLeastCostLifeIfThereAreManyLivesOfSameObjectsInTheCostSortedObjects.
+	self addChildrenToCostSortedLives.

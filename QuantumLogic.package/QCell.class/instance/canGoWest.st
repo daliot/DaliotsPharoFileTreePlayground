@@ -1,3 +1,0 @@
-testing
-canGoWest
-	^westBetween canGoThrough 

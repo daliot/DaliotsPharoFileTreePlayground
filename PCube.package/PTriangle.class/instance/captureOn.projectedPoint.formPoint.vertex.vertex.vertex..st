@@ -8,9 +8,11 @@ captureOn: aPCamera projectedPoint: aPProjectedPoint formPoint: aPoint vertex: a
 	fp1 := aPoint.
 	fp2 := aPCamera film formPositionWithFormRatio: p2 projectionPoint.
 	fp3 := aPCamera film formPositionWithFormRatio: p3 projectionPoint.      
-	((fp1 - fp2) r < 2 and: [(fp2 - fp3) r < 2 and: [(fp3 - fp1) r < 2]]) 
+	((fp1 - fp2) r < 1.42 and: [(fp2 - fp3) r < 1.42 and: [(fp3 - fp1) r < 1.42]]) 
 		ifTrue:
-			[aPCamera film exposeFormPoint: fp1 depth: p1 depth color: aPVertex1 color. ]
+			[aPCamera film exposeFormPoint: fp1 depth: p1 depth color: aPVertex1 color.
+			aPCamera film exposeFormPoint: fp2 depth: p2 depth color: aPVertex2 color.
+			aPCamera film exposeFormPoint: fp3 depth: p3 depth color: aPVertex3 color.]
 		ifFalse:
 			[ | m12 m23 m31 |
 			m12 := aPVertex1 middle: aPVertex2.

@@ -1,4 +1,0 @@
-defaults
-defaultRoutingTable
-
-	^IdentityDictionary new

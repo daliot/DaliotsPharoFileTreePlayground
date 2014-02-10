@@ -1,0 +1,20 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"defaultTickGap" : "hjo 7/29/2008 13:51",
+		"domain" : "hjo 7/25/2008 16:25",
+		"domain:" : "hjo 7/25/2008 16:25",
+		"domainBoundaryLines:instanciationMethod:" : "hjo 7/25/2008 16:25",
+		"drawGridLines:for:on:" : "hjo 7/25/2008 16:26",
+		"mappedNthTickGap:" : "hjo 7/25/2008 16:26",
+		"mapper" : "hjo 7/29/2008 13:51",
+		"mapper:" : "hjo 7/25/2008 16:26",
+		"maximumTickGapInPixels" : "hjo 7/25/2008 16:26",
+		"minimumTickGapInPixels" : "hjo 7/25/2008 16:27",
+		"name" : "hjo 7/25/2008 16:27",
+		"name:" : "hjo 7/25/2008 16:27",
+		"tickGap" : "hjo 7/25/2008 16:27",
+		"tickGap:" : "hjo 7/25/2008 16:27",
+		"viewPort" : "hjo 7/25/2008 16:27",
+		"viewPort:" : "hjo 7/25/2008 16:27" } }

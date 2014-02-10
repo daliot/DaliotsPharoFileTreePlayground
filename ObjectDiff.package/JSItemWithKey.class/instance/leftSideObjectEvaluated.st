@@ -1,3 +1,0 @@
-self evaluating
-leftSideObjectEvaluated
-	^leftSideObject objectDiffValueAt: key

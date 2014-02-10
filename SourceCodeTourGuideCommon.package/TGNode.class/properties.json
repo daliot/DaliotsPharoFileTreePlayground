@@ -12,7 +12,8 @@
 		"methodCategoryName",
 		"classSymbol",
 		"isInstanceSide",
-		"selector" ],
+		"selector",
+		"textSelection" ],
 	"name" : "TGNode",
 	"pools" : [
 		 ],

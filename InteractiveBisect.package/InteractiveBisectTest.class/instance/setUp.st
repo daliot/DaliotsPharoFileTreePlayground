@@ -1,9 +1,9 @@
-as yet unclassified
+running
 setUp
 
 	super setUp.
 	gotTooSmallNumberChanged := false.
-	gotInputNumberChanged := false. "rename this variable to gotNumberChanged"
+	gotNumberChanged := false.
 	gotTooBigNumberChanged := false.
 	bisect := InteractiveBisect new.
 	bisect addDependent: self.

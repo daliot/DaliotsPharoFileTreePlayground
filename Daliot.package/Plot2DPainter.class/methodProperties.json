@@ -1,0 +1,25 @@
+{
+	"class" : {
+		"mathematical" : "hjo 7/25/2008 16:32" },
+	"instance" : {
+		"addAllObjects:" : "hjo 7/25/2008 16:28",
+		"addObject:" : "hjo 7/25/2008 16:28",
+		"centerOfObjects" : "hjo 7/25/2008 16:29",
+		"domainCenter:" : "hjo 7/25/2008 16:29",
+		"drawOn:rectangle:" : "hjo 7/25/2008 16:29",
+		"object:" : "hjo 7/25/2008 16:29",
+		"objects" : "hjo 7/25/2008 16:29",
+		"objects:" : "hjo 7/25/2008 16:29",
+		"pan:" : "hjo 7/25/2008 16:30",
+		"panAndZoomToObjects" : "hjo 7/25/2008 16:30",
+		"panToCenterOfObjects" : "hjo 7/25/2008 16:30",
+		"removeAllObjects" : "hjo 7/25/2008 16:30",
+		"removeObject:" : "hjo 7/25/2008 16:30",
+		"setDomainRectangleToIncludeAllObjects" : "hjo 7/25/2008 16:30",
+		"setDomainRectangleToIncludeAllObjectsIgnoreErrors" : "hjo 7/25/2008 16:30",
+		"space2D" : "hjo 7/25/2008 16:31",
+		"space2D:" : "hjo 7/25/2008 16:31",
+		"zoom:" : "hjo 7/25/2008 16:31",
+		"zoomIn" : "hjo 7/25/2008 16:31",
+		"zoomOut" : "hjo 7/25/2008 16:31",
+		"zoomToIncludeAllObjects" : "hjo 7/25/2008 16:31" } }

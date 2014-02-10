@@ -3,4 +3,5 @@ treatTheNumberTooSmall
 
 	tooSmallNumber := self inputNumber.
 	self changed: #tooSmallNumber.
-	self tryToAnnounceComputedNumber
+	self changed: #stringOfTooSmallNumber.
+	self tryToControlWithComputedNumber

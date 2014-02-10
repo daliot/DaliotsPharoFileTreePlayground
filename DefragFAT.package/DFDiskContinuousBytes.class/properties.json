@@ -1,0 +1,16 @@
+{
+	"category" : "DefragFAT",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"bytes",
+		"startingIndex",
+		"fileSystem" ],
+	"name" : "DFDiskContinuousBytes",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

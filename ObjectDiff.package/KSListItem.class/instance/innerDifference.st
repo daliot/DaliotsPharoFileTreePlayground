@@ -1,3 +1,0 @@
-accessing
-innerDifference
-^diffSheet openInnerDifferenceAtKeyIndex: index

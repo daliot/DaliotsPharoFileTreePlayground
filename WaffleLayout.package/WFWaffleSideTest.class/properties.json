@@ -1,0 +1,14 @@
+{
+	"category" : "WaffleLayout-test",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"side" ],
+	"name" : "WFWaffleSideTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

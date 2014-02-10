@@ -1,0 +1,15 @@
+{
+	"category" : "Daliot-Plot",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"xAxis",
+		"yAxis" ],
+	"name" : "Space2D",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

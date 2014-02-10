@@ -1,3 +1,0 @@
-private
-zaaap
-	subjectClass removeInstVarNamed: variableName

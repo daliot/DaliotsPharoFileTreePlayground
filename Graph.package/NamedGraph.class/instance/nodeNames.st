@@ -1,4 +1,4 @@
 names
 nodeNames
 	
-	^self vertexNames
+	^vertices collect: [:each| each name ]

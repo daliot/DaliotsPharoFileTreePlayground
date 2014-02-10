@@ -2,6 +2,7 @@ printing
 stringForListMorphItem
 
 	^[self 
+		ifNothing: ['nothing selected ', self className]
 		ifClassCategory:  ['<' , categoryName , '>']
 		ifClass:  [self metaOrClass printString]
 		ifMethodCategory:  [self metaOrClass name , '   <' , methodCategoryName , '>']
@@ -10,5 +11,4 @@ stringForListMorphItem
 				stream 
 					nextPutAll: self metaOrClass name; 
 					nextPutAll: '   ';
-					nextPutAll: selector;
-					nextPutAll: ' <', methodCategoryName , '>']]] on: Error do: [:ex| ex printString]
+					nextPutAll: selector]]] on: Error do: [:ex| ex printString]

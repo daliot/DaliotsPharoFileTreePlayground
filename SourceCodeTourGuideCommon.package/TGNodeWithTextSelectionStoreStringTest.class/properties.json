@@ -1,0 +1,14 @@
+{
+	"category" : "SourceCodeTourGuideCommon-Test",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "TGNodeWithTextSelectionStoreStringTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }
