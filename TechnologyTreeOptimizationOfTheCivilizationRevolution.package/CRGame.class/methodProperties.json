@@ -1,0 +1,16 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"aquireTechNamed:" : "hjo 9/14/2011 02:14",
+		"aquireTechOrderToReachTechNamed:" : "hjo 9/14/2011 02:55",
+		"aquireTechsNamed:" : "hjo 9/14/2011 02:16",
+		"countOfTechsOfLevel:" : "hjo 9/13/2011 23:55",
+		"initialize" : "hjo 9/14/2011 02:13",
+		"initializeTechs" : "hjo 9/14/2011 00:48",
+		"setUpRequirementTechsOfTechNamed:withTechNames:" : "hjo 9/13/2011 23:27",
+		"setUpTechRequirements" : "hjo 9/14/2011 00:48",
+		"techNamed:" : "hjo 9/13/2011 23:23",
+		"techOrderToReachTechNamed:" : "hjo 9/14/2011 01:29",
+		"techsOfLevel:" : "hjo 9/13/2011 23:54",
+		"unaquiredTechOrderToReachTechNamed:" : "hjo 9/14/2011 02:23" } }

@@ -1,0 +1,3 @@
+select generals
+governerFitnessSortedUnassignedGenerals
+	^(self unassignedGenerals) asSortedCollection: (S2SortDescriptor byGovernerFitness)

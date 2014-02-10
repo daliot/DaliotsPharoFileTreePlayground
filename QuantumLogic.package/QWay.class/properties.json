@@ -1,0 +1,15 @@
+{
+	"category" : "QuantumLogic-Maze",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"cell1",
+		"cell2" ],
+	"name" : "QWay",
+	"pools" : [
+		 ],
+	"super" : "QConnector",
+	"type" : "normal" }

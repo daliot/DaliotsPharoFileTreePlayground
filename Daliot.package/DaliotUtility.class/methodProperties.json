@@ -1,0 +1,11 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"classCategoriesNotCoveredByMonticello" : "hjo 4/15/2008 09:45",
+		"classesThatCanUnderstandAll:" : "hjo 12/24/2008 14:08",
+		"createClassFootPrintFile" : "hjo 12/14/2008 18:19",
+		"createFootPrintFileExtension:data:byDong:" : "hjo 12/14/2008 18:18",
+		"createFootPrintFiles" : "hjo 12/14/2008 18:20",
+		"createMethodFootPrintFile" : "hjo 12/14/2008 18:19",
+		"readAndFindMissingClassFromClassFootPrintFile:" : "hjo 12/14/2008 18:37" } }

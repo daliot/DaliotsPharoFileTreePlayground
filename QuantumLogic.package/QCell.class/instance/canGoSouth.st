@@ -1,0 +1,3 @@
+testing
+canGoSouth
+^southBetween canGoThrough

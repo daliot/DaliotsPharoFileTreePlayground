@@ -1,6 +1,6 @@
 self evaluating
 sourceCode
 
-	^variableName , 'Default
+	^'default', variableName capitalized , '
 
 	^', returningExpression

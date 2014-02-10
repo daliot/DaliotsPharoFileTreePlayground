@@ -1,0 +1,15 @@
+{
+	"category" : "DocumentLogic",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"isNew",
+		"isDirty" ],
+	"name" : "Doc",
+	"pools" : [
+		 ],
+	"super" : "DocumentLogic",
+	"type" : "normal" }

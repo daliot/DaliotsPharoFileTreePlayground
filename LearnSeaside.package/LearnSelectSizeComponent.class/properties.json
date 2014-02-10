@@ -1,0 +1,14 @@
+{
+	"category" : "LearnSeaside",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "LearnSelectSizeComponent",
+	"pools" : [
+		 ],
+	"super" : "LearnHttpCanvasComponent",
+	"type" : "normal" }

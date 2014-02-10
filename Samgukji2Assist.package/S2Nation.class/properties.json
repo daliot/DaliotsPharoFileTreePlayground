@@ -1,0 +1,19 @@
+{
+	"category" : "Samgukji2Assist-Samgukji2Assist",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"generals",
+		"projects",
+		"king",
+		"currentProvince",
+		"world",
+		"graph" ],
+	"name" : "S2Nation",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

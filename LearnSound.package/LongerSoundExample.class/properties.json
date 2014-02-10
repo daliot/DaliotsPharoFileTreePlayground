@@ -1,0 +1,14 @@
+{
+	"category" : "LearnSound",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "LongerSoundExample",
+	"pools" : [
+		 ],
+	"super" : "LearnMIDI",
+	"type" : "normal" }

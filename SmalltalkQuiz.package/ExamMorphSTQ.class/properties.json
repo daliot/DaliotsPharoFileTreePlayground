@@ -1,0 +1,17 @@
+{
+	"category" : "SmalltalkQuiz-GUI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"questionTextMoprh",
+		"quiz",
+		"choiceMorphs",
+		"failedQuizs" ],
+	"name" : "ExamMorphSTQ",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }

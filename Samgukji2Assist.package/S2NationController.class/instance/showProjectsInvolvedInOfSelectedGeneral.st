@@ -1,0 +1,3 @@
+as yet unclassified
+showProjectsInvolvedInOfSelectedGeneral
+	self generalsOfCurrentProvinceListModel selection involvedProjects inspect 

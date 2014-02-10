@@ -1,0 +1,4 @@
+accessing
+sierpinskiDepth
+
+	^0

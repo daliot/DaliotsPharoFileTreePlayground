@@ -1,0 +1,14 @@
+{
+	"category" : "Samgukji2Assist-Strategy",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "S2UnknownType",
+	"pools" : [
+		 ],
+	"super" : "S2ProvinceType",
+	"type" : "normal" }

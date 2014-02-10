@@ -1,0 +1,14 @@
+{
+	"category" : "Prolog-Predicate",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"data" ],
+	"name" : "Fact",
+	"pools" : [
+		 ],
+	"super" : "PrologPredicate",
+	"type" : "normal" }

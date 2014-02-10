@@ -1,0 +1,14 @@
+{
+	"category" : "SieveCommon-GUI-FilterPanels",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "SourceCodeContainsPanel",
+	"pools" : [
+		 ],
+	"super" : "FilterPanel",
+	"type" : "normal" }

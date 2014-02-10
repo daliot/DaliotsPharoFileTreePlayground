@@ -1,0 +1,14 @@
+{
+	"category" : "TestableGraphics",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "NullCanvasContents",
+	"pools" : [
+		 ],
+	"super" : "CanvasContents",
+	"type" : "normal" }

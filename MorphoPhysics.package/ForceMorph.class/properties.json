@@ -1,0 +1,15 @@
+{
+	"category" : "MorphoPhysics",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"ball1",
+		"ball2" ],
+	"name" : "ForceMorph",
+	"pools" : [
+		 ],
+	"super" : "PolygonMorph",
+	"type" : "normal" }

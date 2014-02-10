@@ -1,0 +1,4 @@
+accessing
+edgeStyle
+
+	^edgeStyle

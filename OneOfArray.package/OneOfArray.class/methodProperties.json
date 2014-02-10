@@ -1,0 +1,22 @@
+{
+	"class" : {
+		"array:selectionIndex:" : "hjo 9/6/2011 16:44" },
+	"instance" : {
+		"array" : "hjo 9/6/2011 16:31",
+		"array:" : "hjo 9/6/2011 16:31",
+		"array:selectionIndex:" : "hjo 9/6/2011 16:43",
+		"isSelectingFirstOne" : "hjo 9/6/2011 16:33",
+		"isSelectingLastOne" : "hjo 9/6/2011 16:33",
+		"nextOne" : "hjo 9/6/2011 16:32",
+		"nextToSelection" : "hjo 9/6/2011 16:41",
+		"previousOne" : "hjo 9/6/2011 16:32",
+		"previousToSelection" : "hjo 9/6/2011 16:41",
+		"selectFirstOne" : "hjo 9/6/2011 16:40",
+		"selectLastOne" : "hjo 9/6/2011 16:40",
+		"selectNextOne" : "hjo 9/6/2011 16:38",
+		"selectNextOneCyclically" : "hjo 9/6/2011 16:39",
+		"selectPreviousOne" : "hjo 9/6/2011 16:38",
+		"selectPreviousOneCyclically" : "hjo 9/6/2011 16:40",
+		"selectedOne" : "hjo 9/6/2011 16:32",
+		"selectionIndex" : "hjo 9/6/2011 16:31",
+		"selectionIndex:" : "hjo 9/6/2011 16:42" } }

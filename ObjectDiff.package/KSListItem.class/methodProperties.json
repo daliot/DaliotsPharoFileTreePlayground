@@ -1,0 +1,19 @@
+{
+	"class" : {
+		"diffSheet:index:" : "HwaJong 10/30/2012 12:08" },
+	"instance" : {
+		"balloonText" : "HwaJong 10/31/2012 12:27",
+		"canOpenInnerDifference" : "HwaJong 10/31/2012 12:14",
+		"canOpenLeftInspector" : "HwaJong 10/31/2012 19:27",
+		"canOpenRightInspector" : "HwaJong 10/31/2012 21:26",
+		"diffItemType" : "HwaJong 12/26/2012 16:01",
+		"diffKey" : "HwaJong 12/26/2012 21:02",
+		"diffLeftSidePrint" : "HwaJong 12/26/2012 20:59",
+		"diffRightSidePrint" : "HwaJong 12/26/2012 21:03",
+		"diffSheet:" : "HwaJong 10/30/2012 12:08",
+		"ifIdentical:ifEqual:ifDifferent:ifLeftMissing:ifRightMissing:" : "HwaJong 12/26/2012 16:01",
+		"index:" : "HwaJong 10/30/2012 12:08",
+		"innerDifference" : "HwaJong 10/31/2012 11:45",
+		"inspectLeft" : "HwaJong 10/31/2012 21:30",
+		"inspectRight" : "HwaJong 10/31/2012 21:32",
+		"oneColumnPrintString" : "HwaJong 10/30/2012 12:35" } }

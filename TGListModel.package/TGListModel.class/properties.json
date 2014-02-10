@@ -6,10 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"list",
-		"selectionIndex" ],
+		 ],
 	"name" : "TGListModel",
 	"pools" : [
 		 ],
-	"super" : "Object",
+	"super" : "PureListModel",
 	"type" : "normal" }

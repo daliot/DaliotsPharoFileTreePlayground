@@ -1,0 +1,15 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"addToAnswers:" : "hjo 3/27/2008 11:02",
+		"answers" : "hjo 2/2/2008 23:13",
+		"run" : "hjo 2/2/2008 23:15",
+		"runToFindOneAnswer" : "hjo 2/2/2008 21:48",
+		"stack" : "hjo 2/2/2008 23:12",
+		"stackContents" : "hjo 1/28/2012 19:38",
+		"stackIsEmpty" : "hjo 2/2/2008 23:15",
+		"stackPopPossibilities" : "hjo 1/29/2012 17:47",
+		"stackSize" : "hjo 2/2/2008 23:14",
+		"stackTop" : "hjo 1/29/2012 17:50",
+		"step" : "hjo 1/29/2012 17:47" } }

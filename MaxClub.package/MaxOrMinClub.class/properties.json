@@ -1,0 +1,15 @@
+{
+	"category" : "MaxClub",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"evaluator",
+		"members" ],
+	"name" : "MaxOrMinClub",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

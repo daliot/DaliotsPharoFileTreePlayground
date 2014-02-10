@@ -1,0 +1,28 @@
+{
+	"class" : {
+		"drawOnWorld" : "hjo 3/25/2008 17:39",
+		"generateTestableCanvasWithPolygonsFrom:" : "hjo 3/26/2008 10:40" },
+	"instance" : {
+		"coordinatedFrame:" : "hjo 3/25/2008 15:40",
+		"defaultFrame" : "hjo 3/25/2008 15:40",
+		"drawOn:" : "hjo 3/25/2008 15:37",
+		"frameOriginForCoordination:" : "hjo 3/25/2008 15:42",
+		"frameSize" : "hjo 3/25/2008 15:39",
+		"picture:atCoordiation:yieldsPoints:" : "hjo 3/26/2008 10:54",
+		"picture:atCoordiation:yieldsPolygonsOfPoints:" : "hjo 3/26/2008 10:54",
+		"test010F" : "hjo 3/25/2008 17:33",
+		"test020Rotated" : "hjo 3/25/2008 17:31",
+		"test030RotatedTwice" : "hjo 3/25/2008 17:35",
+		"test040RotatedTripplly" : "hjo 3/25/2008 17:36",
+		"test050RotatedQuad" : "hjo 3/25/2008 17:52",
+		"test060Flipped" : "hjo 3/25/2008 17:55",
+		"test070FlippedFlipped" : "hjo 3/25/2008 18:01",
+		"test080FlipRot" : "hjo 3/25/2008 18:07",
+		"test090Rot45" : "hjo 3/25/2008 18:21",
+		"test100FlipRot45" : "hjo 3/25/2008 18:22",
+		"test110Over" : "hjo 3/26/2008 10:53",
+		"test120Above" : "hjo 3/26/2008 11:03",
+		"test130Above" : "hjo 3/26/2008 11:06",
+		"test140Cycle" : "hjo 3/26/2008 11:08",
+		"test150Nonet" : "hjo 3/26/2008 11:16",
+		"yMargin" : "hjo 3/25/2008 15:42" } }

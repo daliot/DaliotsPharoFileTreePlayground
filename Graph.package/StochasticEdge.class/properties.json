@@ -1,0 +1,14 @@
+{
+	"category" : "Graph-Stochastic",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"probability" ],
+	"name" : "StochasticEdge",
+	"pools" : [
+		 ],
+	"super" : "StateEdge",
+	"type" : "normal" }

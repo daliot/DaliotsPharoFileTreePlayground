@@ -1,0 +1,4 @@
+*SourceCodeTourGuideOmniBrowser
+asNode
+
+	^self

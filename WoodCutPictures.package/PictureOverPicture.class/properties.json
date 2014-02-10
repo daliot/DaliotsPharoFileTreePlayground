@@ -1,0 +1,16 @@
+{
+	"category" : "WoodCutPictures-Functions",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"overPicture",
+		"underPicture",
+		"frame" ],
+	"name" : "PictureOverPicture",
+	"pools" : [
+		 ],
+	"super" : "FunctionalWoodCutPicture",
+	"type" : "normal" }

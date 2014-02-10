@@ -1,0 +1,14 @@
+{
+	"category" : "DiceRoller",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "DEAdd",
+	"pools" : [
+		 ],
+	"super" : "DEBinaryOperation",
+	"type" : "normal" }

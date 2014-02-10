@@ -1,0 +1,15 @@
+{
+	"category" : "PocketCube-SidePatterns",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"colorOfLeftBar",
+		"colorOfRightBar" ],
+	"name" : "VerticallyParallelSidePattern",
+	"pools" : [
+		 ],
+	"super" : "ParallelSidePattern",
+	"type" : "normal" }

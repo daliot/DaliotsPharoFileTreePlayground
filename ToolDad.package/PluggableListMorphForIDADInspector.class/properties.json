@@ -1,0 +1,16 @@
+{
+	"category" : "ToolDad",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "hjo 1/1/2009 16:52",
+	"instvars" : [
+		"dragItemSelector",
+		"dropItemSelector",
+		"wantsDropSelector" ],
+	"name" : "PluggableListMorphForIDADInspector",
+	"pools" : [
+		 ],
+	"super" : "PluggableListMorph",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "ObjectDiff-GUI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ODLeftMissingIcon",
+	"pools" : [
+		 ],
+	"super" : "FormCache",
+	"type" : "normal" }

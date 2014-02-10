@@ -1,0 +1,14 @@
+{
+	"category" : "Graph-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "DirectionlessGraphBackwardBreathFirstDoTest",
+	"pools" : [
+		 ],
+	"super" : "DirectionlessGraphBreathFirstDoTest",
+	"type" : "normal" }

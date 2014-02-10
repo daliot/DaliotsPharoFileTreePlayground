@@ -1,0 +1,16 @@
+{
+	"category" : "PocketCube",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"c",
+		"s",
+		"scr" ],
+	"name" : "PocketCubeWorkspace",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

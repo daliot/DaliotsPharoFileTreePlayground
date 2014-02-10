@@ -1,0 +1,19 @@
+{
+	"class" : {
+		"ratio4hour4" : "HwaJong 11/23/2012 15:02",
+		"ratio5hour8" : "HwaJong 11/23/2012 15:03" },
+	"instance" : {
+		"addEntryToSchedule" : "HwaJong 11/23/2012 14:56",
+		"compute" : "HwaJong 11/23/2012 15:00",
+		"hours:" : "HwaJong 11/23/2012 14:58",
+		"increaseWorkMin" : "HwaJong 11/23/2012 14:50",
+		"initialize" : "HwaJong 11/23/2012 14:56",
+		"mins:" : "HwaJong 11/23/2012 14:58",
+		"playMin" : "HwaJong 11/23/2012 14:48",
+		"reduceMin" : "HwaJong 11/23/2012 14:50",
+		"schedule" : "HwaJong 11/23/2012 15:00",
+		"workMin" : "HwaJong 11/23/2012 14:57",
+		"workMin:" : "HwaJong 11/23/2012 14:57",
+		"workPerPlayRatio" : "HwaJong 11/23/2012 14:57",
+		"workPerPlayRatio:" : "HwaJong 11/23/2012 14:57",
+		"workPlayEntry" : "HwaJong 11/23/2012 14:49" } }

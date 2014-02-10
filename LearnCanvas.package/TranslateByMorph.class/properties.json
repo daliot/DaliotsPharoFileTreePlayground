@@ -1,0 +1,14 @@
+{
+	"category" : "LearnCanvas",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "TranslateByMorph",
+	"pools" : [
+		 ],
+	"super" : "LearnCanvasMorph",
+	"type" : "normal" }

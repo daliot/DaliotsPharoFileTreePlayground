@@ -1,0 +1,9 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"setUp" : "hjo 1/24/2012 19:31",
+		"testCloseClose" : "hjo 1/24/2012 19:51",
+		"testCloseOpen" : "hjo 1/24/2012 19:51",
+		"testOpenClose" : "hjo 1/24/2012 19:52",
+		"testOpenOpen" : "hjo 1/24/2012 19:33" } }

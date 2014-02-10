@@ -1,0 +1,7 @@
+*Daliot
+concatenateAllWithDoubleLineBreaks
+
+	^self concatenateAllSeparatedBy:
+'
+
+'

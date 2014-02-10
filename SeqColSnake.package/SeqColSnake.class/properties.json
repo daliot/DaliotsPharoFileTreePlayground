@@ -1,0 +1,17 @@
+{
+	"category" : "SeqColSnake",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"length",
+		"proceeding",
+		"snake",
+		"rotator" ],
+	"name" : "SeqColSnake",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,17 @@
+{
+	"class" : {
+		"defaultVertexClass" : "HwaJong 5/17/2013 19:23" },
+	"instance" : {
+		"addVertex:named:" : "HwaJong 5/17/2013 19:26",
+		"addVertexNamed:" : "hjo 11/29/2009 16:56",
+		"addVerticesNamed:" : "hjo 11/29/2009 16:56",
+		"connectVertexNamed:andVertexNamed:" : "hjo 11/29/2009 19:50",
+		"connectVertexNamed:toVertexNamed:" : "hjo 11/29/2009 19:50",
+		"getOrAndNewVertexNamed:" : "hjo 9/26/2009 20:36",
+		"hasVertexNamed:" : "HwaJong 5/17/2013 19:33",
+		"name:as:" : "hjo 9/26/2009 19:57",
+		"nameOf:" : "HwaJong 5/17/2013 19:32",
+		"nodeNames" : "hjo 11/29/2009 15:59",
+		"vertexNamed:" : "HwaJong 5/17/2013 19:28",
+		"vertexNames" : "HwaJong 5/17/2013 19:33",
+		"verticesNamed:" : "hjo 11/29/2009 19:43" } }

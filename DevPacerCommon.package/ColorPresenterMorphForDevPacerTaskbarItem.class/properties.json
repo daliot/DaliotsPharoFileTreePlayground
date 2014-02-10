@@ -1,0 +1,14 @@
+{
+	"category" : "DevPacerCommon",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ColorPresenterMorphForDevPacerTaskbarItem",
+	"pools" : [
+		 ],
+	"super" : "ColorPresenterMorph",
+	"type" : "normal" }

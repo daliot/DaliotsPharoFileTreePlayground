@@ -1,0 +1,14 @@
+{
+	"category" : "Graph-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "hjo 9/19/2009 18:02",
+	"instvars" : [
+		"vertices" ],
+	"name" : "Graph",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

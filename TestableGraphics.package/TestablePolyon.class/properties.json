@@ -1,0 +1,17 @@
+{
+	"category" : "TestableGraphics",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"points",
+		"borderWidth",
+		"color",
+		"borderColor" ],
+	"name" : "TestablePolyon",
+	"pools" : [
+		 ],
+	"super" : "CanvasContents",
+	"type" : "normal" }

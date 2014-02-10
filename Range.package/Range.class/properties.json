@@ -1,0 +1,17 @@
+{
+	"category" : "Range",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"start",
+		"stop",
+		"isStartOpen",
+		"isStopOpen" ],
+	"name" : "Range",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

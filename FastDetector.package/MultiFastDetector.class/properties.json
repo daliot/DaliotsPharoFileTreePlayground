@@ -1,0 +1,15 @@
+{
+	"category" : "FastDetector",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"collection",
+		"detectors" ],
+	"name" : "MultiFastDetector",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

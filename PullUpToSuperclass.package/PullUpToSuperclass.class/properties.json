@@ -1,0 +1,17 @@
+{
+	"category" : "PullUpToSuperclass",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "HwaJong 5/3/2013 21:44",
+	"instvars" : [
+		"classes",
+		"commonSuperclass",
+		"commonClassSideSelectors",
+		"commonInstanceSideSelectors" ],
+	"name" : "PullUpToSuperclass",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

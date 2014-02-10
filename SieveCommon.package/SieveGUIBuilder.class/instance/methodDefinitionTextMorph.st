@@ -1,0 +1,3 @@
+accessing
+methodDefinitionTextMorph
+^methodDefinitionTextMorph setDefault: #defaultMethodDefinitionTextMorph for: self withSetter: #methodDefinitionTextMorph:

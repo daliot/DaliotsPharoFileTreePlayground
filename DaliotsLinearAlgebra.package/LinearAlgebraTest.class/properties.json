@@ -1,0 +1,14 @@
+{
+	"category" : "DaliotsLinearAlgebra",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "LinearAlgebraTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

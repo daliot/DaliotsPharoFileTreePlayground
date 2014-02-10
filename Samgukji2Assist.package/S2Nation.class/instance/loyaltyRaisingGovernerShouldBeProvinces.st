@@ -1,0 +1,3 @@
+as yet unclassified
+loyaltyRaisingGovernerShouldBeProvinces
+	^self provinces select: #isAProvinceWhereLoyaltyRaisingGovernerShouldBe

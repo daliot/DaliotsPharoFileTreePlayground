@@ -1,0 +1,20 @@
+{
+	"category" : "PocketCube-Morph",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"pocketCube",
+		"sideAccessor",
+		"upperLeftPieceMorph",
+		"upperRightPieceMorph",
+		"lowerRightPieceMorph",
+		"lowerLeftPieceMorph",
+		"waffleLayout" ],
+	"name" : "PocketCubeSideController",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

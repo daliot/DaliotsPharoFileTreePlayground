@@ -1,0 +1,17 @@
+{
+	"category" : "DaliotsLinearAlgebra",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"roots",
+		"polynomial",
+		"oneRootAlgorithm",
+		"targetNumberOfRoots" ],
+	"name" : "RootsOfPolynomialAlgorithm",
+	"pools" : [
+		 ],
+	"super" : "Algorithm",
+	"type" : "normal" }

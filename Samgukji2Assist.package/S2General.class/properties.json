@@ -1,0 +1,22 @@
+{
+	"category" : "Samgukji2Assist-Samgukji2Assist",
+	"classinstvars" : [
+		 ],
+	"classtraitcomposition" : "ClassCheckingHashProofTrait classTrait",
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"name",
+		"strength",
+		"charm",
+		"job",
+		"province",
+		"loyaltyState",
+		"intelligence" ],
+	"name" : "S2General",
+	"pools" : [
+		 ],
+	"super" : "S2ObjectThatKnowsNation",
+	"traitcomposition" : "ClassCheckingHashProofTrait",
+	"type" : "normal" }

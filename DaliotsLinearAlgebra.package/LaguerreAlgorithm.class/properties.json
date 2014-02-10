@@ -1,0 +1,19 @@
+{
+	"category" : "DaliotsLinearAlgebra",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"f",
+		"ff",
+		"fff",
+		"x",
+		"roots",
+		"polynomial" ],
+	"name" : "LaguerreAlgorithm",
+	"pools" : [
+		 ],
+	"super" : "Algorithm",
+	"type" : "normal" }

@@ -1,0 +1,25 @@
+{
+	"category" : "PhileasFogg",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"window",
+		"model",
+		"contentView",
+		"classNameTextMorph",
+		"superclassButton",
+		"userClassButtonesMorph",
+		"buttons",
+		"instanceVariablesMorph",
+		"scrollPane",
+		"point",
+		"textMorph",
+		"contentViewOfScrollPane" ],
+	"name" : "PhileasFoggController",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

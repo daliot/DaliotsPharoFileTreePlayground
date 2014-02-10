@@ -1,0 +1,15 @@
+{
+	"category" : "DiceRoller",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"left",
+		"right" ],
+	"name" : "DEBinaryOperation",
+	"pools" : [
+		 ],
+	"super" : "DiceExpression",
+	"type" : "normal" }

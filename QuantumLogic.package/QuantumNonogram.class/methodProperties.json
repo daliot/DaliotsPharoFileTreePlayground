@@ -1,0 +1,15 @@
+{
+	"class" : {
+		"rows:columns:" : "hjo 1/29/2012 22:09" },
+	"instance" : {
+		"columns" : "hjo 1/29/2012 21:19",
+		"createColumnAt:withHint:" : "hjo 2/1/2012 21:35",
+		"createRowAt:withHint:" : "hjo 2/1/2012 21:35",
+		"fillInTheCellIfCan" : "hjo 2/1/2012 20:09",
+		"isDetermined" : "hjo 1/29/2012 21:31",
+		"matrix:" : "hjo 1/29/2012 22:08",
+		"printOn:" : "hjo 1/31/2012 00:07",
+		"putBool:at:at:" : "hjo 2/1/2012 20:47",
+		"rows" : "hjo 1/29/2012 21:05",
+		"runSolving" : "hjo 2/1/2012 20:42",
+		"stepSolving" : "hjo 2/1/2012 20:41" } }

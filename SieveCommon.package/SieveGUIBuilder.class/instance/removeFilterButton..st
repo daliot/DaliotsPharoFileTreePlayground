@@ -1,0 +1,3 @@
+accessing
+removeFilterButton: aPluggableButton
+removeFilterButton := aPluggableButton

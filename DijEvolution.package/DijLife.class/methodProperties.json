@@ -1,0 +1,22 @@
+{
+	"class" : {
+		"object:" : "hjo 6/27/2012 14:18",
+		"object:cost:" : "hjo 6/27/2012 14:18" },
+	"instance" : {
+		"birthCost" : "hjo 6/27/2012 13:53",
+		"birthCost:" : "hjo 6/28/2012 00:53",
+		"birthMessage" : "hjo 6/27/2012 13:53",
+		"birthMessage:" : "hjo 6/28/2012 00:53",
+		"birthMessageChain" : "hjo 6/27/2012 21:58",
+		"birthMessageChainOn:" : "hjo 6/27/2012 21:58",
+		"birthMessagesReplayed" : "hjo 6/27/2012 21:52",
+		"computeCost" : "hjo 6/27/2012 14:59",
+		"cost" : "hjo 6/27/2012 04:08",
+		"cost:" : "hjo 6/27/2012 04:08",
+		"giveBirthWith:" : "hjo 6/27/2012 23:14",
+		"giveBirthWith:cost:" : "hjo 6/27/2012 23:13",
+		"object" : "hjo 6/27/2012 14:50",
+		"object:" : "hjo 6/27/2012 13:57",
+		"origin" : "hjo 6/27/2012 13:53",
+		"origin:" : "hjo 6/27/2012 13:53",
+		"printOn:" : "hjo 6/27/2012 18:03" } }

@@ -1,0 +1,5 @@
+*lazyrabbitomnibrowser
+lazyRabbitCommand
+	<command>
+	
+	^ OBCmdLayzRabbitAddInstVar

@@ -1,0 +1,10 @@
+{
+	"class" : {
+		"isAbstract" : "HwaJong 10/3/2012 17:54" },
+	"instance" : {
+		"setUp" : "HwaJong 10/3/2012 18:04",
+		"testHasSaveMedium" : "HwaJong 10/5/2012 14:21",
+		"testHasUnsavedChange" : "HwaJong 10/5/2012 13:40",
+		"testdWhatAreYouGoingToDoWhenUserCloses" : "HwaJong 10/4/2012 22:38",
+		"testdWhatAreYouGoingToDoWhenUserLoads" : "HwaJong 10/3/2012 18:02",
+		"testdWhatAreYouGoingToDoWhenUserSaves" : "HwaJong 10/3/2012 18:02" } }

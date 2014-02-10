@@ -1,0 +1,15 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"deleteAllMorphs" : "hjo 2/21/2011 15:25",
+		"generatePatternClass" : "hjo 2/21/2011 15:48",
+		"oneStepBetter" : "hjo 2/21/2011 15:26",
+		"printPatternMatchingCode" : "hjo 2/21/2011 15:31",
+		"printScramblingCode" : "hjo 2/21/2011 15:30",
+		"removeAllPatternClasses" : "hjo 3/25/2011 17:08",
+		"reset" : "hjo 2/21/2011 15:25",
+		"scramble" : "hjo 2/21/2011 15:29",
+		"setScrambler" : "hjo 3/24/2011 19:39",
+		"setScramblerOfOrder:" : "hjo 1/9/2012 09:11",
+		"unscramble" : "hjo 2/21/2011 15:29" } }

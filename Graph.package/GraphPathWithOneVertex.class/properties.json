@@ -1,0 +1,14 @@
+{
+	"category" : "Graph-Extended",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"vertex" ],
+	"name" : "GraphPathWithOneVertex",
+	"pools" : [
+		 ],
+	"super" : "GraphPathAbstract",
+	"type" : "normal" }

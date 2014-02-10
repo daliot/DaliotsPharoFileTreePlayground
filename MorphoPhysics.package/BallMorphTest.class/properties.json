@@ -1,0 +1,14 @@
+{
+	"category" : "MorphoPhysics-Test",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"ballMorph" ],
+	"name" : "BallMorphTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

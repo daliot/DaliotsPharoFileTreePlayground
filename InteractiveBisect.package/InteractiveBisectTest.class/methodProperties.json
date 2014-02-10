@@ -1,0 +1,15 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"setUp" : "hjo 8/30/2011 20:30",
+		"tearDown" : "hjo 8/30/2011 20:19",
+		"testIntegerMode" : "hjo 8/2/2011 12:37",
+		"testReset" : "hjo 8/30/2011 20:30",
+		"testSetUp" : "hjo 8/1/2011 23:07",
+		"testTooBig" : "hjo 8/30/2011 20:30",
+		"testTooBigTooSmall" : "hjo 8/30/2011 20:30",
+		"testTooBigTooSmallTooBig" : "hjo 8/30/2011 20:30",
+		"testTooBigTooSmallTooSmll" : "hjo 8/30/2011 20:30",
+		"testTooSmall" : "hjo 8/30/2011 20:30",
+		"update:" : "hjo 8/30/2011 20:30" } }

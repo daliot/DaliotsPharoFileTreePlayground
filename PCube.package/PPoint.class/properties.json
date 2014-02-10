@@ -1,0 +1,16 @@
+{
+	"category" : "PCube-Rendering",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"x",
+		"y",
+		"z" ],
+	"name" : "PPoint",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

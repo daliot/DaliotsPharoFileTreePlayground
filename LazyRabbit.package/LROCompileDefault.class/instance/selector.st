@@ -1,4 +1,4 @@
 self evaluating
 selector
 
-	^(variableName, 'Default') asSymbol
+	^('default' , variableName capitalized) asSymbol

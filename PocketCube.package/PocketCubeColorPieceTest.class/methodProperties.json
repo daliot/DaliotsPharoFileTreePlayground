@@ -1,0 +1,13 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"onPocketCubeChanged" : "hjo 2/2/2011 21:08",
+		"setUp" : "hjo 3/24/2011 15:51",
+		"testSidesAreUpperLayerTwistedLeft" : "hjo 2/2/2011 19:11",
+		"testSidesAreUpperLayerTwistedRight" : "hjo 2/2/2011 19:11",
+		"testSidesAreUpperLayerTwistedTwice" : "hjo 2/2/2011 19:13",
+		"testTwistLowerLayerLeft" : "hjo 2/2/2011 21:10",
+		"testTwistLowerLayerRight" : "hjo 2/2/2011 21:09",
+		"testTwistUpperLayerLeft" : "hjo 2/2/2011 21:11",
+		"testTwistUpperLayerRight" : "hjo 2/2/2011 21:11" } }

@@ -1,0 +1,4 @@
+gui
+helpName
+
+	^'image pacer'

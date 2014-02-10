@@ -1,0 +1,14 @@
+{
+	"category" : "SieveCommon-Model-Main",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"methods" ],
+	"name" : "Sieve",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

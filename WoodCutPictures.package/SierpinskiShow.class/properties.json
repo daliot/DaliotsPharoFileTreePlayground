@@ -1,0 +1,14 @@
+{
+	"category" : "WoodCutPictures-Shows",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "SierpinskiShow",
+	"pools" : [
+		 ],
+	"super" : "WoodCutShow",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "Ani-Demo-Ameba",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"ahead" ],
+	"name" : "FollowingAmeba",
+	"pools" : [
+		 ],
+	"super" : "Ameba",
+	"type" : "normal" }

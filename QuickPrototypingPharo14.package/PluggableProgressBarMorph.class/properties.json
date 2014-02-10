@@ -1,0 +1,15 @@
+{
+	"category" : "QuickPrototypingPharo14",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"model",
+		"valueSettingSelector" ],
+	"name" : "PluggableProgressBarMorph",
+	"pools" : [
+		 ],
+	"super" : "SystemProgressBarMorph",
+	"type" : "normal" }

@@ -1,0 +1,15 @@
+{
+	"category" : "ChooseOrEnter",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"chooser",
+		"enterNewItem" ],
+	"name" : "ChooseOrEnter",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,4 @@
+accessing
+nodes
+	
+	^listModel list.

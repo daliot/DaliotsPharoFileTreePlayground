@@ -1,0 +1,16 @@
+{
+	"category" : "PCube-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"vertices",
+		"edges",
+		"triangles" ],
+	"name" : "PPiece",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

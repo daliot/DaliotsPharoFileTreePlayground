@@ -1,0 +1,14 @@
+{
+	"category" : "ToolDad-Pharo14",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"inspector" ],
+	"name" : "IDADSingleTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

@@ -1,0 +1,16 @@
+{
+	"category" : "QuantumLogic-Maze",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"cellMatrix",
+		"playerRowColumn",
+		"goalRowColumn" ],
+	"name" : "QMaze",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

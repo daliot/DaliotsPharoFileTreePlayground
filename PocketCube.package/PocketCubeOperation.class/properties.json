@@ -1,0 +1,14 @@
+{
+	"category" : "PocketCube",
+	"classinstvars" : [
+		"SingletonObject" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "PocketCubeOperation",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

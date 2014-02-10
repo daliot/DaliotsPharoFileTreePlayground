@@ -1,0 +1,23 @@
+{
+	"class" : {
+		"x:y:z:" : "hjo 5/24/2012 15:44" },
+	"instance" : {
+		"+" : "hjo 5/29/2012 10:38",
+		"-" : "hjo 5/24/2012 15:50",
+		"crossProduct:" : "hjo 5/24/2012 16:00",
+		"dotProduct:" : "hjo 5/24/2012 16:13",
+		"length" : "hjo 5/24/2012 15:56",
+		"middle:" : "hjo 5/29/2012 23:10",
+		"printOn:" : "hjo 5/24/2012 16:06",
+		"scaledBy:" : "hjo 5/24/2012 15:57",
+		"squaredLength" : "hjo 5/24/2012 15:56",
+		"unitVector" : "hjo 5/24/2012 15:55",
+		"x" : "hjo 5/24/2012 15:50",
+		"x:" : "hjo 5/24/2012 15:45",
+		"xOfCrossProduct:" : "hjo 5/24/2012 16:01",
+		"y" : "hjo 5/24/2012 15:50",
+		"y:" : "hjo 5/24/2012 15:45",
+		"yOfCrossProduct:" : "hjo 5/24/2012 16:02",
+		"z" : "hjo 5/24/2012 15:50",
+		"z:" : "hjo 5/24/2012 15:45",
+		"zOfCrossProduct:" : "hjo 5/24/2012 16:02" } }

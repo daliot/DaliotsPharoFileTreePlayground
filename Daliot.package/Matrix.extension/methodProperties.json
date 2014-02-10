@@ -1,0 +1,22 @@
+{
+	"class" : {
+		"fromColumns:" : "hjo 1/2/2012 17:01",
+		"fromRows:" : "hjo 1/2/2012 16:51" },
+	"instance" : {
+		"appendBottomRows:withStub:" : "hjo 1/7/2012 11:38",
+		"appendLeftColumns:" : "hjo 1/4/2012 17:27",
+		"appendLeftColumns:withStub:" : "hjo 1/4/2012 17:53",
+		"appendRightColumns:withStub:" : "hjo 1/7/2012 11:44",
+		"appendTopRows:" : "hjo 1/2/2012 17:11",
+		"appendTopRows:withStub:" : "hjo 1/4/2012 17:52",
+		"atWrap:atWrap:" : "HwaJong 12/5/2012 10:58",
+		"canAccessAtRow:atColumn:" : "hjo 4/8/2008 11:35",
+		"cofactorAt:at:" : "HwaJong 11/14/2012 14:57",
+		"columns" : "hjo 3/31/2009 22:01",
+		"compilmentAtRows:at:" : "HwaJong 11/14/2012 14:56",
+		"detectIndex:" : "hjo 11/12/2008 10:51",
+		"insertDiagonal:" : "hjo 4/3/2008 15:34",
+		"isValidIndex:" : "hjo 11/12/2008 11:18",
+		"multilineString" : "hjo 11/12/2008 10:44",
+		"readFromTextStream:" : "hjo 4/3/2008 15:15",
+		"rows" : "hjo 3/31/2009 22:01" } }

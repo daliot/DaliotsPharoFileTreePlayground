@@ -1,0 +1,14 @@
+{
+	"category" : "AppleScriptProgrammer",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"appleScriptStream" ],
+	"name" : "OmniOutlinerDocumentOfSmalltalkClassHierarchyGeneratingAppleScriptWriter",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

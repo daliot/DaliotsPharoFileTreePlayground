@@ -1,0 +1,3 @@
+defaults
+defaultSelectionIndex
+	^0

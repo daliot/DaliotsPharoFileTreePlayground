@@ -1,0 +1,15 @@
+{
+	"category" : "MultiDimensionalEnumeration",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"block",
+		"domains" ],
+	"name" : "MultiDimensionalEnumeration",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

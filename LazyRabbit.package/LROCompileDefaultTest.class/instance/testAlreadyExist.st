@@ -1,8 +1,8 @@
 as yet unclassified
 testAlreadyExist
 	op subjectClass: Object.
-	op variableName: 'is'.
+	op variableName: 'bounds'.
 	self deny: op alreadyExist.
 	
-	op subjectClass: PluggableButtonMorph.
+	op subjectClass: Morph.
 	self assert: op alreadyExist.

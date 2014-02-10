@@ -1,0 +1,12 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"bytesFrom:to:" : "hjo 4/17/2011 21:06",
+		"canPut:startingAt:" : "hjo 4/17/2011 23:34",
+		"doAddFile" : "hjo 4/17/2011 23:17",
+		"doWriteBytes:withStartingIndex:" : "hjo 4/17/2011 21:06",
+		"files" : "hjo 4/17/2011 17:02",
+		"hardDisk:" : "hjo 4/17/2011 15:59",
+		"hardDiskSize" : "hjo 4/17/2011 16:19",
+		"initialize" : "hjo 4/17/2011 17:07" } }

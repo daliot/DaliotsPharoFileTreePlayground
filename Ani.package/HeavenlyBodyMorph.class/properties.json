@@ -1,0 +1,17 @@
+{
+	"category" : "Ani-Demo-SolarSystem",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"apsis",
+		"orbitCenterMorph",
+		"angularVelocity",
+		"angle" ],
+	"name" : "HeavenlyBodyMorph",
+	"pools" : [
+		 ],
+	"super" : "CircleMorph",
+	"type" : "normal" }

@@ -1,0 +1,15 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"canOpenInnerDifference" : "HwaJong 12/26/2012 21:28",
+		"canOpenInnerDifferenceAtKey:" : "HwaJong 12/26/2012 21:22",
+		"canOpenLeftInspector" : "HwaJong 12/26/2012 21:30",
+		"canOpenRightInspector" : "HwaJong 12/26/2012 20:22",
+		"comparison:" : "HwaJong 12/26/2012 20:21",
+		"diffItemType" : "HwaJong 12/26/2012 20:57",
+		"diffKey" : "HwaJong 12/26/2012 22:10",
+		"leftSideObjectEvaluated" : "HwaJong 12/26/2012 20:45",
+		"leftSideObjectEvaluatedString" : "HwaJong 12/26/2012 21:00",
+		"rightSideObjectEvaluated" : "HwaJong 12/26/2012 20:46",
+		"rightSideObjectEvaluatedString" : "HwaJong 12/26/2012 21:04" } }

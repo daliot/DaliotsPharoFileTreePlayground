@@ -1,0 +1,16 @@
+{
+	"category" : "Jihachol",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"line",
+		"graphVertex",
+		"station" ],
+	"name" : "JhcPlatform",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

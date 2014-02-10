@@ -1,0 +1,19 @@
+{
+	"category" : "Plotter-morph",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"form",
+		"plotter",
+		"drawsForm",
+		"drawsPlotting",
+		"drawingMode",
+		"bisect" ],
+	"name" : "PlotterMorph",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }

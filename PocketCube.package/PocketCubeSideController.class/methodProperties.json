@@ -1,0 +1,27 @@
+{
+	"class" : {
+		"openMorphOn:sideAccessor:bounds:gameMorph:" : "hjo 12/28/2011 17:14" },
+	"instance" : {
+		"defaultLowerLeftPieceMorph" : "hjo 12/31/2011 22:17",
+		"defaultLowerRightPieceMorph" : "hjo 12/31/2011 22:18",
+		"defaultPocketCube" : "hjo 12/31/2011 22:29",
+		"defaultUpperLeftPieceMorph" : "hjo 12/31/2011 18:04",
+		"defaultUpperRightPieceMorph" : "hjo 12/31/2011 22:16",
+		"defaultWaffleLayout" : "hjo 12/31/2011 22:36",
+		"lowerLeftPieceMorph" : "hjo 12/31/2011 22:17",
+		"lowerLeftPieceMorph:" : "hjo 12/31/2011 22:17",
+		"lowerRightPieceMorph" : "hjo 12/31/2011 22:18",
+		"lowerRightPieceMorph:" : "hjo 12/31/2011 22:18",
+		"openMorphAtOrigin:extent:gameMorph:" : "hjo 12/28/2011 17:03",
+		"openMorphOnGameMorph:bounds:" : "hjo 12/31/2011 22:37",
+		"pocketCube" : "hjo 12/31/2011 16:52",
+		"pocketCube:" : "hjo 7/26/2010 02:11",
+		"pocketCubeSide" : "hjo 12/31/2011 17:59",
+		"refreshMorph" : "hjo 12/31/2011 18:00",
+		"sideAccessor:" : "hjo 7/26/2010 02:11",
+		"upperLeftPieceMorph" : "hjo 12/31/2011 18:01",
+		"upperLeftPieceMorph:" : "hjo 12/31/2011 18:05",
+		"upperRightPieceMorph" : "hjo 12/31/2011 22:16",
+		"upperRightPieceMorph:" : "hjo 12/31/2011 22:16",
+		"waffleLayout" : "hjo 12/31/2011 18:02",
+		"waffleLayout:" : "hjo 12/31/2011 18:02" } }

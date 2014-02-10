@@ -1,0 +1,3 @@
+testing
+saveMediumIsObsolete
+^camp class isObsolete

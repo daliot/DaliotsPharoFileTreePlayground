@@ -1,0 +1,4 @@
+*SourceCodeTourGuideCommon
+canBeConvertedToTGNode
+
+	^true.

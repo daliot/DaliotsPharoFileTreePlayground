@@ -1,0 +1,16 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"capture:" : "hjo 5/29/2012 11:07",
+		"captureLineFrom:to:" : "hjo 5/29/2012 14:30",
+		"capturePoint:" : "hjo 5/29/2012 10:05",
+		"createFilmOfExtent:" : "hjo 5/28/2012 20:55",
+		"fieldOfView:" : "hjo 5/28/2012 17:36",
+		"film" : "hjo 5/28/2012 21:54",
+		"filmFormMorph" : "hjo 5/28/2012 21:02",
+		"initialize" : "hjo 5/29/2012 09:48",
+		"lookAt:" : "hjo 5/29/2012 14:44",
+		"lookOrigin" : "hjo 5/29/2012 14:44",
+		"position:" : "hjo 5/24/2012 15:45",
+		"projectionPointOf3DPoint:" : "hjo 5/28/2012 20:16" } }

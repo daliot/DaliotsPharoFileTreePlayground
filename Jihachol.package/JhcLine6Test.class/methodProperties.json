@@ -1,0 +1,17 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"setUp" : "hjo 9/28/2009 18:59",
+		"testBonghwasan" : "hjo 10/31/2009 15:31",
+		"testEungam" : "hjo 10/31/2009 15:32",
+		"testGusan" : "hjo 10/31/2009 15:32",
+		"testLineColor" : "hjo 10/13/2009 14:40",
+		"testMangwon" : "hjo 10/31/2009 15:32",
+		"testSaejeol" : "hjo 10/31/2009 15:33",
+		"testStraightLineStations" : "hjo 10/23/2009 14:53",
+		"testTimeSpanFromEungamToBonghwasan" : "hjo 10/19/2009 16:44",
+		"testTimeSpanFromGusanToYeokchon" : "hjo 11/12/2009 16:10",
+		"testTimeSpanFromYeokchonToGusan" : "hjo 10/23/2009 17:38",
+		"testTimeSpanFromYeokchonToSaejeol" : "hjo 11/12/2009 16:11",
+		"testYeokchon" : "hjo 10/31/2009 15:34" } }

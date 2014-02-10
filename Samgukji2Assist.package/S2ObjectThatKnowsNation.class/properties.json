@@ -1,0 +1,16 @@
+{
+	"category" : "Samgukji2Assist-Samgukji2Assist",
+	"classinstvars" : [
+		 ],
+	"classtraitcomposition" : "ClassCheckingHashProofTrait classTrait",
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"nation" ],
+	"name" : "S2ObjectThatKnowsNation",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"traitcomposition" : "ClassCheckingHashProofTrait",
+	"type" : "normal" }

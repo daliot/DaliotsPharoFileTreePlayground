@@ -1,0 +1,11 @@
+{
+	"class" : {
+		"sortingPriority" : "HwaJong 2/9/2014 00:36" },
+	"instance" : {
+		"beDoneWithInteractionWhenExceptionRaised" : "HwaJong 2/8/2014 03:36",
+		"canAnswerGeneralAsSortingKey" : "HwaJong 2/8/2014 22:19",
+		"canBeDone" : "HwaJong 2/8/2014 02:17",
+		"gettersForEquality" : "HwaJong 2/8/2014 03:35",
+		"printOn:" : "HwaJong 2/8/2014 02:17",
+		"province" : "HwaJong 2/8/2014 03:34",
+		"province:" : "HwaJong 2/8/2014 03:34" } }

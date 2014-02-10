@@ -1,0 +1,16 @@
+{
+	"category" : "Graph-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"vertexVisitation",
+		"edgeVisitation",
+		"visitor" ],
+	"name" : "DirectionedGraphBreathFirstDoTest",
+	"pools" : [
+		 ],
+	"super" : "DirectionedGraphTestCase",
+	"type" : "normal" }

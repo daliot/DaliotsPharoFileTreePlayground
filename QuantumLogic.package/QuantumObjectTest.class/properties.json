@@ -1,0 +1,15 @@
+{
+	"category" : "QuantumLogic-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"only",
+		"three" ],
+	"name" : "QuantumObjectTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

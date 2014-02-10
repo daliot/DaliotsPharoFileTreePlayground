@@ -1,0 +1,14 @@
+{
+	"category" : "InteractiveBisect",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"bisect" ],
+	"name" : "InteractiveBisectModel",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

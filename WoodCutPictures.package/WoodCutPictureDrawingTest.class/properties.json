@@ -1,0 +1,15 @@
+{
+	"category" : "WoodCutPictures-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"canvas",
+		"evaluated" ],
+	"name" : "WoodCutPictureDrawingTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

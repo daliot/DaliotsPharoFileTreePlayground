@@ -1,0 +1,14 @@
+{
+	"category" : "DiceRoller",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "DEMultiply",
+	"pools" : [
+		 ],
+	"super" : "DEBinaryOperation",
+	"type" : "normal" }

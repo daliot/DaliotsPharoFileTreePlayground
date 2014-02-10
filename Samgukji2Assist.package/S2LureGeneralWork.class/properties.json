@@ -1,0 +1,15 @@
+{
+	"category" : "Samgukji2Assist-Project",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"generalName",
+		"provinceId" ],
+	"name" : "S2LureGeneralWork",
+	"pools" : [
+		 ],
+	"super" : "S2Work",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "Graph-DolphinPort",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "hjo 9/18/2009 16:13",
+	"instvars" : [
+		 ],
+	"name" : "DeafObject",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

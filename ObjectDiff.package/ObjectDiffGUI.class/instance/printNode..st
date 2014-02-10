@@ -1,0 +1,3 @@
+list
+printNode: aPluggableTreeItemNode 
+^aPluggableTreeItemNode item oneColumnPrintString.

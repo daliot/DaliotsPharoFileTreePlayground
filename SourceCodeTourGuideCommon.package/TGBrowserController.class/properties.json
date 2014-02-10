@@ -1,0 +1,16 @@
+{
+	"category" : "SourceCodeTourGuideCommon",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"window",
+		"browser",
+		"windowBackingMorph" ],
+	"name" : "TGBrowserController",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

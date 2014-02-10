@@ -1,0 +1,14 @@
+{
+	"category" : "DaliotsLinearAlgebra",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"coefficientVector" ],
+	"name" : "Polynomial",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

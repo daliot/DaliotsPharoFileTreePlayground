@@ -1,0 +1,16 @@
+{
+	"category" : "QuantumLogic-Example",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"matrix",
+		"rows",
+		"columns" ],
+	"name" : "QuantumNonogram",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

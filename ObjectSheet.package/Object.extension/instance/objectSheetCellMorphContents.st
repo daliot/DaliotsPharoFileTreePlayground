@@ -1,0 +1,3 @@
+*ObjectSheet
+objectSheetCellMorphContents
+	^self printString

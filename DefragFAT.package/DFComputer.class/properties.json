@@ -1,0 +1,15 @@
+{
+	"category" : "DefragFAT",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"memory",
+		"disk" ],
+	"name" : "DFComputer",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

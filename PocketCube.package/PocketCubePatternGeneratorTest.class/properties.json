@@ -1,0 +1,15 @@
+{
+	"category" : "PocketCube-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"pocketcube",
+		"patternGenerator" ],
+	"name" : "PocketCubePatternGeneratorTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "Samgukji2Assist-Project",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "S2SendResourceWork",
+	"pools" : [
+		 ],
+	"super" : "S2Work",
+	"type" : "normal" }

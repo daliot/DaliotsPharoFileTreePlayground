@@ -1,0 +1,14 @@
+{
+	"category" : "ClassFilter",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ClassFilterSuperclassOrClassIs",
+	"pools" : [
+		 ],
+	"super" : "ClassFilterWithClasses",
+	"type" : "normal" }

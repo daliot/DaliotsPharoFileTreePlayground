@@ -1,0 +1,4 @@
+collecting
+methodCount
+
+	^methods size

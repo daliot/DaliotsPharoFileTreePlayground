@@ -1,0 +1,16 @@
+{
+	"category" : "Won",
+	"classinstvars" : [
+		 ],
+	"classtraitcomposition" : "ClassCheckingHashProofTrait classTrait",
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"integer" ],
+	"name" : "Won",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"traitcomposition" : "ClassCheckingHashProofTrait",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "DefragFAT",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"computer" ],
+	"name" : "DFDefragApp",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

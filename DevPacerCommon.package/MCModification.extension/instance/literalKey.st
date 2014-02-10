@@ -1,0 +1,3 @@
+*DevPacerCommon
+literalKey
+	^modification literalKey

@@ -1,0 +1,18 @@
+{
+	"class" : {
+		"installSubjectPackage" : "HwaJong 1/19/2014 20:27",
+		"installSubjectPackageWithChunkSelector:" : "HwaJong 1/19/2014 20:26",
+		"oneSubclassSubjectPackageChunk" : "HwaJong 1/19/2014 19:57",
+		"runAfterCreatingSuperclassNamed:forClasses:" : "HwaJong 8/3/2013 00:47",
+		"runOnCommonSuperclass:" : "HwaJong 8/3/2013 00:41",
+		"runOnSubjectPackage" : "HwaJong 1/19/2014 20:20",
+		"threeSubclassSubjectPackageChunk" : "HwaJong 1/19/2014 19:58",
+		"traitSubjectPackageChunk" : "HwaJong 1/19/2014 20:16",
+		"uninstallSubjectPackage" : "HwaJong 1/19/2014 20:22" },
+	"instance" : {
+		"commonSuperclass:" : "HwaJong 5/3/2013 21:43",
+		"getClasses" : "HwaJong 5/4/2013 00:50",
+		"moveInstanceVariables" : "HwaJong 5/3/2013 20:25",
+		"moveMethods" : "HwaJong 12/2/2013 15:32",
+		"removeEmptyCategoriesForClasses" : "HwaJong 5/4/2013 00:50",
+		"run" : "HwaJong 5/5/2013 16:27" } }

@@ -1,0 +1,14 @@
+{
+	"category" : "ObjectDiff-GUI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ODEqualIcon",
+	"pools" : [
+		 ],
+	"super" : "FormCache",
+	"type" : "normal" }

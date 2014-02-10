@@ -1,0 +1,14 @@
+{
+	"category" : "TinyTower",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"jobName" ],
+	"name" : "Job",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

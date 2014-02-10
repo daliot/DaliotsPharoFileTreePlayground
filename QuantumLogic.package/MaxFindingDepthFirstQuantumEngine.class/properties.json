@@ -1,0 +1,14 @@
+{
+	"category" : "QuantumLogic-Engine",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "MaxFindingDepthFirstQuantumEngine",
+	"pools" : [
+		 ],
+	"super" : "DepthFirstQuantumEngine",
+	"type" : "normal" }

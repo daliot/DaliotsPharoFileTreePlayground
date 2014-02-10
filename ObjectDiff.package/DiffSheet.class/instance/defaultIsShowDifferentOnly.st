@@ -1,0 +1,3 @@
+self evaluating
+defaultIsShowDifferentOnly
+	^false

@@ -1,0 +1,4 @@
+accessing
+thickness
+
+	^thickness

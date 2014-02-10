@@ -1,0 +1,20 @@
+{
+	"class" : {
+		"designatedEdgeClass" : "hjo 9/18/2009 20:50" },
+	"instance" : {
+		"beCircle" : "hjo 9/18/2009 20:35",
+		"beNoShape" : "hjo 9/18/2009 20:35",
+		"beSquare" : "hjo 9/18/2009 20:35",
+		"color" : "hjo 9/18/2009 20:35",
+		"color:" : "hjo 9/18/2009 20:35",
+		"drawCircleOn:" : "hjo 9/18/2009 20:36",
+		"drawCircleOn:withMapper:" : "hjo 9/18/2009 20:36",
+		"drawOn:" : "hjo 9/18/2009 20:36",
+		"drawOn:withMapper:" : "hjo 9/18/2009 20:36",
+		"drawSquareOn:" : "hjo 9/18/2009 20:37",
+		"drawSquareOn:withMapper:" : "hjo 9/18/2009 20:37",
+		"iconRectangle" : "hjo 9/18/2009 20:37",
+		"iconSize" : "hjo 9/18/2009 20:37",
+		"initialize" : "hjo 9/18/2009 20:37",
+		"shape" : "hjo 9/18/2009 20:37",
+		"shape:" : "hjo 9/18/2009 20:37" } }

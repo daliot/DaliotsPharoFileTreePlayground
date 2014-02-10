@@ -1,0 +1,15 @@
+{
+	"category" : "DaliotsMappers",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"foreLinFun",
+		"backLinFun" ],
+	"name" : "IntervalMapper",
+	"pools" : [
+		 ],
+	"super" : "MapperAbstract",
+	"type" : "normal" }

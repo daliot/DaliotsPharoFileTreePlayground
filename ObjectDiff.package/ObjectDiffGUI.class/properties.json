@@ -1,0 +1,15 @@
+{
+	"category" : "ObjectDiff-GUI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"diffSheet",
+		"diffListSelection" ],
+	"name" : "ObjectDiffGUI",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

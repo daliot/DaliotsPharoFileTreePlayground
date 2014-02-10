@@ -1,0 +1,15 @@
+{
+	"category" : "SourceCodeTourGuideCommon",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"tourGuide",
+		"camp" ],
+	"name" : "SCTGDocLogic",
+	"pools" : [
+		 ],
+	"super" : "DocumentLogic",
+	"type" : "normal" }

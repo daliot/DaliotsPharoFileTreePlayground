@@ -1,0 +1,14 @@
+{
+	"category" : "ObjectDiff",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "JSNotInnerDifferableItem",
+	"pools" : [
+		 ],
+	"super" : "JSInnerWithBlock",
+	"type" : "normal" }

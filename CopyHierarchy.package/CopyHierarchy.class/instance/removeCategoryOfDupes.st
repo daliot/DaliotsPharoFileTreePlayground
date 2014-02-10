@@ -1,0 +1,4 @@
+4
+removeCategoryOfDupes
+
+	self class environment organization removeSystemCategory: classCategoryForDupedClass.

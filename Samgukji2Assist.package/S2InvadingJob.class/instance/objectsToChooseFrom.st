@@ -1,0 +1,3 @@
+choose province
+objectsToChooseFrom
+	^general nation borderProvinces asSortedCollection: self provinceSortDescriptor

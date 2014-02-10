@@ -1,0 +1,17 @@
+{
+	"category" : "Deprecator",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"sinceString",
+		"useSelector",
+		"useClass",
+		"useClassIsMeta" ],
+	"name" : "DeprecatorError",
+	"pools" : [
+		 ],
+	"super" : "Error",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "Range",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "NormalRangeTestCase",
+	"pools" : [
+		 ],
+	"super" : "OneRangeTestCase",
+	"type" : "normal" }

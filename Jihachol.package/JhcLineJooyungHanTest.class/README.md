@@ -1,0 +1,1 @@
+hjo: I think this class can be merged to other testing class. Too simple to stay alone.

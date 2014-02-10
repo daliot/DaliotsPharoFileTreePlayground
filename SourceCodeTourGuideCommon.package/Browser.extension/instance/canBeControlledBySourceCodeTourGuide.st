@@ -1,0 +1,4 @@
+*SourceCodeTourGuideCommon
+canBeControlledBySourceCodeTourGuide
+
+	^true

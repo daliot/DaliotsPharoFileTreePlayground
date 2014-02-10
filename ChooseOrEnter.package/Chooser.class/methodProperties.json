@@ -1,0 +1,13 @@
+{
+	"class" : {
+		"exampleOfChooseMorph" : "HwaJong 9/27/2012 08:21" },
+	"instance" : {
+		"choiceMade" : "HwaJong 9/27/2012 08:25",
+		"choicePrintingCode:" : "HwaJong 9/27/2012 08:11",
+		"choices:" : "HwaJong 9/27/2012 08:11",
+		"goIfChosen:ifCancelled:" : "HwaJong 9/27/2012 08:36",
+		"initialize" : "HwaJong 9/27/2012 08:15",
+		"openChoosingDialog" : "HwaJong 9/27/2012 08:30",
+		"stringofChoices" : "HwaJong 9/27/2012 08:28",
+		"theChoiceMadeIsValid" : "HwaJong 9/27/2012 08:36",
+		"titleForChoosingDialog:" : "HwaJong 9/27/2012 08:37" } }

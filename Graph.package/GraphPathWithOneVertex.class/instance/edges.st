@@ -1,0 +1,4 @@
+accessing
+edges
+
+	^Array new

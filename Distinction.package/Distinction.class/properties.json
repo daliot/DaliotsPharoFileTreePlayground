@@ -1,0 +1,16 @@
+{
+	"category" : "Distinction",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"selectingBlock",
+		"rejectedOnes",
+		"selectedOnes" ],
+	"name" : "Distinction",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

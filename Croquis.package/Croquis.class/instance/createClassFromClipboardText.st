@@ -1,0 +1,3 @@
+create class
+createClassFromClipboardText
+	self createClassFromNoun: Clipboard clipboardText asString

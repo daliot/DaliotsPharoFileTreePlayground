@@ -1,0 +1,14 @@
+{
+	"category" : "Ani-Demo-Ameba",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"ani" ],
+	"name" : "Ameba",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }

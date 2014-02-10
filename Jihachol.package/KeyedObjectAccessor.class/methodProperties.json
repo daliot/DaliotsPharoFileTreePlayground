@@ -1,0 +1,9 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"doesNotUnderstand:" : "hjo 10/12/2009 17:41",
+		"initialize" : "hjo 10/12/2009 17:38",
+		"object:" : "hjo 10/12/2009 17:36",
+		"setArrayIndicesAs:" : "hjo 10/12/2009 17:46",
+		"setKey:as:" : "hjo 10/12/2009 17:39" } }

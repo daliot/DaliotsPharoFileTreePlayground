@@ -1,0 +1,14 @@
+{
+	"category" : "SieveCommon-Model-Filters",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"pragmaCriteria" ],
+	"name" : "HasPragma",
+	"pools" : [
+		 ],
+	"super" : "CompiledMethodFilter",
+	"type" : "normal" }

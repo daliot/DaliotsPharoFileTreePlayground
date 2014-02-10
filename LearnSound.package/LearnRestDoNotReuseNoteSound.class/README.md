@@ -1,0 +1,1 @@
+This will sound once, because one note is added to seq twice.

@@ -1,0 +1,14 @@
+{
+	"category" : "Figures",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"points" ],
+	"name" : "RoundedCornerRectangle",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

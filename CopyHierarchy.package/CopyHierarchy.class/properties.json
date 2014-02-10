@@ -1,0 +1,15 @@
+{
+	"category" : "CopyHierarchy",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"classNamePrefix",
+		"classCategoryForDupedClass" ],
+	"name" : "CopyHierarchy",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

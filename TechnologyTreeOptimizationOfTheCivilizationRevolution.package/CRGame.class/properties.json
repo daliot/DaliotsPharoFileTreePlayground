@@ -1,0 +1,15 @@
+{
+	"category" : "TechnologyTreeOptimizationOfTheCivilizationRevolution",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"techs",
+		"techsAquired" ],
+	"name" : "CRGame",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

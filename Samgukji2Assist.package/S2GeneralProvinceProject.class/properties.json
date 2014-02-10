@@ -1,0 +1,17 @@
+{
+	"category" : "Samgukji2Assist-Project",
+	"classinstvars" : [
+		 ],
+	"classtraitcomposition" : "ClassCheckingHashProofTrait classTrait",
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"general",
+		"province" ],
+	"name" : "S2GeneralProvinceProject",
+	"pools" : [
+		 ],
+	"super" : "S2Project",
+	"traitcomposition" : "ClassCheckingHashProofTrait",
+	"type" : "normal" }

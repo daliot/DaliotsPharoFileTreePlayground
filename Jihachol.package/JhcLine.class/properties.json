@@ -1,0 +1,18 @@
+{
+	"category" : "Jihachol",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"idPrefix",
+		"stations",
+		"integerStream",
+		"lineColor",
+		"lineName" ],
+	"name" : "JhcLine",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

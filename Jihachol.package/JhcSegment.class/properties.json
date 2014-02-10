@@ -1,0 +1,15 @@
+{
+	"category" : "Jihachol",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"timespanMinutes",
+		"graphEdge" ],
+	"name" : "JhcSegment",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

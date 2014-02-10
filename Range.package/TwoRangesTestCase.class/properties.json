@@ -1,0 +1,15 @@
+{
+	"category" : "Range",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"range1",
+		"range2" ],
+	"name" : "TwoRangesTestCase",
+	"pools" : [
+		 ],
+	"super" : "RangeTestCase",
+	"type" : "normal" }

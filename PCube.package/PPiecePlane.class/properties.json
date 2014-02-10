@@ -1,0 +1,15 @@
+{
+	"category" : "PCube-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"normalVector",
+		"constantNumber" ],
+	"name" : "PPiecePlane",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

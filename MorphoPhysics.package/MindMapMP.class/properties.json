@@ -1,0 +1,14 @@
+{
+	"category" : "MorphoPhysics-Application",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "MindMapMP",
+	"pools" : [
+		 ],
+	"super" : "MMMP",
+	"type" : "normal" }

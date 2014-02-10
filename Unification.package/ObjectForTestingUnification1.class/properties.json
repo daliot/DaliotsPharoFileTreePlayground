@@ -1,0 +1,15 @@
+{
+	"category" : "Unification-Test",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"proj",
+		"cont" ],
+	"name" : "ObjectForTestingUnification1",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

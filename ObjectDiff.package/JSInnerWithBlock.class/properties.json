@@ -1,0 +1,15 @@
+{
+	"category" : "ObjectDiff",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"comparison",
+		"diffKey" ],
+	"name" : "JSInnerWithBlock",
+	"pools" : [
+		 ],
+	"super" : "JSItem",
+	"type" : "normal" }

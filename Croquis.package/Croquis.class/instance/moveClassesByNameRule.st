@@ -1,0 +1,3 @@
+move class
+moveClassesByNameRule
+	self moveClassesByNameRule: self classesInTheOutputSystemCategory

@@ -1,0 +1,16 @@
+{
+	"category" : "Plotter",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"mean",
+		"standardDeviation",
+		"gain" ],
+	"name" : "GaussianBellCurve",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

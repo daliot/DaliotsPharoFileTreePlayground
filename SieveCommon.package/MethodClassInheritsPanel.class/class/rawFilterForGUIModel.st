@@ -1,0 +1,3 @@
+as yet unclassified
+rawFilterForGUIModel
+^MethodClassInherits methodClass: Object

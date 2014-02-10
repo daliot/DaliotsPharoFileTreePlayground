@@ -1,0 +1,15 @@
+{
+	"category" : "PCube-Rendering",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"pixelMatrix",
+		"form" ],
+	"name" : "PFilm",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

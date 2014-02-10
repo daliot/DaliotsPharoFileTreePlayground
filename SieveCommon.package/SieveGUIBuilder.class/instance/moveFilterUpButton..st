@@ -1,0 +1,3 @@
+accessing
+moveFilterUpButton: aPluggableButtonMorph 
+moveFilterUpButton := aPluggableButtonMorph

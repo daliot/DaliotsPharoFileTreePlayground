@@ -1,0 +1,17 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"captureOn:" : "hjo 5/29/2012 17:34",
+		"initialize" : "hjo 5/30/2012 00:43",
+		"initializeEdges" : "hjo 5/29/2012 16:35",
+		"initializeTriangles" : "hjo 5/30/2012 00:43",
+		"initializeVertices" : "hjo 5/29/2012 16:27",
+		"x1y1z1" : "hjo 5/29/2012 16:18",
+		"x1y1z2" : "hjo 5/29/2012 16:18",
+		"x1y2z1" : "hjo 5/29/2012 16:18",
+		"x1y2z2" : "hjo 5/29/2012 16:18",
+		"x2y1z1" : "hjo 5/29/2012 16:19",
+		"x2y1z2" : "hjo 5/29/2012 16:19",
+		"x2y2z1" : "hjo 5/29/2012 16:19",
+		"x2y2z2" : "hjo 5/29/2012 16:19" } }

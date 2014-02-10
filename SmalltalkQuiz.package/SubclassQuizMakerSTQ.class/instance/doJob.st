@@ -1,0 +1,9 @@
+as yet unclassified
+doJob
+
+	self selectRandomClassThatHasAtLeastOneSubclass.
+	self separateClassesIntoTwoGrouopsOneWithSubclassOfItOthersWithNotSubclassesOfIt.
+	self selectRandomOneClassFromSubclassGroupPutItIntoChoices.
+	self selectThreeRandomClassesFromNonSubclassGroupPutItIntoChoices.
+	self shuffleTheChoices.
+	^self makeQuiz

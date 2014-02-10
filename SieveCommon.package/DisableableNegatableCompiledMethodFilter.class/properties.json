@@ -1,0 +1,16 @@
+{
+	"category" : "SieveCommon-GUI-FilterPanels",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"compiledMethodFilter",
+		"isEnabled",
+		"isNegated" ],
+	"name" : "DisableableNegatableCompiledMethodFilter",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

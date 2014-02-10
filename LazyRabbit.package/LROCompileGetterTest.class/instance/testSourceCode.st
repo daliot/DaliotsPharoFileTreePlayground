@@ -4,4 +4,4 @@ testSourceCode
 	self assert: op sourceCode equals:
 'foo
 
-	^foo setDefault: #fooDefault for: self withSetter: #foo:'
+	^foo setDefault: #defaultFoo for: self withSetter: #foo:'

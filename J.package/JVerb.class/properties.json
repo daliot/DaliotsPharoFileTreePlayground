@@ -1,0 +1,14 @@
+{
+	"category" : "J",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "JVerb",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

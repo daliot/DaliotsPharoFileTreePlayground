@@ -1,0 +1,14 @@
+{
+	"category" : "MaxClub",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"minimum" ],
+	"name" : "MinClub",
+	"pools" : [
+		 ],
+	"super" : "MaxOrMinClub",
+	"type" : "normal" }

@@ -1,0 +1,16 @@
+{
+	"category" : "BlackBoxParser",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"stream",
+		"stack",
+		"parsingDictionary" ],
+	"name" : "BlackBoxParser",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,20 @@
+{
+	"class" : {
+		"workspace1" : "HwaJong 3/22/2013 16:06" },
+	"instance" : {
+		"bitizenFromUser" : "HwaJong 12/10/2012 19:32",
+		"bitizenList" : "HwaJong 12/10/2012 13:52",
+		"bitizenListSelectionIndex" : "HwaJong 12/10/2012 13:55",
+		"bitizenListSelectionIndex:" : "HwaJong 12/10/2012 13:55",
+		"bitizens" : "HwaJong 12/10/2012 01:19",
+		"commercialFloorList" : "HwaJong 12/10/2012 19:10",
+		"commericalFloorListSelectionIndex" : "HwaJong 12/10/2012 17:28",
+		"commericalFloorListSelectionIndex:" : "HwaJong 12/10/2012 18:01",
+		"floorAt:" : "HwaJong 12/10/2012 17:47",
+		"floorJobNamed:" : "HwaJong 12/10/2012 17:48",
+		"initialize" : "HwaJong 12/10/2012 13:16",
+		"initializeBitizens" : "HwaJong 12/10/2012 19:22",
+		"initializeFloors" : "HwaJong 12/10/2012 19:29",
+		"newBitizenName:dreamJobName:homeFoorNumber:food:service:recreation:retail:creative:employedAt:" : "HwaJong 12/10/2012 19:28",
+		"openBitizenListMorph" : "HwaJong 12/10/2012 19:34",
+		"openCommercialFloorListMorph" : "HwaJong 12/10/2012 19:35" } }

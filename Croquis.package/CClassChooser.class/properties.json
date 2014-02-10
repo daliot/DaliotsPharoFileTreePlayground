@@ -1,0 +1,19 @@
+{
+	"category" : "Croquis-sub operation",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"classes",
+		"chosen",
+		"ifNoClass",
+		"ifDidNotChoose",
+		"title",
+		"ifChosen" ],
+	"name" : "CClassChooser",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

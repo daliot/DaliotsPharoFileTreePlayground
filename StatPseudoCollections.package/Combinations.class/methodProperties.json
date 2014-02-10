@@ -1,0 +1,16 @@
+{
+	"class" : {
+		"example" : "hjo 4/15/2008 17:16",
+		"of:" : "hjo 6/2/2008 20:20",
+		"of:length:" : "hjo 6/2/2008 20:19" },
+	"instance" : {
+		"asArrayedCollection" : "hjo 6/2/2008 20:21",
+		"at:" : "hjo 6/2/2008 20:05",
+		"choices" : "hjo 4/15/2008 17:16",
+		"choices:" : "hjo 6/2/2008 19:27",
+		"length" : "hjo 4/15/2008 17:16",
+		"length:" : "hjo 4/15/2008 17:16",
+		"size" : "hjo 6/2/2008 19:30",
+		"species" : "hjo 4/15/2008 17:16",
+		"subCombinationAtChoiceIndex:" : "hjo 6/2/2008 20:00",
+		"subCombinations" : "hjo 6/2/2008 20:00" } }

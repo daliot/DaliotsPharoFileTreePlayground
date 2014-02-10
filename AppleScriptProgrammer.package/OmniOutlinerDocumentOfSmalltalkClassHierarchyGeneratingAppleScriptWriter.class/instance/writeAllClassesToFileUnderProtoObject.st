@@ -1,0 +1,4 @@
+as yet unclassified
+writeAllClassesToFileUnderProtoObject
+
+	self writeAllClassesToFileUnder: ProtoObject.

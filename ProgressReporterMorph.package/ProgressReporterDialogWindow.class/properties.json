@@ -1,0 +1,18 @@
+{
+	"category" : "ProgressReporterMorph",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"work",
+		"workingProcess",
+		"completeRatio",
+		"workingMessage",
+		"progressBar" ],
+	"name" : "ProgressReporterDialogWindow",
+	"pools" : [
+		 ],
+	"super" : "ProceedDialogWindow",
+	"type" : "normal" }

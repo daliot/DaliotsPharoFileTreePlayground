@@ -1,0 +1,14 @@
+{
+	"category" : "TinyTower",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"job" ],
+	"name" : "CommercialFloor",
+	"pools" : [
+		 ],
+	"super" : "Floor",
+	"type" : "normal" }

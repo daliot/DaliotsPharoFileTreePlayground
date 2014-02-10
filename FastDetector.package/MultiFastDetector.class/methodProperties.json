@@ -1,0 +1,12 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"add:" : "HwaJong 7/21/2013 10:11",
+		"areDetectorsSharingCollectionCorrectly" : "HwaJong 7/21/2013 10:20",
+		"collection" : "HwaJong 7/20/2013 19:38",
+		"collection:" : "HwaJong 7/20/2013 19:37",
+		"detect:equals:" : "HwaJong 7/24/2013 10:18",
+		"detectorAt:" : "HwaJong 7/24/2013 09:50",
+		"initialize" : "HwaJong 7/20/2013 19:39",
+		"isSane" : "HwaJong 7/21/2013 10:21" } }

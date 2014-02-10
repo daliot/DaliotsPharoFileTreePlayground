@@ -1,0 +1,15 @@
+{
+	"category" : "ObjectDiff-SequentialDiff",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"diffMorph",
+		"sequenceListModel" ],
+	"name" : "SequentialDiff",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

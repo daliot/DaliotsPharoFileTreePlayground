@@ -1,0 +1,7 @@
+sub routine
+getCommonSelectors
+
+	self precollectCommonSelectors.
+	self rejectTraitMethods.
+	self selectSelectorsSourceCodeOfAllSubclassesAreSame.
+	self rejectSelectorsIfSourceCodeOfSuperclassAndSubclassIsDifferent.

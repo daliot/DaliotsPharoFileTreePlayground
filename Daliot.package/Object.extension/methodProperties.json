@@ -1,0 +1,20 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"arrayOfMe" : "hjo 7/15/2008 10:48",
+		"browseMessage:" : "HwaJong 1/2/2013 11:55",
+		"collectForMultiCollection:" : "hjo 7/5/2009 20:28",
+		"doForMulitCollection:printOn:depth:" : "hjo 7/14/2008 15:37",
+		"flatDo:" : "hjo 1/7/2012 19:14",
+		"ifI:thenI:otherwiseI:" : "hjo 7/4/2009 20:42",
+		"isAheadOf:in:" : "hjo 4/17/2008 10:18",
+		"printOn:asSuperclassLevel:" : "hjo 1/23/2012 22:13",
+		"printOn:tabLevel:" : "hjo 4/3/2008 13:29",
+		"printStringAsSuperclassLevel:" : "hjo 1/23/2012 22:11",
+		"printStringTabLevel:" : "hjo 3/31/2008 09:51",
+		"rebirth" : "hjo 6/2/2012 17:29",
+		"revisit:" : "hjo 3/31/2009 22:45",
+		"selectInInstanceVariables:" : "hjo 12/8/2008 18:26",
+		"selectInInstanceVariables:goDepth:" : "hjo 12/8/2008 19:17",
+		"selectInInstanceVariables:goDepth:on:" : "hjo 7/5/2009 20:38" } }

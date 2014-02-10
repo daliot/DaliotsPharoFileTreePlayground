@@ -1,0 +1,12 @@
+{
+	"class" : {
+		"humanReadableString" : "HwaJong 11/16/2013 20:47",
+		"rawFilterForGUIModel" : "HwaJong 11/16/2013 20:47" },
+	"instance" : {
+		"authorFromUser" : "HwaJong 11/27/2013 11:45",
+		"chooseAuthorAction" : "HwaJong 11/27/2013 11:47",
+		"contentsForChangingTextMorph" : "HwaJong 11/16/2013 20:36",
+		"ensureDialogWindowOpenAfterAuthorCacheIsMade" : "HwaJong 11/27/2013 11:45",
+		"getString" : "HwaJong 11/16/2013 20:35",
+		"rowMorphElementsOn:" : "HwaJong 11/16/2013 20:56",
+		"setString:" : "HwaJong 11/16/2013 20:35" } }

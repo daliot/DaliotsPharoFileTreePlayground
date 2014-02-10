@@ -1,0 +1,14 @@
+{
+	"category" : "QuantumLogic-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "QuantumSudokuTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

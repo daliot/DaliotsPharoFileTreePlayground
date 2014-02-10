@@ -1,0 +1,14 @@
+{
+	"category" : "Roulette",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"slots" ],
+	"name" : "Roulette",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

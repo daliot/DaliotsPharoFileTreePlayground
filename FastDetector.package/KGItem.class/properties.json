@@ -1,0 +1,15 @@
+{
+	"category" : "FastDetector",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"name",
+		"id" ],
+	"name" : "KGItem",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,17 @@
+{
+	"category" : "Graph-Graphics",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"edgeColor",
+		"edgeStyle",
+		"edgeThickness",
+		"vertexColor" ],
+	"name" : "PlotGraph",
+	"pools" : [
+		 ],
+	"super" : "Graph",
+	"type" : "normal" }

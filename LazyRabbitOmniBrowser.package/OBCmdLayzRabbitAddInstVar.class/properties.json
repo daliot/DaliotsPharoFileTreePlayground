@@ -1,0 +1,14 @@
+{
+	"category" : "LazyRabbitOmniBrowser",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "OBCmdLayzRabbitAddInstVar",
+	"pools" : [
+		 ],
+	"super" : "OBCommand",
+	"type" : "normal" }

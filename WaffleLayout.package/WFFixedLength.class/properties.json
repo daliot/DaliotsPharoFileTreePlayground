@@ -1,0 +1,14 @@
+{
+	"category" : "WaffleLayout",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "WFFixedLength",
+	"pools" : [
+		 ],
+	"super" : "WFLength",
+	"type" : "normal" }

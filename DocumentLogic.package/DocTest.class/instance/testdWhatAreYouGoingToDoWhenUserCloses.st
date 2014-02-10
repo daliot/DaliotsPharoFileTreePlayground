@@ -1,0 +1,3 @@
+tests
+testdWhatAreYouGoingToDoWhenUserCloses
+self assert: doc whatAreYouGoingToDoWhenUserCloses equals: self whatShouldDocDoWhenUserCloses.

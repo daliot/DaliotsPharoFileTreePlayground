@@ -1,0 +1,17 @@
+{
+	"category" : "Graph-Extended",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "hjo 9/18/2009 15:10",
+	"instvars" : [
+		"pathFrom",
+		"lastVertex",
+		"edgeToLastVertex",
+		"firstVertex" ],
+	"name" : "GraphPath",
+	"pools" : [
+		 ],
+	"super" : "GraphPathAbstract",
+	"type" : "normal" }

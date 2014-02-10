@@ -1,0 +1,14 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"addScrambleOperation:" : "hjo 7/10/2012 16:50",
+		"applyTo:" : "hjo 1/18/2012 19:08",
+		"firstInverseOperation" : "hjo 1/18/2012 19:08",
+		"printOnTranscriptScrambleSequenceOf:" : "hjo 7/6/2010 09:01",
+		"printScramblingCode" : "hjo 1/18/2012 19:08",
+		"rollbackTo:" : "hjo 1/18/2012 19:08",
+		"scrambleSequenceOf:" : "hjo 3/25/2011 10:54",
+		"scrambleSequenceOf:randomStream:" : "hjo 3/25/2011 12:24",
+		"selectorSequenceOfScrambleOfOrder:" : "hjo 1/18/2012 19:08",
+		"translateToSelectorSequence" : "hjo 1/18/2012 19:08" } }

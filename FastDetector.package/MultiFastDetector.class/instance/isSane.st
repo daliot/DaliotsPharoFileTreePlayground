@@ -1,0 +1,4 @@
+testing
+isSane
+
+	^self areDetectorsSharingCollectionCorrectly

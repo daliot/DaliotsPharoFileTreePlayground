@@ -1,0 +1,23 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"beBackwardGoing" : "hjo 9/21/2009 13:57",
+		"beForwardGoing" : "hjo 9/21/2009 13:57",
+		"breadthFirstSearch" : "hjo 9/20/2009 15:40",
+		"currentVertices" : "hjo 9/18/2009 16:05",
+		"currentVertices:" : "hjo 9/18/2009 16:05",
+		"edgeAccessingMethod" : "hjo 9/18/2009 16:05",
+		"edgeAccessingMethod:" : "hjo 9/18/2009 16:05",
+		"edgeOperation" : "hjo 9/18/2009 16:05",
+		"edgeOperation:" : "hjo 9/18/2009 16:06",
+		"isBackwardGoing" : "hjo 9/18/2009 16:06",
+		"isForwardGoing" : "hjo 9/18/2009 16:06",
+		"nextEdgesToVisit" : "hjo 9/20/2009 15:40",
+		"nextVerticesToVisit" : "hjo 9/20/2009 15:40",
+		"run" : "hjo 12/7/2009 16:31",
+		"runToVisit:" : "hjo 9/21/2009 14:03",
+		"step" : "hjo 9/18/2009 16:07",
+		"vertexOperation" : "hjo 9/18/2009 16:07",
+		"vertexOperation:" : "hjo 9/18/2009 16:07",
+		"visitedVertices" : "hjo 9/18/2009 16:07" } }

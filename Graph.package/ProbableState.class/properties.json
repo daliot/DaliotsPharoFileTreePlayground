@@ -1,0 +1,14 @@
+{
+	"category" : "Graph-Stochastic",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ProbableState",
+	"pools" : [
+		 ],
+	"super" : "StateAbstract",
+	"type" : "normal" }

@@ -1,0 +1,15 @@
+{
+	"class" : {
+		"from:ifNoClass:ifDidNotChoose:" : "HwaJong 12/7/2012 13:23",
+		"from:title:ifNoClass:ifDidNotChoose:" : "HwaJong 12/7/2012 13:33",
+		"from:title:ifNoClass:ifDidNotChoose:ifChosen:" : "HwaJong 12/7/2012 13:30" },
+	"instance" : {
+		"answerAClass" : "HwaJong 12/7/2012 13:31",
+		"chosen" : "HwaJong 12/7/2012 13:12",
+		"classes" : "HwaJong 12/7/2012 13:12",
+		"classes:" : "HwaJong 12/7/2012 13:12",
+		"ifChosen:" : "HwaJong 12/7/2012 13:30",
+		"ifDidNotChoose:" : "HwaJong 12/7/2012 13:14",
+		"ifNoClass:" : "HwaJong 12/7/2012 13:14",
+		"title" : "HwaJong 12/7/2012 13:20",
+		"title:" : "HwaJong 12/7/2012 13:20" } }

@@ -1,0 +1,15 @@
+{
+	"category" : "MorphoPhysics",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"contents",
+		"labelMorph" ],
+	"name" : "ConceptBallMorph",
+	"pools" : [
+		 ],
+	"super" : "BallMorph",
+	"type" : "normal" }

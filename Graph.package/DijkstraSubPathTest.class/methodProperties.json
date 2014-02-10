@@ -1,0 +1,12 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"setUp" : "HwaJong 5/19/2013 10:11",
+		"testIncludedSubPath" : "HwaJong 5/17/2013 14:57",
+		"testIncludedSubPathIdentical" : "HwaJong 5/17/2013 14:57",
+		"testIncludedSubPathWithSameEndingPoint" : "HwaJong 5/17/2013 14:58",
+		"testIncludedSubPathWithSameStartingPoint" : "HwaJong 5/17/2013 14:58",
+		"testOverlappingSubpathAroundEndingPoint" : "HwaJong 5/17/2013 14:59",
+		"testOverlappingSubpathAroundStartingPoint" : "HwaJong 5/17/2013 14:59",
+		"testSubpathIncludingWholePath" : "HwaJong 5/17/2013 14:59" } }

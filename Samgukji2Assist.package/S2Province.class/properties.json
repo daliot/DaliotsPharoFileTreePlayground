@@ -1,0 +1,21 @@
+{
+	"category" : "Samgukji2Assist-Samgukji2Assist",
+	"classinstvars" : [
+		 ],
+	"classtraitcomposition" : "ClassCheckingHashProofTrait classTrait",
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"id",
+		"generals",
+		"governer",
+		"adjacentProvinces",
+		"developState",
+		"graphVertex" ],
+	"name" : "S2Province",
+	"pools" : [
+		 ],
+	"super" : "S2ObjectThatKnowsNation",
+	"traitcomposition" : "ClassCheckingHashProofTrait",
+	"type" : "normal" }

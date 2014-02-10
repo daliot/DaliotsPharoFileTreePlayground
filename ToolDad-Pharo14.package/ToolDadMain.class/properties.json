@@ -1,0 +1,14 @@
+{
+	"category" : "ToolDad-Pharo14",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ToolDadMain",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

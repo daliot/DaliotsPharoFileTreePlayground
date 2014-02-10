@@ -1,0 +1,14 @@
+{
+	"category" : "Daliot",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "DaliotUtility",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

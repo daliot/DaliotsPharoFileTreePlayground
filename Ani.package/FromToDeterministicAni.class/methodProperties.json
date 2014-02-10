@@ -1,0 +1,13 @@
+{
+	"class" : {
+		"exampleMorphMove" : "hjo 1/3/2012 20:47" },
+	"instance" : {
+		"animationBlock:" : "hjo 12/28/2011 12:52",
+		"defaultAnimationBlock" : "hjo 12/28/2011 12:36",
+		"defaultDestination" : "hjo 12/28/2011 12:41",
+		"defaultOrigination" : "hjo 12/28/2011 12:43",
+		"destination" : "hjo 12/28/2011 12:41",
+		"destination:" : "hjo 12/28/2011 12:41",
+		"origination" : "hjo 12/28/2011 12:43",
+		"origination:" : "hjo 12/28/2011 12:43",
+		"step" : "hjo 12/28/2011 12:52" } }

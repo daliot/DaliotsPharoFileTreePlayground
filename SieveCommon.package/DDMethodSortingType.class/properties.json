@@ -1,0 +1,14 @@
+{
+	"category" : "SieveCommon-GUI-Sorting",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "DDMethodSortingType",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

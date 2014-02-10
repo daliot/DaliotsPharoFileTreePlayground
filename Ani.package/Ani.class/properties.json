@@ -1,0 +1,14 @@
+{
+	"category" : "Ani",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"stepTime" ],
+	"name" : "Ani",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

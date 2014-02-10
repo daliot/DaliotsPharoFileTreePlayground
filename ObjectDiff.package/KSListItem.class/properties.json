@@ -1,0 +1,15 @@
+{
+	"category" : "ObjectDiff",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"diffSheet",
+		"index" ],
+	"name" : "KSListItem",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

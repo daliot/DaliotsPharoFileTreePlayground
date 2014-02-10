@@ -1,0 +1,3 @@
+accessing
+treatsFirstColumnAsRowHeaderAspect
+	^treatsFirstColumnAsRowHeaderAspect setDefault: #defaultTreatsFirstColumnAsRowHeaderAspect for: self withSetter: #treatsFirstColumnAsRowHeaderAspect:

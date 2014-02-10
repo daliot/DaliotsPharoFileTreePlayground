@@ -1,0 +1,3 @@
+testing
+isGoodToBeInEasyBackProvince
+	^general isGoverner

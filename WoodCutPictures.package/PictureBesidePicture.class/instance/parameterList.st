@@ -1,0 +1,4 @@
+printing
+parameterList
+
+	^{ leftPicture. rightPicture }

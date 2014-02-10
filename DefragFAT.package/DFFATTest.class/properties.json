@@ -1,0 +1,15 @@
+{
+	"category" : "DefragFAT",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"fat",
+		"hardDisk" ],
+	"name" : "DFFATTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

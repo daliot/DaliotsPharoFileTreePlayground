@@ -1,0 +1,18 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"addCenterBallNamed:" : "hjo 1/4/2012 09:36",
+		"addLeafBallNamed:" : "hjo 1/4/2012 09:36",
+		"addLeafBallNamed:onBallNamed:" : "hjo 1/4/2012 09:36",
+		"addNewBall:" : "hjo 1/4/2012 09:36",
+		"addNewBallOfClass:" : "hjo 1/4/2012 09:36",
+		"cutOffBall:" : "hjo 1/4/2012 09:36",
+		"cutOffBallNamed:" : "hjo 1/4/2012 09:36",
+		"deleteMorphsThatHasBeenCutOff" : "hjo 1/4/2012 09:36",
+		"electricForceConnecting:" : "hjo 1/4/2012 09:36",
+		"leafMorphsThatHasBeenCutOff" : "hjo 1/4/2012 09:36",
+		"morphsOffScreen" : "hjo 1/4/2012 09:36",
+		"morphsThatHasBeenCutOff" : "hjo 1/4/2012 09:36",
+		"rubberBandConnecting:" : "hjo 1/4/2012 09:36",
+		"rubberBandConnecting:and:" : "hjo 1/4/2012 09:36" } }

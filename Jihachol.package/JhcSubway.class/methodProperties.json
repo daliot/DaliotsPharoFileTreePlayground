@@ -1,0 +1,12 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"buildAllLines" : "jhan 11/1/2009 15:43",
+		"filterBy:" : "hjo 10/19/2009 19:38",
+		"filteredStations" : "hjo 10/20/2009 09:44",
+		"initialize" : "hjo 10/19/2009 19:24",
+		"lines:" : "hjo 10/31/2009 18:24",
+		"nearStationAt:" : "hjo 10/31/2009 18:19",
+		"nearTouchRadius:" : "hjo 10/31/2009 18:17",
+		"stations" : "hjo 10/19/2009 19:28" } }

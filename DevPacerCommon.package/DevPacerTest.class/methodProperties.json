@@ -1,0 +1,9 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"setUp" : "hjo 5/16/2012 21:28",
+		"tearDown" : "hjo 5/16/2012 21:41",
+		"testDisabledAtFirst" : "hjo 5/17/2012 08:39",
+		"testEnable" : "hjo 5/17/2012 08:40",
+		"testFail" : "hjo 5/17/2012 09:51" } }

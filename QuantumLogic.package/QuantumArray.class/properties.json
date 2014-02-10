@@ -1,0 +1,15 @@
+{
+	"category" : "QuantumLogic",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"array",
+		"assertions" ],
+	"name" : "QuantumArray",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

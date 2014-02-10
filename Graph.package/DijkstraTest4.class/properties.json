@@ -1,0 +1,15 @@
+{
+	"category" : "Graph-Dijkstra",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"dij",
+		"graph" ],
+	"name" : "DijkstraTest4",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

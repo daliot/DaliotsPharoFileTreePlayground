@@ -1,0 +1,14 @@
+{
+	"category" : "ObjectDiff",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"key" ],
+	"name" : "JSItemWithKey",
+	"pools" : [
+		 ],
+	"super" : "JSItem",
+	"type" : "normal" }

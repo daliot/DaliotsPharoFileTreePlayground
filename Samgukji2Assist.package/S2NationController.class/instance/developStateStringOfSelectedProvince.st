@@ -1,0 +1,3 @@
+as yet unclassified
+developStateStringOfSelectedProvince
+	^self provinceListModel selection developState longerName

@@ -1,0 +1,14 @@
+{
+	"category" : "ObjectDiff-System",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ODSObjectTest",
+	"pools" : [
+		 ],
+	"super" : "ObjectDiffSystemTest",
+	"type" : "normal" }

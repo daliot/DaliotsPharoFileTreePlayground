@@ -1,0 +1,11 @@
+{
+	"class" : {
+		"sortingPriority" : "HwaJong 2/9/2014 00:38" },
+	"instance" : {
+		"beDone" : "HwaJong 1/21/2014 04:01",
+		"beDoneWithInteractionWhenExceptionRaised" : "HwaJong 1/26/2014 02:59",
+		"gettersForEquality" : "HwaJong 2/2/2014 21:09",
+		"printOn:" : "HwaJong 2/1/2014 01:26",
+		"province" : "HwaJong 2/2/2014 21:09",
+		"province:" : "HwaJong 1/18/2014 01:07",
+		"provinceId" : "HwaJong 1/23/2014 16:35" } }

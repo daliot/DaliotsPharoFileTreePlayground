@@ -1,0 +1,15 @@
+{
+	"category" : "QuantumLogic-Maze",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"northCell",
+		"southCell" ],
+	"name" : "QHorizontalWall",
+	"pools" : [
+		 ],
+	"super" : "QWall",
+	"type" : "normal" }

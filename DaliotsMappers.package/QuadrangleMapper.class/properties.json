@@ -1,0 +1,15 @@
+{
+	"category" : "DaliotsMappers",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"domainQuadrangle",
+		"rangeQuadrangle" ],
+	"name" : "QuadrangleMapper",
+	"pools" : [
+		 ],
+	"super" : "MapperAbstract",
+	"type" : "normal" }

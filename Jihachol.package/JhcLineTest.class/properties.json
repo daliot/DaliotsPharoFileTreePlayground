@@ -1,0 +1,14 @@
+{
+	"category" : "Jihachol",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"line" ],
+	"name" : "JhcLineTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

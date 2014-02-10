@@ -1,0 +1,4 @@
+testing
+contentsIs: aByteString 
+
+	^false

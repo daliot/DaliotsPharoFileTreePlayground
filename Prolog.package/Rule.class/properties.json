@@ -1,0 +1,15 @@
+{
+	"category" : "Prolog-Predicate",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"blockClosure",
+		"knowledgeBase" ],
+	"name" : "Rule",
+	"pools" : [
+		 ],
+	"super" : "PrologPredicate",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "LearnSound",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"sequentialSound" ],
+	"name" : "LearnSequentialSound",
+	"pools" : [
+		 ],
+	"super" : "LearnMIDI",
+	"type" : "normal" }

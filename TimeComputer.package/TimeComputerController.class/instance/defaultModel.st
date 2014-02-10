@@ -1,0 +1,3 @@
+answering
+defaultModel
+	^TimeComputer new

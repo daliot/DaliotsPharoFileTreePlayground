@@ -1,0 +1,16 @@
+{
+	"category" : "Graph-Extended",
+	"classinstvars" : [
+		 ],
+	"classtraitcomposition" : "ClassCheckingHashProofTrait classTrait",
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "GraphPathAbstract",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"traitcomposition" : "ClassCheckingHashProofTrait",
+	"type" : "normal" }

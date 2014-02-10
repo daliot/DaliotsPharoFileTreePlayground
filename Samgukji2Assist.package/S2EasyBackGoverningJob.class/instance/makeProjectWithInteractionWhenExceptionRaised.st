@@ -1,0 +1,3 @@
+as yet unclassified
+makeProjectWithInteractionWhenExceptionRaised
+	self makeProjectWithInteractionWhenExceptionRaisedByAskingToChooseProvince.

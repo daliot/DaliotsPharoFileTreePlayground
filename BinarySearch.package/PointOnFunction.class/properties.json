@@ -1,0 +1,16 @@
+{
+	"category" : "BinarySearch",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"eq",
+		"x",
+		"y" ],
+	"name" : "PointOnFunction",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

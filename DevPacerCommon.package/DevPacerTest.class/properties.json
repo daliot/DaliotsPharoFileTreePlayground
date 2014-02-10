@@ -1,0 +1,14 @@
+{
+	"category" : "DevPacerCommon",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"pacer" ],
+	"name" : "DevPacerTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

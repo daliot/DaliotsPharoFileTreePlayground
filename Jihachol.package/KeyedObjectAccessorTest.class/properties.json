@@ -1,0 +1,14 @@
+{
+	"category" : "Jihachol-Helpers",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"accessor" ],
+	"name" : "KeyedObjectAccessorTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

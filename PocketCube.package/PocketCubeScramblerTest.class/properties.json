@@ -1,0 +1,15 @@
+{
+	"category" : "PocketCube-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"pocketcube",
+		"scrambler" ],
+	"name" : "PocketCubeScramblerTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

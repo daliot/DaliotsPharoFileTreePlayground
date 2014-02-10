@@ -1,0 +1,14 @@
+{
+	"category" : "Samgukji2Assist-Samgukji2Assist",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "S2SortDescriptor",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

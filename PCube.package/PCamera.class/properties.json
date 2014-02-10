@@ -1,0 +1,19 @@
+{
+	"category" : "PCube-Rendering",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"position",
+		"frontVector",
+		"topVector",
+		"rightVector",
+		"fieldOfView",
+		"film" ],
+	"name" : "PCamera",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

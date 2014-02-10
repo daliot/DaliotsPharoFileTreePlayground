@@ -1,0 +1,16 @@
+{
+	"category" : "Samgukji2Assist-Project",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"generals",
+		"rendezvousProvince",
+		"targetProvinceId" ],
+	"name" : "S2RendezvousInvasionProject",
+	"pools" : [
+		 ],
+	"super" : "S2Project",
+	"type" : "normal" }

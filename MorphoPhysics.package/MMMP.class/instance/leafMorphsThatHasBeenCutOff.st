@@ -1,0 +1,4 @@
+selecting
+leafMorphsThatHasBeenCutOff
+
+	^self morphsThatHasBeenCutOff copyWithout: centerBall

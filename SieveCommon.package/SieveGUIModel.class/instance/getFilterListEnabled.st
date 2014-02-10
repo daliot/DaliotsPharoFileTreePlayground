@@ -1,0 +1,3 @@
+filter list
+getFilterListEnabled
+	^true

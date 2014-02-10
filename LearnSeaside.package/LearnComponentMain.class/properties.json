@@ -1,0 +1,14 @@
+{
+	"category" : "LearnSeaside-main",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "LearnComponentMain",
+	"pools" : [
+		 ],
+	"super" : "WAComponent",
+	"type" : "normal" }

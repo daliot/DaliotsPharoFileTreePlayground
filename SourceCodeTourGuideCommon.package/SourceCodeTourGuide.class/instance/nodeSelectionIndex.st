@@ -1,0 +1,4 @@
+list
+nodeSelectionIndex
+	
+	^listModel selectionIndex.

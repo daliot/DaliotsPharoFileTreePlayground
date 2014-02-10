@@ -1,0 +1,14 @@
+{
+	"category" : "ToolDad",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "IDADFromToTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

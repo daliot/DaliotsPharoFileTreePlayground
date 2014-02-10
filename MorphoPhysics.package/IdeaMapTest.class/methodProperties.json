@@ -1,0 +1,18 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"setUp" : "hjo 8/29/2009 09:00",
+		"tearDown" : "hjo 8/29/2009 16:25",
+		"testAcceleratedBy" : "hjo 8/29/2009 09:06",
+		"testAddConceptBalls" : "hjo 8/29/2009 19:46",
+		"testAddConceptBallsCenterNamed" : "hjo 8/29/2009 19:48",
+		"testAngularlyAcceleratedBy" : "hjo 8/29/2009 16:49",
+		"testCanConnectSelectedConceptsStar" : "hjo 8/29/2009 16:34",
+		"testCenterOfMass" : "hjo 8/29/2009 18:26",
+		"testConceptsSelection" : "hjo 8/29/2009 18:45",
+		"testConnectExistingConceptsCenterNamed" : "hjo 8/29/2009 19:55",
+		"testDeleteRubberBandsBetweenSelectedConcepts" : "hjo 8/29/2009 20:09",
+		"testForcedBy" : "hjo 8/29/2009 18:32",
+		"testGetOrCreateConceptBallNamed" : "hjo 8/29/2009 19:42",
+		"testMoveCenterOfMassToDisplayCenter" : "hjo 8/29/2009 18:39" } }

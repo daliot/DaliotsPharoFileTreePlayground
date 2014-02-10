@@ -1,0 +1,14 @@
+{
+	"category" : "Graph-StateMachine",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "StateAbstract",
+	"pools" : [
+		 ],
+	"super" : "Vertex",
+	"type" : "normal" }

@@ -1,0 +1,3 @@
+fonts
+defaultCellFont
+	^StandardFonts defaultFont

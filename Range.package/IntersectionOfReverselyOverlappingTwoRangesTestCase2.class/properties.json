@@ -1,0 +1,14 @@
+{
+	"category" : "Range",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "IntersectionOfReverselyOverlappingTwoRangesTestCase2",
+	"pools" : [
+		 ],
+	"super" : "IntersectionOfTwoRangesTestCase",
+	"type" : "normal" }

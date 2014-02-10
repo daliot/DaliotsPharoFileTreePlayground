@@ -1,0 +1,17 @@
+{
+	"category" : "Graph-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"enteringEdges",
+		"leavingEdges",
+		"twoWayEdges",
+		"masterObject" ],
+	"name" : "Vertex",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

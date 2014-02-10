@@ -1,0 +1,11 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"setUp" : "hjo 2/1/2012 14:01",
+		"testBe" : "hjo 2/1/2012 14:01",
+		"testBeNotInThePossibilities" : "hjo 2/1/2012 14:05",
+		"testDeterminedValue" : "hjo 2/1/2012 18:23",
+		"testIsDetermined" : "hjo 2/1/2012 14:01",
+		"testPossibilities" : "hjo 2/1/2012 13:54",
+		"testRemovePossibility" : "hjo 2/1/2012 14:01" } }

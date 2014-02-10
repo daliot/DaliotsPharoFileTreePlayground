@@ -1,0 +1,14 @@
+{
+	"category" : "ObjectDiff-Test",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"s" ],
+	"name" : "DiffOnlyDiffSheetTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

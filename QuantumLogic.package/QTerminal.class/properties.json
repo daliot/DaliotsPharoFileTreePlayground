@@ -1,0 +1,14 @@
+{
+	"category" : "QuantumLogic-Maze",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "QTerminal",
+	"pools" : [
+		 ],
+	"super" : "QBetweenCell",
+	"type" : "normal" }

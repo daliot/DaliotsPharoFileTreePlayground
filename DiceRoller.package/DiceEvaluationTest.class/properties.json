@@ -1,0 +1,14 @@
+{
+	"category" : "DiceRoller-Test",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "hjo 8/6/2012 11:17",
+	"instvars" : [
+		"expression" ],
+	"name" : "DiceEvaluationTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

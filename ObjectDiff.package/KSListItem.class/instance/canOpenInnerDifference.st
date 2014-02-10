@@ -1,0 +1,3 @@
+testing
+canOpenInnerDifference
+^diffSheet canOpenInnerDifferenceAtKeyIndex: index

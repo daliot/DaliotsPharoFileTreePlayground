@@ -1,0 +1,4 @@
+testing
+canStep
+
+	^costSortedObjects notEmpty

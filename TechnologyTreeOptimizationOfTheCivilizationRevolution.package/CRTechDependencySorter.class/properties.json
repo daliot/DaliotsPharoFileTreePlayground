@@ -1,0 +1,14 @@
+{
+	"category" : "TechnologyTreeOptimizationOfTheCivilizationRevolution",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"techs" ],
+	"name" : "CRTechDependencySorter",
+	"pools" : [
+		 ],
+	"super" : "DependencySorter",
+	"type" : "normal" }

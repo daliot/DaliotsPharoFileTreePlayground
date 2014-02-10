@@ -1,0 +1,3 @@
+accessing
+lineName
+	^line lineName

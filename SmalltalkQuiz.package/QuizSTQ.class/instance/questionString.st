@@ -1,0 +1,4 @@
+printing
+questionString
+
+	^self subclassResponsibility

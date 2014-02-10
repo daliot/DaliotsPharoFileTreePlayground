@@ -1,0 +1,14 @@
+{
+	"category" : "QuantumLogic-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"qa" ],
+	"name" : "QuantumTapeTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

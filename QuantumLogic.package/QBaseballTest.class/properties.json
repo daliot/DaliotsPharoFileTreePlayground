@@ -1,0 +1,14 @@
+{
+	"category" : "QuantumLogic-Maze-Test",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"b" ],
+	"name" : "QBaseballTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

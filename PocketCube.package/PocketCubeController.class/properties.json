@@ -1,0 +1,23 @@
+{
+	"category" : "PocketCube-Morph",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"model",
+		"frontSideController",
+		"topSideController",
+		"bottomSideController",
+		"leftSideController",
+		"rightSideController",
+		"backSideController",
+		"virtualVerticalBackSideController",
+		"gameMorph",
+		"moveCubeSound" ],
+	"name" : "PocketCubeController",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "Graph-StateMachine",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"output" ],
+	"name" : "StateEdge",
+	"pools" : [
+		 ],
+	"super" : "Edge",
+	"type" : "normal" }

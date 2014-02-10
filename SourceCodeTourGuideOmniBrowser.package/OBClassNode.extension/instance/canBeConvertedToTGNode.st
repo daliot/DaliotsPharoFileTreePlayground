@@ -1,0 +1,4 @@
+*SourceCodeTourGuideOmniBrowser
+canBeConvertedToTGNode
+
+	^true.

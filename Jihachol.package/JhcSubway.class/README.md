@@ -1,0 +1,1 @@
+I can be a single object of Jihachol application, unless its coverage is extended to internation subways. My top responsibility is to contain lines with stations. My secondary reponsibility is to answer stations with various ways of querying. I don't know anything how the answered station will be used by the client.

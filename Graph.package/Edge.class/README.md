@@ -1,0 +1,1 @@
+Edge connect two vertices. Edge sand Vertices form a graph mathematically.

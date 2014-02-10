@@ -1,0 +1,16 @@
+{
+	"category" : "Prolog",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"knowledgeBase",
+		"queryFact",
+		"collectedCases" ],
+	"name" : "QueryWhat",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

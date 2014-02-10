@@ -1,0 +1,14 @@
+{
+	"category" : "BloodType",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"bloodType" ],
+	"name" : "BloodTypeTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

@@ -1,0 +1,17 @@
+{
+	"category" : "DaliotsMappers",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"domainFrom",
+		"rangeFrom",
+		"mapRatio",
+		"unmapRatio" ],
+	"name" : "LinearMapper",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

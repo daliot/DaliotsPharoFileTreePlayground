@@ -1,0 +1,14 @@
+{
+	"category" : "Croquis-sub operation",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "MoveClassFromUserToUser",
+	"pools" : [
+		 ],
+	"super" : "MoveClassOp",
+	"type" : "normal" }

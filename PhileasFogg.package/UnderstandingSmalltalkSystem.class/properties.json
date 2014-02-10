@@ -1,0 +1,15 @@
+{
+	"category" : "PhileasFogg-Understanding",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"confidenceLevelOfClasses",
+		"confidenceLevelOfSelectors" ],
+	"name" : "UnderstandingSmalltalkSystem",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

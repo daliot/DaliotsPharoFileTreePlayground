@@ -1,0 +1,17 @@
+{
+	"category" : "ChooseOrEnter",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"choices",
+		"choicePrintingCode",
+		"titleForChoosingDialog",
+		"choosingDialog" ],
+	"name" : "Chooser",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

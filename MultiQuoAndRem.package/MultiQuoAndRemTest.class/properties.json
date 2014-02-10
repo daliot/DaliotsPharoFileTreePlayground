@@ -1,0 +1,14 @@
+{
+	"category" : "MultiQuoAndRem",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "MultiQuoAndRemTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

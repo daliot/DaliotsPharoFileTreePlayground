@@ -1,0 +1,4 @@
+accessing
+edgeColor
+
+	^edgeColor

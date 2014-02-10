@@ -1,0 +1,9 @@
+{
+	"class" : {
+		"isAbstract" : "hjo 3/17/2008 14:27" },
+	"instance" : {
+		"setUp" : "hjo 3/17/2008 14:25",
+		"testCloseClose" : "hjo 3/17/2008 14:26",
+		"testCloseOpen" : "hjo 3/17/2008 14:26",
+		"testOpenClose" : "hjo 3/17/2008 14:26",
+		"testOpenOpen" : "hjo 3/17/2008 14:26" } }

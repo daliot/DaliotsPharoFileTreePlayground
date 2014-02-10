@@ -1,0 +1,14 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"assertVertexVisitionEquals:" : "hjo 9/22/2009 14:38",
+		"setUp" : "hjo 9/20/2009 15:39",
+		"test1" : "hjo 9/22/2009 14:46",
+		"test2" : "hjo 9/22/2009 14:46",
+		"test3" : "hjo 9/22/2009 14:58",
+		"test4" : "hjo 9/22/2009 14:59",
+		"test5" : "hjo 9/22/2009 15:00",
+		"test6" : "hjo 9/22/2009 15:00",
+		"testRun" : "hjo 9/22/2009 15:05",
+		"testRunToVisit" : "hjo 9/22/2009 15:05" } }

@@ -1,0 +1,17 @@
+{
+	"category" : "InteractiveBisect",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"bisect",
+		"gotTooSmallNumberChanged",
+		"gotTooBigNumberChanged",
+		"gotInputNumberChanged" ],
+	"name" : "InteractiveBisectTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

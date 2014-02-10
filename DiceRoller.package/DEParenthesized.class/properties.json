@@ -1,0 +1,14 @@
+{
+	"category" : "DiceRoller",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"insideExpression" ],
+	"name" : "DEParenthesized",
+	"pools" : [
+		 ],
+	"super" : "DiceExpression",
+	"type" : "normal" }

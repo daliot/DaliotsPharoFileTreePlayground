@@ -1,0 +1,14 @@
+{
+	"category" : "ObjectSheet-Morph",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"objectSheetMorph" ],
+	"name" : "OSUpdatingMethod",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

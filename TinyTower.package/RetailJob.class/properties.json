@@ -1,0 +1,14 @@
+{
+	"category" : "TinyTower",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "RetailJob",
+	"pools" : [
+		 ],
+	"super" : "Job",
+	"type" : "normal" }

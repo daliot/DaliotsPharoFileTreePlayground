@@ -1,0 +1,4 @@
+testing
+isDetermined
+
+	^quantumObject isDetermined

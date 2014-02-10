@@ -1,0 +1,3 @@
+*SievePharo14
+selectorForGettingMethodDataForListMorph
+	^#getMethodList

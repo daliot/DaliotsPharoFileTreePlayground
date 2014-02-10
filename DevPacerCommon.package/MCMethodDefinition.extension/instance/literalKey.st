@@ -1,0 +1,3 @@
+*DevPacerCommon
+literalKey
+	^{className. selector}

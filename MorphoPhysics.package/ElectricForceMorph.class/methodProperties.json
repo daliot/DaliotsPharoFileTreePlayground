@@ -1,0 +1,12 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"applyForceBothEnds:" : "hjo 4/26/2009 18:09",
+		"defaultForce" : "hjo 4/26/2009 18:08",
+		"force" : "hjo 4/26/2009 18:08",
+		"force:" : "hjo 4/26/2009 18:08",
+		"forceFromDisplacementVector:" : "hjo 9/17/2009 17:32",
+		"initialize" : "hjo 4/21/2009 14:35",
+		"lineWidthForForce" : "hjo 8/29/2009 08:38",
+		"updateAppearance" : "hjo 8/29/2009 08:39" } }

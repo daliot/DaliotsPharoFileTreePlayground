@@ -1,0 +1,3 @@
+defaults
+defaultUpdateMethod
+	^OSNullUpdate newForObjectSheetMorph: sheetModel

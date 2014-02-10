@@ -1,0 +1,14 @@
+{
+	"category" : "LearnCanvas",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "FrameAndFillRectangleFillColorFillColorBorderWidthTopLeftColorBottomRightColorMorph",
+	"pools" : [
+		 ],
+	"super" : "LearnCanvasMorph",
+	"type" : "normal" }

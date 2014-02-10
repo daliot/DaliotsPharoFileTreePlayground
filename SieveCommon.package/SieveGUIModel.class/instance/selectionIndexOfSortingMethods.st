@@ -1,0 +1,3 @@
+sorting droplist
+selectionIndexOfSortingMethods
+	^sortingMethodListModel selectionIndex

@@ -1,0 +1,15 @@
+{
+	"category" : "ToolDad-Pharo14",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"browser",
+		"inspector" ],
+	"name" : "IDADFromBrowserToInspectorTest",
+	"pools" : [
+		 ],
+	"super" : "IDADFromToTest",
+	"type" : "normal" }

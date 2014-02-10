@@ -1,0 +1,17 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"compiledMethodFilter" : "HwaJong 10/24/2012 00:30",
+		"compiledMethodFilter:" : "HwaJong 10/24/2012 00:30",
+		"expectedRunTime" : "HwaJong 10/5/2013 10:16",
+		"filterIn:" : "HwaJong 10/24/2012 00:39",
+		"initialize" : "HwaJong 10/24/2012 00:32",
+		"isEnabled" : "HwaJong 10/24/2012 00:30",
+		"isEnabled:" : "HwaJong 10/24/2012 00:30",
+		"isMeaningful" : "HwaJong 10/24/2012 00:36",
+		"isNegated" : "HwaJong 10/24/2012 00:30",
+		"isNegated:" : "HwaJong 10/24/2012 00:30",
+		"runFiltersAndSortForGuiModel:" : "HwaJong 11/21/2013 19:32",
+		"toggleEnable" : "HwaJong 10/24/2012 00:31",
+		"toggleNegated" : "HwaJong 11/2/2012 14:16" } }

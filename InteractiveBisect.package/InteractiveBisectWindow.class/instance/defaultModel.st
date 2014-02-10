@@ -1,0 +1,4 @@
+defaults
+defaultModel
+
+	^InteractiveBisectModel new.

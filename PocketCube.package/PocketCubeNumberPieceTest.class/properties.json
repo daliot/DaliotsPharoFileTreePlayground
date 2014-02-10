@@ -1,0 +1,14 @@
+{
+	"category" : "PocketCube-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"pocketCube" ],
+	"name" : "PocketCubeNumberPieceTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

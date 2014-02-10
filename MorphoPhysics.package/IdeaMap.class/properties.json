@@ -1,0 +1,15 @@
+{
+	"category" : "MorphoPhysics-Application",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"conceptsSelected",
+		"conceptsSelectedCollection" ],
+	"name" : "IdeaMap",
+	"pools" : [
+		 ],
+	"super" : "MPSystem",
+	"type" : "normal" }

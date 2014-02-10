@@ -1,0 +1,9 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"setUp" : "hjo 10/19/2009 19:21",
+		"testAllLinesShouldHaveLineName" : "jhan 11/1/2009 16:02",
+		"testFilterIsCaseInsensitive" : "hjo 10/20/2009 15:34",
+		"testFilterStations" : "hjo 10/19/2009 19:34",
+		"testStations" : "jhan 11/1/2009 15:47" } }

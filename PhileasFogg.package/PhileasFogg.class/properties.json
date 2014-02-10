@@ -1,0 +1,16 @@
+{
+	"category" : "PhileasFogg",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"topicClass",
+		"classesReferencingTopicClass",
+		"history" ],
+	"name" : "PhileasFogg",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

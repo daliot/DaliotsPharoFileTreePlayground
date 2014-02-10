@@ -1,0 +1,15 @@
+{
+	"category" : "QuantumLogic-Engine",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"answers",
+		"stack" ],
+	"name" : "DepthFirstQuantumEngine",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

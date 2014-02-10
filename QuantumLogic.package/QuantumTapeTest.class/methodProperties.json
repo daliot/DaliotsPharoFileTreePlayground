@@ -1,0 +1,11 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"setUp" : "hjo 3/1/2012 09:27",
+		"testAddLast" : "hjo 2/25/2012 12:22",
+		"testAtBe" : "hjo 2/25/2012 10:47",
+		"testOnceSizeIsFixedNoMoreAddingElements" : "hjo 2/25/2012 10:47",
+		"testPrintOn" : "hjo 2/25/2012 10:47",
+		"testSize" : "hjo 2/25/2012 10:47",
+		"testStubElementsAreNotSharedObjects" : "hjo 2/25/2012 10:47" } }

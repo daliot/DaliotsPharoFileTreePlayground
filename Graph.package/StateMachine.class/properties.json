@@ -1,0 +1,15 @@
+{
+	"category" : "Graph-StateMachine",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"currentState",
+		"nameTable" ],
+	"name" : "StateMachine",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

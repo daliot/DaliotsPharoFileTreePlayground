@@ -1,0 +1,11 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"computer:" : "hjo 4/24/2011 07:01",
+		"doDefrag" : "hjo 4/24/2011 07:00",
+		"doDefragFor:" : "hjo 4/24/2011 07:00",
+		"fragmentNumber:" : "hjo 4/24/2011 08:31",
+		"moveFirstFragmentToLastEmptySpace" : "hjo 4/24/2011 07:22",
+		"moveToBeginForDiskWithFragmentNumber:" : "hjo 4/24/2011 08:51",
+		"unifyToOneFragment" : "hjo 4/24/2011 08:58" } }

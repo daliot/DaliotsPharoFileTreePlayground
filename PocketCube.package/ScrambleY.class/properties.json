@@ -1,0 +1,14 @@
+{
+	"category" : "PocketCube-Scramble",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ScrambleY",
+	"pools" : [
+		 ],
+	"super" : "PocketCubeScrambleOperation",
+	"type" : "normal" }

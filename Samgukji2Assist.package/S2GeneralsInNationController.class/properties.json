@@ -1,0 +1,16 @@
+{
+	"category" : "Samgukji2Assist-GUI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"model",
+		"generalSearchString",
+		"generalsListModel" ],
+	"name" : "S2GeneralsInNationController",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

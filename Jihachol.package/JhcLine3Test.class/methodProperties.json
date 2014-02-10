@@ -1,0 +1,14 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"setUp" : "jhan 10/11/2009 23:12",
+		"testExpressBusTerminal" : "hjo 10/31/2009 14:53",
+		"testFromDaehwaToJeongbalsan" : "hjo 10/20/2009 17:31",
+		"testFromDaehwaToMadu" : "hjo 10/20/2009 17:31",
+		"testFromDaehwaToSuseo" : "hjo 10/20/2009 17:32",
+		"testGyeongbokgung" : "hjo 10/31/2009 14:57",
+		"testJichuk" : "hjo 10/31/2009 14:58",
+		"testLineColor" : "hjo 10/13/2009 14:28",
+		"testLineId" : "hjo 10/31/2009 14:07",
+		"testSuseo" : "hjo 10/31/2009 15:01" } }

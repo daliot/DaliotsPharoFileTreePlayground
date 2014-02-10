@@ -1,0 +1,14 @@
+{
+	"category" : "BlackBoxParser-test",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BinaryExpressionTest",
+	"pools" : [
+		 ],
+	"super" : "BBParserStackTest",
+	"type" : "normal" }

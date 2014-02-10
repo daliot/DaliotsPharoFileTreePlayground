@@ -1,0 +1,9 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"testAccumulator" : "hjo 4/13/2008 13:28",
+		"testAverageAgent" : "hjo 4/13/2008 13:28",
+		"testAverageAgentNoAssertingMean" : "hjo 4/13/2008 13:28",
+		"testMeanAndDeviationAgent" : "hjo 4/13/2008 13:28",
+		"testNonnegativeAccumulator" : "hjo 8/27/2008 09:58" } }

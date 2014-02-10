@@ -1,0 +1,14 @@
+{
+	"category" : "DefragFAT",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"byteArray" ],
+	"name" : "DFMemory",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

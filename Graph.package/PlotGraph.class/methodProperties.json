@@ -1,0 +1,15 @@
+{
+	"class" : {
+		"defaultVertexClass" : "hjo 9/18/2009 19:38",
+		"example" : "hjo 9/18/2009 19:38" },
+	"instance" : {
+		"createOneThreadOfEdgesConnectingAllVertices:" : "hjo 9/18/2009 19:36",
+		"edgeColor" : "hjo 9/18/2009 19:36",
+		"edgeColor:" : "hjo 9/18/2009 19:37",
+		"edgeStyle" : "hjo 9/18/2009 19:36",
+		"edgeStyle:" : "hjo 9/18/2009 19:36",
+		"edgeThickness" : "hjo 9/18/2009 19:36",
+		"edgeThickness:" : "hjo 9/18/2009 19:36",
+		"prepareDrawing" : "hjo 9/18/2009 19:37",
+		"vertexColor" : "hjo 9/18/2009 19:38",
+		"vertexColor:" : "hjo 9/18/2009 19:38" } }

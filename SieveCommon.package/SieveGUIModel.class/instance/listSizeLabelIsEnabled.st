@@ -1,0 +1,4 @@
+list size
+listSizeLabelIsEnabled
+
+	^true

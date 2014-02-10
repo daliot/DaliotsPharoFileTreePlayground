@@ -1,0 +1,15 @@
+{
+	"category" : "WoodCutPictures-Functions",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"leftPicture",
+		"rightPicture" ],
+	"name" : "PictureBesidePicture",
+	"pools" : [
+		 ],
+	"super" : "FunctionalWoodCutPicture",
+	"type" : "normal" }

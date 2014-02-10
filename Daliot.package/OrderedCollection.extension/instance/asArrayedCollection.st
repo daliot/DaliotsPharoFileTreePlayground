@@ -1,0 +1,4 @@
+*Daliot
+asArrayedCollection
+
+	^self asArray

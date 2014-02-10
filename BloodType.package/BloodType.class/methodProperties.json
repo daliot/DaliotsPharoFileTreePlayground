@@ -1,0 +1,18 @@
+{
+	"class" : {
+		"canParentOfBloodTypeOf:and:haveChildOfBloodType:" : "hjo 9/17/2011 19:17",
+		"gene1:gene2:" : "hjo 9/17/2011 18:18",
+		"possibleABType" : "hjo 9/17/2011 18:29",
+		"possibleAType" : "hjo 9/17/2011 18:28",
+		"possibleBType" : "hjo 9/17/2011 18:28",
+		"possibleCases" : "hjo 9/17/2011 19:23",
+		"possibleOType" : "hjo 9/17/2011 18:29",
+		"possibleParentCombinationToYieldAChildWithBloodType:" : "hjo 9/17/2011 19:24" },
+	"instance" : {
+		"bloodType" : "hjo 9/17/2011 18:12",
+		"gene1" : "hjo 9/17/2011 18:36",
+		"gene1:" : "hjo 9/17/2011 17:48",
+		"gene2" : "hjo 9/17/2011 18:36",
+		"gene2:" : "hjo 9/17/2011 17:48",
+		"genoType" : "hjo 9/17/2011 18:50",
+		"makeChildWith:" : "hjo 9/17/2011 18:36" } }

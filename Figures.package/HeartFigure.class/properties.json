@@ -1,0 +1,14 @@
+{
+	"category" : "Figures",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"points" ],
+	"name" : "HeartFigure",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

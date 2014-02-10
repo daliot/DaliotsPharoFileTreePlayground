@@ -1,0 +1,14 @@
+{
+	"category" : "Plotter",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "HorizontalPlotterAxis",
+	"pools" : [
+		 ],
+	"super" : "PlotterAxis",
+	"type" : "normal" }

@@ -1,0 +1,15 @@
+{
+	"category" : "PCube-BasicElement",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"vertex1",
+		"vertex2" ],
+	"name" : "PLineSegment",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

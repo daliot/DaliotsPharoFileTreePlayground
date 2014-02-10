@@ -1,0 +1,14 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"setUp" : "hjo 9/28/2009 13:12",
+		"testDogok" : "hjo 10/31/2009 16:35",
+		"testGaepoDong" : "hjo 10/31/2009 16:36",
+		"testGuryong" : "hjo 10/31/2009 16:36",
+		"testHanti" : "hjo 10/31/2009 16:37",
+		"testOri" : "hjo 10/31/2009 16:37",
+		"testSeolleung" : "hjo 10/31/2009 16:38",
+		"testTimeSpanFromBojeongToGaepoDong" : "hjo 10/12/2009 13:38",
+		"testTimeSpanFromDogokToSeolleung" : "hjo 10/12/2009 13:39",
+		"testTimeSpanFromSuseoToKyungwonUniv" : "hjo 10/12/2009 13:40" } }

@@ -1,0 +1,16 @@
+{
+	"category" : "PCube-Example",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"c",
+		"b",
+		"i" ],
+	"name" : "PExample",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

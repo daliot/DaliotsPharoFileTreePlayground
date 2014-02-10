@@ -1,0 +1,25 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"asksUserToManuallyChooseSuperclassOfOutputClass" : "HwaJong 12/5/2012 02:41",
+		"asksUserToManuallyChooseSuperclassOfOutputClass:" : "HwaJong 12/5/2012 02:41",
+		"chooseSuperclassFromOutputSystemCategoryForClassName:" : "HwaJong 12/7/2012 13:34",
+		"classesInTheOutputSystemCategory" : "HwaJong 12/1/2012 20:45",
+		"correctPluralToSingular" : "HwaJong 12/5/2012 02:41",
+		"correctPluralToSingular:" : "HwaJong 12/5/2012 02:41",
+		"createClassFromClipboardText" : "HwaJong 12/5/2012 00:33",
+		"createClassFromNoun:" : "HwaJong 12/5/2012 02:54",
+		"createClassFromUser" : "HwaJong 12/1/2012 17:02",
+		"initialize" : "HwaJong 12/5/2012 02:41",
+		"moveClassByUser" : "HwaJong 12/5/2012 02:42",
+		"moveClassToSuperclassByUser" : "HwaJong 12/5/2012 02:42",
+		"moveClassesByNameRule" : "HwaJong 12/6/2012 11:50",
+		"moveClassesByNameRule:" : "HwaJong 12/6/2012 12:12",
+		"outputSystemCategory" : "HwaJong 12/5/2012 02:41",
+		"outputSystemCategory:" : "HwaJong 12/1/2012 15:16",
+		"privateCreateOnSuperclassWithClassName:" : "HwaJong 12/5/2012 02:53",
+		"renameClassFromUser" : "HwaJong 12/8/2012 15:05",
+		"setSuperclassOfOutputClassFromUser" : "HwaJong 12/7/2012 13:43",
+		"superclassOfOutputClass" : "HwaJong 12/5/2012 02:41",
+		"superclassOfOutputClass:" : "HwaJong 12/5/2012 02:41" } }

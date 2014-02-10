@@ -1,0 +1,18 @@
+{
+	"category" : "BinarySearch",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"eq",
+		"e",
+		"left",
+		"right",
+		"root" ],
+	"name" : "BinarySearcher",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

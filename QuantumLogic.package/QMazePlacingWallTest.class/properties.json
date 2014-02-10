@@ -1,0 +1,14 @@
+{
+	"category" : "QuantumLogic-Maze-Test",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "QMazePlacingWallTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

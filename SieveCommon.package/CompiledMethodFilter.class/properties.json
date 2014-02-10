@@ -1,0 +1,14 @@
+{
+	"category" : "SieveCommon-Model-Filters",
+	"classinstvars" : [
+		"computationTimeMeasure" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "CompiledMethodFilter",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

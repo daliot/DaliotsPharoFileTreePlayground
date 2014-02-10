@@ -1,0 +1,14 @@
+{
+	"category" : "Roulette",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"roulette" ],
+	"name" : "ResizedRoulettePrizeGamblingTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

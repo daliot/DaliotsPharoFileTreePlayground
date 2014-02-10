@@ -1,0 +1,15 @@
+{
+	"category" : "Samgukji2Assist-Project",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"targetProvinceId",
+		"generals" ],
+	"name" : "S2InvasionWork",
+	"pools" : [
+		 ],
+	"super" : "S2Work",
+	"type" : "normal" }

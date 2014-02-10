@@ -1,0 +1,3 @@
+testing
+canOpenRightInspector
+	^rightSideObject objectDiffHasKey: key

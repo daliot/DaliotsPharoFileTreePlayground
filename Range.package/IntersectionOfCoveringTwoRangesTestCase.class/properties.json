@@ -1,0 +1,14 @@
+{
+	"category" : "Range",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "IntersectionOfCoveringTwoRangesTestCase",
+	"pools" : [
+		 ],
+	"super" : "IntersectionOfTwoRangesTestCase",
+	"type" : "normal" }

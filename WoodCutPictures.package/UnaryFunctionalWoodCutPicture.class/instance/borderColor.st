@@ -1,0 +1,5 @@
+accessing
+borderColor
+
+	^picture borderColor
+	

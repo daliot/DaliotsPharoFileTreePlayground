@@ -1,0 +1,16 @@
+{
+	"class" : {
+		"mapsDomainFrom:to:toRangeFrom:to:" : "hjo 6/10/2008 15:13" },
+	"instance" : {
+		"domainFrom" : "HwaJong 12/20/2012 17:40",
+		"domainFrom:" : "hjo 6/10/2008 15:14",
+		"map:" : "hjo 6/12/2008 09:08",
+		"mapAll:" : "hjo 6/30/2008 14:56",
+		"mapRatio" : "hjo 6/12/2008 09:06",
+		"mapRatio:" : "hjo 6/12/2008 09:05",
+		"rangeFrom" : "hjo 6/12/2008 09:08",
+		"rangeFrom:" : "hjo 6/12/2008 09:05",
+		"setUnmapRatioFromMapRatio" : "hjo 6/12/2008 09:06",
+		"unmap:" : "hjo 6/12/2008 09:11",
+		"unmapRatio" : "hjo 6/12/2008 09:11",
+		"unmapRatio:" : "hjo 6/12/2008 09:07" } }

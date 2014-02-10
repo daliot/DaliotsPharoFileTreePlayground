@@ -1,0 +1,26 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"accept" : "HwaJong 4/21/2013 17:48",
+		"contents" : "HwaJong 4/21/2013 17:45",
+		"contents:" : "HwaJong 4/13/2013 12:12",
+		"editor" : "HwaJong 4/7/2013 06:36",
+		"font:" : "HwaJong 4/6/2013 23:43",
+		"handleFocusEvent:" : "HwaJong 4/7/2013 06:43",
+		"hasUnacceptedEdits" : "HwaJong 1/15/2014 18:31",
+		"hasUnacceptedEdits:" : "HwaJong 4/6/2013 23:53",
+		"hasUnacceptedEditsDefault" : "HwaJong 1/15/2014 18:31",
+		"initialize" : "HwaJong 4/13/2013 12:10",
+		"mouseDownFromTextMorph:" : "HwaJong 4/6/2013 23:52",
+		"scrollByKeyboard:" : "HwaJong 4/6/2013 23:54",
+		"scrollSelectionIntoView" : "HwaJong 4/21/2013 17:12",
+		"scrollSelectionIntoView:" : "HwaJong 4/13/2013 12:07",
+		"selectionInterval:" : "HwaJong 4/6/2013 23:51",
+		"setScrollDeltas" : "HwaJong 4/6/2013 23:54",
+		"takesKeyboardFocus" : "HwaJong 4/7/2013 06:33",
+		"textChanged" : "HwaJong 4/6/2013 23:55",
+		"textOfTextFieldMorph" : "HwaJong 4/6/2013 23:34",
+		"wantsKeyboardFocus" : "HwaJong 4/7/2013 06:29",
+		"wantsKeyboardFocusNavigation" : "HwaJong 4/7/2013 06:40",
+		"wouldAcceptKeyboardFocusUponTab" : "HwaJong 4/7/2013 06:30" } }

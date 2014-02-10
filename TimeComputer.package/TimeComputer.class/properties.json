@@ -1,0 +1,15 @@
+{
+	"category" : "TimeComputer",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"tasks",
+		"deadline" ],
+	"name" : "TimeComputer",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

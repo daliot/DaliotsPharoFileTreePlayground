@@ -1,0 +1,4 @@
+accessing
+edgeToLastVertex
+
+	^ edgeToLastVertex

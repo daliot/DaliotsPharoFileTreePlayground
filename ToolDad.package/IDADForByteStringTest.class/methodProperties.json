@@ -1,0 +1,8 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"objectToInspect" : "hjo 1/2/2009 15:23",
+		"testDraggedItemAtIndex" : "hjo 1/1/2009 01:15",
+		"testDropItemAtIndex" : "hjo 1/1/2009 01:18",
+		"testWantsDropFromInspector" : "hjo 1/1/2009 16:22" } }

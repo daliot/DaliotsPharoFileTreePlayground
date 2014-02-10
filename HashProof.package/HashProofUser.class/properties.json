@@ -1,0 +1,18 @@
+{
+	"category" : "HashProof",
+	"classinstvars" : [
+		 ],
+	"classtraitcomposition" : "HashProofTrait classTrait",
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"x",
+		"y",
+		"z" ],
+	"name" : "HashProofUser",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"traitcomposition" : "HashProofTrait",
+	"type" : "normal" }

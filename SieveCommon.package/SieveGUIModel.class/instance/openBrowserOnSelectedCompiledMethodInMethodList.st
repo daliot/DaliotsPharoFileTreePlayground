@@ -1,0 +1,3 @@
+actions
+openBrowserOnSelectedCompiledMethodInMethodList
+listModel selection browse.

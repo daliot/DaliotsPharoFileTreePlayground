@@ -1,0 +1,15 @@
+{
+	"category" : "Ani-Demo-Stack",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"morphBelow",
+		"ani" ],
+	"name" : "StackingMorph",
+	"pools" : [
+		 ],
+	"super" : "AbstractStackMorph",
+	"type" : "normal" }

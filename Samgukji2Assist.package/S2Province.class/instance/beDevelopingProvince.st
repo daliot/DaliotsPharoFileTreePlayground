@@ -1,0 +1,3 @@
+as yet unclassified
+beDevelopingProvince
+	self setDevelopStateOfClass: S2DevelopingState

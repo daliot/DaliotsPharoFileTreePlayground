@@ -1,0 +1,18 @@
+{
+	"class" : {
+		"generals:rendezvousProvince:targetProvinceId:" : "HwaJong 1/15/2014 03:50" },
+	"instance" : {
+		"checkOk" : "HwaJong 1/24/2014 17:21",
+		"generals" : "HwaJong 1/15/2014 03:51",
+		"generals:" : "HwaJong 1/15/2014 03:50",
+		"generalsGoingToProvince:" : "HwaJong 1/24/2014 12:51",
+		"gettersForEquality" : "HwaJong 1/15/2014 03:51",
+		"isFulfilled" : "HwaJong 1/23/2014 02:19",
+		"isGoingToMoveGeneral:" : "HwaJong 1/16/2014 02:50",
+		"isInvolvingGeneral:" : "HwaJong 1/26/2014 00:42",
+		"printOn:" : "HwaJong 1/15/2014 04:32",
+		"putCommandOn:ifAtProvince:" : "HwaJong 1/26/2014 00:59",
+		"rendezvousProvince" : "HwaJong 1/15/2014 03:51",
+		"rendezvousProvince:" : "HwaJong 1/15/2014 03:50",
+		"targetProvinceId" : "HwaJong 1/15/2014 03:52",
+		"targetProvinceId:" : "HwaJong 1/15/2014 03:51" } }

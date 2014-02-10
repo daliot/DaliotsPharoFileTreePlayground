@@ -1,0 +1,16 @@
+{
+	"category" : "HangmanRescue",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"currentState",
+		"usedLetters",
+		"vocabulary" ],
+	"name" : "HangmanSaver",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

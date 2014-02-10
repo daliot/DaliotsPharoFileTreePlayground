@@ -1,0 +1,3 @@
+testing
+labelMorphIsNil
+	^labelMorph isNil

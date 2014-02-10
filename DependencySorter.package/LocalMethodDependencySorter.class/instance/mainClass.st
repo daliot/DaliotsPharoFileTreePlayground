@@ -1,0 +1,4 @@
+accessing
+mainClass
+
+	^mainClass

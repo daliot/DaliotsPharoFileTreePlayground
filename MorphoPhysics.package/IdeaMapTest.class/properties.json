@@ -1,0 +1,14 @@
+{
+	"category" : "MorphoPhysics-Test",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"ideaMap" ],
+	"name" : "IdeaMapTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

@@ -1,0 +1,16 @@
+{
+	"category" : "ImageFamilyTree",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"differenceStart",
+		"difference1",
+		"difference2" ],
+	"name" : "ShareCommonAncestorJRIFT",
+	"pools" : [
+		 ],
+	"super" : "JudgeResultIFT",
+	"type" : "normal" }

@@ -1,0 +1,25 @@
+{
+	"class" : {
+		"ofAllSamePieces:" : "hjo 7/26/2010 00:47",
+		"upperLeftPiece:upperRightPiece:lowerLeftPiece:lowerRightPiece:" : "hjo 7/17/2010 19:45" },
+	"instance" : {
+		"copyInLowerLayer:" : "hjo 7/17/2010 20:03",
+		"copyInUpperLayer:" : "hjo 7/17/2010 19:58",
+		"copyOutLowerLayer" : "hjo 7/17/2010 19:55",
+		"copyOutUpperLayer" : "hjo 7/17/2010 19:53",
+		"gettersForEquality" : "hjo 9/13/2011 22:31",
+		"isOneColor" : "hjo 1/31/2011 19:13",
+		"lowerLeftPiece" : "hjo 7/17/2010 19:44",
+		"lowerLeftPiece:" : "hjo 7/17/2010 19:44",
+		"lowerRightPiece" : "hjo 7/17/2010 19:32",
+		"lowerRightPiece:" : "hjo 7/17/2010 19:30",
+		"pieceSet" : "hjo 2/3/2011 21:51",
+		"printPieces" : "hjo 7/18/2010 07:56",
+		"rotateClockwise" : "hjo 7/17/2010 19:43",
+		"rotateCounterClockwise" : "hjo 7/17/2010 19:48",
+		"rotatedCounterClockwisely" : "hjo 2/7/2011 10:20",
+		"sidePattern" : "hjo 2/5/2011 13:32",
+		"upperLeftPiece" : "hjo 7/17/2010 19:31",
+		"upperLeftPiece:" : "hjo 7/17/2010 19:29",
+		"upperRightPiece" : "hjo 7/17/2010 19:31",
+		"upperRightPiece:" : "hjo 7/17/2010 19:29" } }

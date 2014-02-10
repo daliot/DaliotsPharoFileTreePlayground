@@ -1,0 +1,17 @@
+{
+	"category" : "QuantumLogic-Maze",
+	"classinstvars" : [
+		 ],
+	"classtraitcomposition" : "ClassCheckingHashProofTrait classTrait",
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"rowIndex",
+		"columnIndex" ],
+	"name" : "QCellRowColumn",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"traitcomposition" : "ClassCheckingHashProofTrait",
+	"type" : "normal" }

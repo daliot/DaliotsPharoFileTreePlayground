@@ -1,0 +1,3 @@
+*ObjectSheet
+objectSheetReadOnlyCellMorphClass
+	^OSMorphCellMorph

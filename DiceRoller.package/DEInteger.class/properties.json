@@ -1,0 +1,14 @@
+{
+	"category" : "DiceRoller",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"positiveInteger" ],
+	"name" : "DEInteger",
+	"pools" : [
+		 ],
+	"super" : "DiceExpression",
+	"type" : "normal" }

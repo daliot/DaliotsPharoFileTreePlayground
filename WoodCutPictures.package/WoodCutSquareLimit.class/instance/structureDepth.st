@@ -1,0 +1,4 @@
+accessing
+structureDepth
+
+	^side structureDepth

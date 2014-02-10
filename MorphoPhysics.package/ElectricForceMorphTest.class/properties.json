@@ -1,0 +1,14 @@
+{
+	"category" : "MorphoPhysics-Test",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ElectricForceMorphTest",
+	"pools" : [
+		 ],
+	"super" : "ForceMorphTest",
+	"type" : "normal" }

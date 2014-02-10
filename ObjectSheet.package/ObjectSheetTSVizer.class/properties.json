@@ -1,0 +1,14 @@
+{
+	"category" : "ObjectSheet-Textifier",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"tsvStream" ],
+	"name" : "ObjectSheetTSVizer",
+	"pools" : [
+		 ],
+	"super" : "ObjectSheetTextifier",
+	"type" : "normal" }

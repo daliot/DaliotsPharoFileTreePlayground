@@ -1,0 +1,23 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"testAddToFloat" : "HwaJong 8/29/2013 20:03",
+		"testAddToFraction" : "HwaJong 8/29/2013 20:05",
+		"testAddToInteger" : "HwaJong 8/29/2013 15:29",
+		"testCoefficientOfOrder" : "HwaJong 8/29/2013 20:08",
+		"testConstantTerm" : "HwaJong 8/29/2013 20:09",
+		"testFineRealRoots" : "HwaJong 8/30/2013 12:45",
+		"testLowestCoefficient" : "HwaJong 9/10/2013 22:18",
+		"testMinus" : "HwaJong 8/29/2013 15:37",
+		"testMultiply" : "HwaJong 8/29/2013 16:57",
+		"testMultiplyAndAddition" : "HwaJong 8/29/2013 18:19",
+		"testMultiplyByInteger" : "HwaJong 8/30/2013 12:53",
+		"testMultiplyByNumber" : "HwaJong 8/29/2013 18:21",
+		"testNegated" : "HwaJong 8/30/2013 12:54",
+		"testPlus" : "HwaJong 8/29/2013 18:23",
+		"testPowerSeries" : "HwaJong 9/10/2013 22:21",
+		"testRaisedTo" : "HwaJong 9/10/2013 22:24",
+		"testRemoveHighZeros" : "HwaJong 9/10/2013 22:27",
+		"testRootFinding" : "HwaJong 8/29/2013 18:26",
+		"testSubtractFromPolynomial" : "HwaJong 9/10/2013 22:33" } }

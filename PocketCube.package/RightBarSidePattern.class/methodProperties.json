@@ -1,0 +1,8 @@
+{
+	"class" : {
+		"barColorGetter" : "hjo 2/3/2011 23:22",
+		"checkBarPieceMatch:" : "hjo 2/3/2011 22:50",
+		"colorOfLeftToTheBarGetter" : "hjo 2/3/2011 23:23",
+		"colorOfRightToTheBarGetter" : "hjo 2/3/2011 23:23" },
+	"instance" : {
+		"isRightBar" : "hjo 2/7/2011 19:39" } }

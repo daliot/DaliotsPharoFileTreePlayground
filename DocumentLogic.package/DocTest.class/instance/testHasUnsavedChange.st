@@ -1,0 +1,3 @@
+tests
+testHasUnsavedChange
+self assert: doc hasUnsavedChange equals: self docShouldHaveUnsavedChange

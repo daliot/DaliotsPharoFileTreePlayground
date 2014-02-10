@@ -1,0 +1,13 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"colorOfSlaveBrowser" : "hjo 4/21/2012 19:19",
+		"createBackingMorph" : "hjo 7/31/2012 14:18",
+		"initialize" : "hjo 7/31/2012 14:18",
+		"jumpToNode:" : "HwaJong 11/5/2012 11:29",
+		"letGoControllingBrowser" : "hjo 7/31/2012 14:18",
+		"openBackingMorph" : "hjo 4/21/2012 19:21",
+		"pickBrowserToControl" : "hjo 4/29/2012 22:11",
+		"release" : "HwaJong 9/27/2012 00:11",
+		"setBrowserWindow:" : "hjo 4/21/2012 19:21" } }

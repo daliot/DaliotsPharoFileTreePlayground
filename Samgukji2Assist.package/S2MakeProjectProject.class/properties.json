@@ -1,0 +1,14 @@
+{
+	"category" : "Samgukji2Assist-Project",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "S2MakeProjectProject",
+	"pools" : [
+		 ],
+	"super" : "S2Project",
+	"type" : "normal" }

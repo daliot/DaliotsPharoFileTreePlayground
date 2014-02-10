@@ -1,0 +1,3 @@
+as yet unclassified
+whatToDoListModelDefaultList
+	^self model whatToDo asSortedCollection: (S2SortDescriptor byPriorityByProvinceIdByGeneralSortingDescriptor: self generalSortingListModel selection)

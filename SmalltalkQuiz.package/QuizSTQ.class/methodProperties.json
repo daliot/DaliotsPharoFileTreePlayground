@@ -1,0 +1,16 @@
+{
+	"class" : {
+		"randomInstance" : "hjo 5/3/2010 13:51" },
+	"instance" : {
+		"choiceStringAtIndex:" : "hjo 5/3/2010 14:32",
+		"choices" : "hjo 5/3/2010 19:29",
+		"choices:" : "hjo 5/3/2010 19:31",
+		"choicesString" : "hjo 5/3/2010 19:35",
+		"correctChoice" : "hjo 5/3/2010 19:48",
+		"indexOfCorrectChoice" : "hjo 5/3/2010 11:12",
+		"isChoiceCorrect:" : "hjo 5/3/2010 19:49",
+		"questionAndChoicesString" : "hjo 5/3/2010 19:38",
+		"questionString" : "hjo 5/3/2010 13:52",
+		"rightOrWrongIfUserChoosed:" : "hjo 5/3/2010 11:11",
+		"subject" : "hjo 5/3/2010 19:34",
+		"subject:" : "hjo 5/3/2010 19:34" } }

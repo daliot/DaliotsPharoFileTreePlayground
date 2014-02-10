@@ -1,0 +1,14 @@
+{
+	"category" : "QuantumLogic-Example",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"matrix" ],
+	"name" : "QuantumSudoku",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

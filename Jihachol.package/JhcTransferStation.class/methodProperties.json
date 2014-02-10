@@ -1,0 +1,13 @@
+{
+	"class" : {
+		"with:" : "jhan 10/12/2009 23:34" },
+	"instance" : {
+		"id" : "jhan 10/13/2009 10:07",
+		"lineNames" : "hjo 10/31/2009 14:48",
+		"lines" : "hjo 10/31/2009 14:48",
+		"name" : "jhan 10/13/2009 10:06",
+		"secondName" : "hjo 10/29/2009 04:23",
+		"subStations" : "jhan 10/12/2009 23:36",
+		"subStations:" : "jhan 10/12/2009 23:35",
+		"timespanMinutesFromSingleStation:" : "jhan 10/13/2009 00:36",
+		"timespanMinutesTo:" : "jhan 10/13/2009 00:19" } }

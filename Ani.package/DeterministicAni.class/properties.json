@@ -1,0 +1,19 @@
+{
+	"category" : "Ani",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"duration",
+		"progress",
+		"animatedTime",
+		"finishedOperation",
+		"timeFunction",
+		"animationBlock" ],
+	"name" : "DeterministicAni",
+	"pools" : [
+		 ],
+	"super" : "Ani",
+	"type" : "normal" }

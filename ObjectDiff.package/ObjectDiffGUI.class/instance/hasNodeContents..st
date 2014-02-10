@@ -1,0 +1,3 @@
+list
+hasNodeContents: object
+^false

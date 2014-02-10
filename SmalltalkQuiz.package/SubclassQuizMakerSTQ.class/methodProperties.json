@@ -1,0 +1,12 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"doJob" : "hjo 4/13/2010 09:59",
+		"doJobInlined" : "hjo 4/14/2010 13:14",
+		"makeQuiz" : "hjo 4/14/2010 13:14",
+		"selectRandomClassThatHasAtLeastOneSubclass" : "hjo 4/13/2010 09:50",
+		"selectRandomOneClassFromSubclassGroupPutItIntoChoices" : "hjo 4/13/2010 09:53",
+		"selectThreeRandomClassesFromNonSubclassGroupPutItIntoChoices" : "hjo 4/13/2010 09:54",
+		"separateClassesIntoTwoGrouopsOneWithSubclassOfItOthersWithNotSubclassesOfIt" : "hjo 4/13/2010 09:52",
+		"shuffleTheChoices" : "hjo 4/13/2010 09:55" } }

@@ -1,0 +1,15 @@
+{
+	"category" : "UndoRedo",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"items",
+		"position" ],
+	"name" : "UndoRedo",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

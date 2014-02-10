@@ -1,0 +1,15 @@
+{
+	"category" : "WoodCutPictures-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"shape",
+		"name" ],
+	"name" : "WoodCutPicture",
+	"pools" : [
+		 ],
+	"super" : "AbstractWoodCutPicture",
+	"type" : "normal" }

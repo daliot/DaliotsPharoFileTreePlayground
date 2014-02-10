@@ -1,0 +1,15 @@
+{
+	"category" : "PCube-Rendering",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"depth",
+		"color" ],
+	"name" : "PDepthedColor",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

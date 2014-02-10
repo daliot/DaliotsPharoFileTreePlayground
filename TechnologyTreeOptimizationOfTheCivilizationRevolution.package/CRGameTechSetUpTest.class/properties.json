@@ -1,0 +1,14 @@
+{
+	"category" : "TechnologyTreeOptimizationOfTheCivilizationRevolution",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"game" ],
+	"name" : "CRGameTechSetUpTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

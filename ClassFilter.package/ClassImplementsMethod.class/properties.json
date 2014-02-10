@@ -1,0 +1,14 @@
+{
+	"category" : "ClassFilter",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ClassImplementsMethod",
+	"pools" : [
+		 ],
+	"super" : "ClassFilterWithStringOrSymbol",
+	"type" : "normal" }

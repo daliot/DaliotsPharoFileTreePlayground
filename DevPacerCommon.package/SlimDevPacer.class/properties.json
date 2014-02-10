@@ -1,0 +1,15 @@
+{
+	"category" : "DevPacerCommon",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"runningAni",
+		"pacerClass" ],
+	"name" : "SlimDevPacer",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

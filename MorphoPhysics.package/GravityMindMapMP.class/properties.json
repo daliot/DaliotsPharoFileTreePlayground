@@ -1,0 +1,15 @@
+{
+	"category" : "MorphoPhysics-Application",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"ani",
+		"gravity" ],
+	"name" : "GravityMindMapMP",
+	"pools" : [
+		 ],
+	"super" : "MMMP",
+	"type" : "normal" }

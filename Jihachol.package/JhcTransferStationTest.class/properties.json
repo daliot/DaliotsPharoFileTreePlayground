@@ -1,0 +1,15 @@
+{
+	"category" : "Jihachol",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"line2",
+		"seongsu" ],
+	"name" : "JhcTransferStationTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

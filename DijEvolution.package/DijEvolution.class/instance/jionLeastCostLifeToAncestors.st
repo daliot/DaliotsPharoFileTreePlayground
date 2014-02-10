@@ -1,0 +1,3 @@
+subroutines
+jionLeastCostLifeToAncestors
+	ancestors addLast: leastCostLife.

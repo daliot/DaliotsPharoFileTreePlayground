@@ -1,0 +1,3 @@
+*ObjectSheet
+objectSheetReadWriteCellMorphClass
+	^OSEditableTextCellMorph

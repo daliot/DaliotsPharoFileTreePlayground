@@ -1,0 +1,15 @@
+{
+	"category" : "FastDetector",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"col",
+		"item" ],
+	"name" : "FastDetectorTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

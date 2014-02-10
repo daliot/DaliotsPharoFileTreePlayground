@@ -1,0 +1,17 @@
+{
+	"class" : {
+		"shortName" : "HwaJong 2/5/2014 01:56" },
+	"instance" : {
+		"chooseFromActionWithSelection:" : "HwaJong 2/9/2014 02:01",
+		"generalHasCorrectEntitlement" : "HwaJong 1/30/2014 20:37",
+		"generalIsAppointedCorrectly" : "HwaJong 1/26/2014 02:36",
+		"goAndBeGovernerProjectShouldBeAbortedIfTargetProvinceIs:" : "HwaJong 2/7/2014 20:47",
+		"isEasyBackGovernerJob" : "HwaJong 1/31/2014 01:27",
+		"isGoodToBeInBorderProvince" : "HwaJong 1/27/2014 01:23",
+		"isGoodToBeInCapitalProvince" : "HwaJong 1/27/2014 00:58",
+		"isGoodToBeInEasyBackProvince" : "HwaJong 1/30/2014 21:38",
+		"isGoodToBeInLoyaltyRaisingProvince" : "HwaJong 1/28/2014 23:37",
+		"joinParametersForCollectLabelBlockForObjectsToChooseFrom" : "HwaJong 2/9/2014 01:18",
+		"makeProjectWithInteractionWhenExceptionRaised" : "HwaJong 2/5/2014 16:37",
+		"objectsToChooseFrom" : "HwaJong 2/3/2014 04:31",
+		"titleForChooseFrom" : "HwaJong 2/3/2014 04:34" } }

@@ -1,0 +1,15 @@
+{
+	"category" : "LearnSound",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"rest",
+		"seq" ],
+	"name" : "LearnRestSound",
+	"pools" : [
+		 ],
+	"super" : "LearnMIDI",
+	"type" : "normal" }

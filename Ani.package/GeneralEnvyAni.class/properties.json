@@ -1,0 +1,17 @@
+{
+	"category" : "Ani",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"targetEvaluator",
+		"currentEvaluator",
+		"operation",
+		"stiffness" ],
+	"name" : "GeneralEnvyAni",
+	"pools" : [
+		 ],
+	"super" : "Ani",
+	"type" : "normal" }

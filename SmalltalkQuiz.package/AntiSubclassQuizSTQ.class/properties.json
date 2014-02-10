@@ -1,0 +1,14 @@
+{
+	"category" : "SmalltalkQuiz",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "AntiSubclassQuizSTQ",
+	"pools" : [
+		 ],
+	"super" : "QuizSTQ",
+	"type" : "normal" }

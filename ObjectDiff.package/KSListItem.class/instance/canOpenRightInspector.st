@@ -1,0 +1,3 @@
+testing
+canOpenRightInspector
+^diffSheet canOpenRightInspectorAtRowIndex: index

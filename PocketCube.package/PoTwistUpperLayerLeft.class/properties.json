@@ -1,0 +1,14 @@
+{
+	"category" : "PocketCube",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "PoTwistUpperLayerLeft",
+	"pools" : [
+		 ],
+	"super" : "PocketCubeTwistOperation",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "LearnCanvas",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "RedEllipseMorph",
+	"pools" : [
+		 ],
+	"super" : "LearnCanvasMorph",
+	"type" : "normal" }

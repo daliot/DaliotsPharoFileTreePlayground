@@ -1,0 +1,20 @@
+{
+	"class" : {
+		"blank" : "hjo 3/6/2008 18:05",
+		"f" : "hjo 3/7/2008 15:32",
+		"fShape" : "hjo 3/6/2008 18:11",
+		"fish" : "hjo 3/7/2008 15:49",
+		"fishShape" : "hjo 3/9/2008 09:26",
+		"triangle" : "hjo 3/13/2008 19:49" },
+	"instance" : {
+		"borderColor" : "hjo 2/23/2008 11:23",
+		"borderWidth" : "hjo 2/23/2008 11:22",
+		"drawOnCanvas:usingFrame:" : "hjo 3/4/2008 20:46",
+		"fillColor" : "hjo 2/23/2008 11:22",
+		"name:" : "hjo 3/6/2008 18:04",
+		"printExpressionOn:" : "hjo 3/6/2008 18:04",
+		"scaleBy:" : "hjo 3/7/2008 23:24",
+		"shape" : "hjo 2/23/2008 11:41",
+		"shape:" : "hjo 2/23/2008 11:15",
+		"structureDepth" : "hjo 3/9/2008 11:36",
+		"translate:" : "hjo 3/7/2008 17:09" } }

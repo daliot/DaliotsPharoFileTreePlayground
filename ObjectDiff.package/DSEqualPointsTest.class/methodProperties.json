@@ -1,0 +1,15 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"setUp" : "HwaJong 10/28/2012 20:19",
+		"testCanOpenInnerDifference" : "HwaJong 10/31/2012 18:35",
+		"testCanOpenInnerDifferenceAtKeyIndex1" : "HwaJong 10/31/2012 18:58",
+		"testCanOpenInspectorLeft1" : "HwaJong 10/31/2012 19:32",
+		"testCanOpenInspectorRight1" : "HwaJong 10/31/2012 20:58",
+		"testComparisonResultInLiterals" : "HwaJong 12/27/2012 12:04",
+		"testDiffKeyAtRow1" : "HwaJong 12/26/2012 18:49",
+		"testDiffTypeAtRow1" : "HwaJong 12/26/2012 18:53",
+		"testLeftSideObjectOfListItemAtRow1" : "HwaJong 10/31/2012 15:08",
+		"testListRowSize" : "HwaJong 10/28/2012 21:52",
+		"testRightSideObjectOfListItemAtRow1" : "HwaJong 10/31/2012 16:38" } }

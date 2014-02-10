@@ -1,0 +1,16 @@
+{
+	"category" : "LearnSound",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "HwaJong 12/15/2012 23:00",
+	"instvars" : [
+		"note",
+		"rest",
+		"seq" ],
+	"name" : "LearnRestDoNotReuseNoteSound",
+	"pools" : [
+		 ],
+	"super" : "LearnMIDI",
+	"type" : "normal" }

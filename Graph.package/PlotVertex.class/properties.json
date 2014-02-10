@@ -1,0 +1,15 @@
+{
+	"category" : "Graph-Graphics",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"shape",
+		"color" ],
+	"name" : "PlotVertex",
+	"pools" : [
+		 ],
+	"super" : "Vertex",
+	"type" : "normal" }

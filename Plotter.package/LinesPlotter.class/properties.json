@@ -1,0 +1,16 @@
+{
+	"category" : "Plotter",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"xAxis",
+		"yAxis",
+		"title" ],
+	"name" : "LinesPlotter",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

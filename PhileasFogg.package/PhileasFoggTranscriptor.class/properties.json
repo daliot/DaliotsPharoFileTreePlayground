@@ -1,0 +1,15 @@
+{
+	"category" : "PhileasFogg",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"topicClass",
+		"model" ],
+	"name" : "PhileasFoggTranscriptor",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

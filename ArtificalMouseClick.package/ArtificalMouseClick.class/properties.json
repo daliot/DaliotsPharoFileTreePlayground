@@ -1,0 +1,14 @@
+{
+	"category" : "ArtificalMouseClick",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"clickPosition" ],
+	"name" : "ArtificalMouseClick",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,16 @@
+{
+	"category" : "ObjectSheet-Morph-cell",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"textFieldMorph",
+		"selectionInterval",
+		"hasUnacceptedEdits" ],
+	"name" : "OSEditableTextCellMorph",
+	"pools" : [
+		 ],
+	"super" : "OSCellMorph",
+	"type" : "normal" }

@@ -1,0 +1,22 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"testArray1" : "hjo 8/8/2012 17:37",
+		"testArray1Bidirectional" : "hjo 8/8/2012 17:56",
+		"testArray1Fail" : "hjo 8/8/2012 23:15",
+		"testArray1Reversed" : "hjo 8/8/2012 17:42",
+		"testClassCheck" : "hjo 8/8/2012 19:31",
+		"testClassShould" : "hjo 8/9/2012 07:27",
+		"testClassShouldnt" : "hjo 8/9/2012 08:04",
+		"testDeeperArray" : "hjo 8/8/2012 17:54",
+		"testDeeperArrayBidirectional" : "hjo 8/8/2012 18:00",
+		"testFailByValue" : "hjo 8/8/2012 17:43",
+		"testInstanceVariables" : "hjo 8/8/2012 21:30",
+		"testInteger" : "hjo 8/8/2012 17:29",
+		"testInteger2" : "hjo 8/8/2012 17:30",
+		"testInteger2Reversed" : "hjo 8/8/2012 17:41",
+		"testIntegerReversed" : "hjo 8/8/2012 17:39",
+		"testQueryToQuery" : "hjo 8/8/2012 17:51",
+		"testShouldBe" : "hjo 8/9/2012 08:07",
+		"testShouldntBe" : "hjo 8/9/2012 08:08" } }

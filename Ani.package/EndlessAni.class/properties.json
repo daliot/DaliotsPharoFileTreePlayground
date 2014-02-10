@@ -1,0 +1,14 @@
+{
+	"category" : "Ani",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"operation" ],
+	"name" : "EndlessAni",
+	"pools" : [
+		 ],
+	"super" : "Ani",
+	"type" : "normal" }

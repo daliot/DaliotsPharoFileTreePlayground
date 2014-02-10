@@ -1,0 +1,11 @@
+{
+	"class" : {
+		"isAbstract" : "HwaJong 10/3/2012 18:09" },
+	"instance" : {
+		"docShouldBeNew" : "HwaJong 10/3/2012 18:09",
+		"docShouldHaveSaveMedium" : "HwaJong 10/5/2012 14:22",
+		"docShouldHaveUnsavedChange" : "HwaJong 10/5/2012 13:44",
+		"setUp" : "HwaJong 10/3/2012 18:09",
+		"whatShouldDocDoWhenUserCloses" : "HwaJong 10/4/2012 22:41",
+		"whatShouldDocDoWhenUserLoads" : "HwaJong 10/3/2012 18:11",
+		"whatShouldDocDoWhenUserSaves" : "HwaJong 10/3/2012 18:12" } }

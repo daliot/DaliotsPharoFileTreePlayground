@@ -1,0 +1,18 @@
+{
+	"category" : "DijEvolution",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"origin",
+		"birthMessage",
+		"birthCost",
+		"cost",
+		"object" ],
+	"name" : "DijLife",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

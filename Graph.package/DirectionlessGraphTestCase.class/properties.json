@@ -1,0 +1,14 @@
+{
+	"category" : "Graph-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "DirectionlessGraphTestCase",
+	"pools" : [
+		 ],
+	"super" : "GraphTestCase",
+	"type" : "normal" }

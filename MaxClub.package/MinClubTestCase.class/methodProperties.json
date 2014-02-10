@@ -1,0 +1,9 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"testForNumbers" : "hjo 9/2/2008 11:00",
+		"testForOddCounting" : "hjo 9/2/2008 11:19",
+		"testIsEmpty" : "hjo 9/2/2008 11:22",
+		"testMayAccept" : "hjo 9/2/2008 11:27",
+		"testPutAll" : "hjo 9/2/2008 11:29" } }

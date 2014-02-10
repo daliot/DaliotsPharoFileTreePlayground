@@ -1,0 +1,8 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"setUp" : "hjo 9/22/2009 15:21",
+		"testExtendingWithEdge" : "hjo 9/22/2009 13:53",
+		"testExtendingWithNoEdge" : "hjo 9/22/2009 13:53",
+		"testFirstAndLastVertex" : "hjo 9/22/2009 13:48" } }

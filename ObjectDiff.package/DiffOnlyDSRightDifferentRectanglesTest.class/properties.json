@@ -1,0 +1,14 @@
+{
+	"category" : "ObjectDiff-Test",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "DiffOnlyDSRightDifferentRectanglesTest",
+	"pools" : [
+		 ],
+	"super" : "DiffOnlyDiffSheetTest",
+	"type" : "normal" }

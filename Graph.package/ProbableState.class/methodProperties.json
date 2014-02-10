@@ -1,0 +1,8 @@
+{
+	"class" : {
+		"designatedEdgeClass" : "hjo 9/18/2009 20:56" },
+	"instance" : {
+		"for:give:be:" : "hjo 9/18/2009 20:55",
+		"normalizeConditionaryProbabilities" : "hjo 9/18/2009 20:55",
+		"stateEdgeFor:" : "hjo 9/18/2009 20:55",
+		"sumOfConditionaryProbabilities" : "hjo 9/18/2009 20:55" } }

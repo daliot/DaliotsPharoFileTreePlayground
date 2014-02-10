@@ -1,0 +1,12 @@
+{
+	"class" : {
+		"computationTimeMeasure" : "HwaJong 10/5/2013 10:10",
+		"computationTimeMeasure:" : "HwaJong 10/5/2013 10:17",
+		"computationTimeMeasureDefault" : "HwaJong 10/5/2013 10:17" },
+	"instance" : {
+		"expectedRunTime" : "HwaJong 10/5/2013 10:24",
+		"filter:isPositive:" : "HwaJong 11/16/2013 23:51",
+		"filterIn:" : "HwaJong 11/16/2013 23:51",
+		"filterOut:" : "HwaJong 11/16/2013 23:51",
+		"timeMeasuringValue:" : "HwaJong 1/1/2014 23:00",
+		"value:" : "hjo 4/1/2012 10:56" } }

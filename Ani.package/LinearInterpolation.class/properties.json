@@ -1,0 +1,15 @@
+{
+	"category" : "Ani",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"valueForZero",
+		"valueForOne" ],
+	"name" : "LinearInterpolation",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

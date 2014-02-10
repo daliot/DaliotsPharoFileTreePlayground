@@ -1,0 +1,15 @@
+{
+	"category" : "PocketCube-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"pocketCube",
+		"hasReceivedHasPocketCubeChanged" ],
+	"name" : "PocketCubeColorPieceTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

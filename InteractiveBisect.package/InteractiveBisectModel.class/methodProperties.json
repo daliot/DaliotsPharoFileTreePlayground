@@ -1,0 +1,21 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"bisect" : "hjo 8/12/2011 16:39",
+		"bisect:" : "hjo 8/30/2011 20:39",
+		"defaultBisect" : "hjo 8/12/2011 16:39",
+		"enableForStaticText" : "hjo 8/12/2011 17:05",
+		"getEnableSelectorForStaticText" : "hjo 8/12/2011 17:06",
+		"inputNumber" : "hjo 8/12/2011 16:41",
+		"inputNumber:" : "hjo 8/12/2011 17:48",
+		"inputNumberChanged:" : "hjo 8/12/2011 20:05",
+		"integerMode:" : "hjo 8/12/2011 16:51",
+		"isIntegerMode" : "hjo 8/12/2011 16:41",
+		"isIntegerMode:" : "hjo 8/12/2011 16:53",
+		"reset" : "hjo 8/12/2011 16:56",
+		"stringOfTooBigNumber" : "hjo 8/12/2011 17:22",
+		"stringOfTooSmallNumber" : "hjo 8/12/2011 17:04",
+		"treatTheNumberTooBig" : "hjo 8/12/2011 16:50",
+		"treatTheNumberTooSmall" : "hjo 8/12/2011 16:50",
+		"update:" : "hjo 8/30/2011 20:57" } }

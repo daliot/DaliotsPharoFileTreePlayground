@@ -1,0 +1,5 @@
+as yet unclassified
+setContents
+
+	self setContentsOfQuestionTextMorphWithQuiz.
+	self setContentsOfChoiceTextMorphsWithQuiz

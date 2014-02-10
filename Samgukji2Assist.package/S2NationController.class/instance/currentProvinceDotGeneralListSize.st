@@ -1,0 +1,3 @@
+as yet unclassified
+currentProvinceDotGeneralListSize
+	^self generalsOfCurrentProvinceListModel list size 

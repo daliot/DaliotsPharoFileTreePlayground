@@ -1,0 +1,14 @@
+{
+	"category" : "Graph-Graphics",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"position" ],
+	"name" : "DrawableVertex",
+	"pools" : [
+		 ],
+	"super" : "Vertex",
+	"type" : "normal" }

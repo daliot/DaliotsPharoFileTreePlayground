@@ -1,0 +1,16 @@
+{
+	"category" : "InteractiveBisect",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"ls",
+		"i",
+		"lb" ],
+	"name" : "InteractiveBisectWindow",
+	"pools" : [
+		 ],
+	"super" : "StandardWindow",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "QuantumLogic",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"possibilities" ],
+	"name" : "QuantumObject",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

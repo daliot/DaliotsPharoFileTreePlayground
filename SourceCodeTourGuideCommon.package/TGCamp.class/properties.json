@@ -1,0 +1,14 @@
+{
+	"category" : "SourceCodeTourGuideCommon",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "TGCamp",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

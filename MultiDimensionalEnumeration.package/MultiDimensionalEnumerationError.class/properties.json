@@ -1,0 +1,14 @@
+{
+	"category" : "MultiDimensionalEnumeration",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "MultiDimensionalEnumerationError",
+	"pools" : [
+		 ],
+	"super" : "Error",
+	"type" : "normal" }

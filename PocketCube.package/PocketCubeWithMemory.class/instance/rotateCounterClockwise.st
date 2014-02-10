@@ -1,0 +1,5 @@
+rotate
+rotateCounterClockwise
+
+	super rotateCounterClockwise.
+	self addToMoveHistory: PoRotateCounterClockwise singleton

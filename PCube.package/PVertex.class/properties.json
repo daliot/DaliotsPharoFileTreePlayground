@@ -1,0 +1,15 @@
+{
+	"category" : "PCube-BasicElement",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"point",
+		"color" ],
+	"name" : "PVertex",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

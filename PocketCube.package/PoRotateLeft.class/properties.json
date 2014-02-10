@@ -1,0 +1,14 @@
+{
+	"category" : "PocketCube",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "PoRotateLeft",
+	"pools" : [
+		 ],
+	"super" : "PocketCubeRotateOperation",
+	"type" : "normal" }

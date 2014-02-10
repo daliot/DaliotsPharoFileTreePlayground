@@ -1,0 +1,28 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"above:" : "hjo 2/29/2008 20:47",
+		"beside:" : "hjo 2/29/2008 20:51",
+		"buildCorner:" : "hjo 3/4/2008 21:20",
+		"buildSide:" : "hjo 3/4/2008 20:44",
+		"cycleOfOne" : "hjo 3/9/2008 09:51",
+		"cycled" : "hjo 3/9/2008 10:31",
+		"drawOnCanvas:usingFrame:" : "hjo 3/4/2008 10:47",
+		"drawOnWorld" : "hjo 3/4/2008 10:35",
+		"expressionString" : "hjo 3/6/2008 18:00",
+		"flipped" : "hjo 2/29/2008 20:28",
+		"over:" : "hjo 3/4/2008 12:12",
+		"pattern2" : "hjo 3/4/2008 12:32",
+		"printExpressionOn:" : "hjo 3/6/2008 17:58",
+		"quartetOfOne" : "hjo 3/9/2008 10:40",
+		"rotated" : "hjo 2/29/2008 20:29",
+		"rotatedBy45Degrees" : "hjo 2/29/2008 20:52",
+		"sierpinskiDepth" : "hjo 3/13/2008 19:10",
+		"sierpinskiForm" : "hjo 3/13/2008 19:36",
+		"simplified" : "hjo 3/9/2008 13:59",
+		"tileTForm" : "hjo 3/6/2008 16:48",
+		"tileUForm" : "hjo 3/6/2008 16:48",
+		"tileVForm" : "hjo 3/9/2008 10:38",
+		"triplyRotated" : "hjo 3/4/2008 12:37",
+		"unitPicture" : "hjo 3/13/2008 19:04" } }

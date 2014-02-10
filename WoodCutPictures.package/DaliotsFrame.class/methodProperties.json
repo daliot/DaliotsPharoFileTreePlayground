@@ -1,0 +1,27 @@
+{
+	"class" : {
+		"ofWorld" : "hjo 2/22/2008 22:16" },
+	"instance" : {
+		"downHalf" : "hjo 2/26/2008 23:24",
+		"downPart:" : "hjo 3/6/2008 12:06",
+		"flippedFrame" : "hjo 2/26/2008 22:53",
+		"isRightAngle" : "hjo 3/7/2008 11:33",
+		"leftHalf" : "hjo 2/29/2008 05:36",
+		"leftPart:" : "hjo 3/6/2008 11:49",
+		"mappedPoint:" : "hjo 2/29/2008 20:20",
+		"mappedPoints:" : "hjo 2/29/2008 20:20",
+		"origin" : "hjo 2/22/2008 21:38",
+		"origin:" : "hjo 2/22/2008 22:12",
+		"rightHalf" : "hjo 2/29/2008 05:38",
+		"rightPart:" : "hjo 3/6/2008 11:59",
+		"rotatedBy45Degrees" : "hjo 3/9/2008 12:20",
+		"rotatedFrame" : "hjo 3/7/2008 11:34",
+		"upHalf" : "hjo 2/26/2008 23:21",
+		"upPart:" : "hjo 3/6/2008 11:55",
+		"vector:weightedBy:and:" : "hjo 3/6/2008 12:09",
+		"xVector" : "hjo 2/22/2008 21:39",
+		"xVector:" : "hjo 2/22/2008 22:16",
+		"xVectorWeightedBy:and:" : "hjo 3/6/2008 12:08",
+		"yVector" : "hjo 2/22/2008 21:39",
+		"yVector:" : "hjo 2/22/2008 22:17",
+		"yVectorWeightedBy:and:" : "hjo 3/6/2008 12:10" } }

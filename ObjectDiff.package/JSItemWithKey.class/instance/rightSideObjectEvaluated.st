@@ -1,0 +1,3 @@
+self evaluating
+rightSideObjectEvaluated
+	^rightSideObject objectDiffValueAt: key

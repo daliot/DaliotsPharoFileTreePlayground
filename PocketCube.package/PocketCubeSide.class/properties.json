@@ -1,0 +1,19 @@
+{
+	"category" : "PocketCube",
+	"classinstvars" : [
+		 ],
+	"classtraitcomposition" : "HashProofTrait classTrait",
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"upperLeftPiece",
+		"upperRightPiece",
+		"lowerRightPiece",
+		"lowerLeftPiece" ],
+	"name" : "PocketCubeSide",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"traitcomposition" : "HashProofTrait",
+	"type" : "normal" }

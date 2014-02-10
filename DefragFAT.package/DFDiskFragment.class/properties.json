@@ -1,0 +1,16 @@
+{
+	"category" : "DefragFAT",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"startingIndex",
+		"length",
+		"fileSystem" ],
+	"name" : "DFDiskFragment",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

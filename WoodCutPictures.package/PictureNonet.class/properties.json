@@ -1,0 +1,22 @@
+{
+	"category" : "WoodCutPictures-ComplexFunctions",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"northWest",
+		"north",
+		"northEast",
+		"west",
+		"middle",
+		"east",
+		"southWest",
+		"south",
+		"southEast" ],
+	"name" : "PictureNonet",
+	"pools" : [
+		 ],
+	"super" : "FunctionalWoodCutPicture",
+	"type" : "normal" }

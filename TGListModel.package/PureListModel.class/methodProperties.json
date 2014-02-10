@@ -1,0 +1,20 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"atEnd" : "HwaJong 11/13/2012 17:48",
+		"atEndInsert:" : "HwaJong 11/13/2012 18:04",
+		"deleteSelection" : "HwaJong 11/13/2012 17:50",
+		"hasSelection" : "HwaJong 11/13/2012 17:52",
+		"initialize" : "HwaJong 11/13/2012 17:53",
+		"initializeSelectionIndex" : "HwaJong 11/13/2012 18:04",
+		"insert:at:" : "HwaJong 11/13/2012 17:54",
+		"insertAll:at:" : "HwaJong 11/13/2012 17:54",
+		"list" : "HwaJong 11/13/2012 17:55",
+		"list:" : "HwaJong 11/13/2012 17:55",
+		"moveSelectionDown" : "HwaJong 11/13/2012 17:56",
+		"moveSelectionUp" : "HwaJong 11/13/2012 17:56",
+		"notEmpty" : "HwaJong 11/13/2012 18:02",
+		"selection" : "HwaJong 11/13/2012 18:00",
+		"selectionIndex" : "HwaJong 11/13/2012 17:57",
+		"selectionIndex:" : "HwaJong 11/13/2012 17:57" } }

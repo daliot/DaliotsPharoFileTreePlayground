@@ -1,0 +1,23 @@
+{
+	"category" : "SieveCommon-GUI-Main",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"builder",
+		"themeBuilder",
+		"model",
+		"filterListMorph",
+		"methodListMorph",
+		"methodDefinitionTextMorph",
+		"window",
+		"addFilterButton",
+		"removeFilterButton",
+		"moveFilterUpButton" ],
+	"name" : "SieveGUIBuilder",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

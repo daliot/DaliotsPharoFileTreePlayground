@@ -1,0 +1,17 @@
+{
+	"category" : "QuantumLogic-Maze",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"northBetween",
+		"southBetween",
+		"eastBetween",
+		"westBetween" ],
+	"name" : "QCell",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

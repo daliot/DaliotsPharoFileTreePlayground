@@ -1,0 +1,14 @@
+{
+	"category" : "QuickPrototypingCommon",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"model" ],
+	"name" : "QuickPrototyping",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

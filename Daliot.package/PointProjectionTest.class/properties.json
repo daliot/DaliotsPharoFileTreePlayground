@@ -1,0 +1,15 @@
+{
+	"category" : "Daliot",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"referencePoint",
+		"point" ],
+	"name" : "PointProjectionTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

@@ -1,0 +1,4 @@
+testing
+hasDirection
+
+	^self isDirectedEdge

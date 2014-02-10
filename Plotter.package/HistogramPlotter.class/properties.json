@@ -1,0 +1,18 @@
+{
+	"category" : "Plotter",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"xAxis",
+		"yAxis",
+		"gaussian",
+		"bars",
+		"title" ],
+	"name" : "HistogramPlotter",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

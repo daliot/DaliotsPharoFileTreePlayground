@@ -1,0 +1,14 @@
+{
+	"category" : "Prolog",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"collectedCases" ],
+	"name" : "PrologVariable",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

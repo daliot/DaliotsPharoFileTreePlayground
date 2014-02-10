@@ -1,0 +1,18 @@
+{
+	"category" : "QuantumLogic-Example",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"alabama",
+		"mississippi",
+		"georgia",
+		"tennessee",
+		"florida" ],
+	"name" : "QuantumMapColoring",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

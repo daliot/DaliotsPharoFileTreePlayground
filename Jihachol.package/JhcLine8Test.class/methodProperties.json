@@ -1,0 +1,11 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"setUp" : "hjo 9/28/2009 13:16",
+		"testAmsa" : "hjo 10/31/2009 15:37",
+		"testJamsil" : "hjo 10/31/2009 15:37",
+		"testLineColor" : "hjo 10/13/2009 14:44",
+		"testSongpa" : "hjo 10/31/2009 15:38",
+		"testTimeSpanFromAmsaToSongpa" : "hjo 10/12/2009 13:28",
+		"testTimeSpanFromBokjeongToSanseong" : "hjo 10/12/2009 13:31" } }

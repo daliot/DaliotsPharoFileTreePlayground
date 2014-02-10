@@ -1,0 +1,16 @@
+{
+	"category" : "Plotter",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"startX",
+		"endX",
+		"tally" ],
+	"name" : "HistoBar",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

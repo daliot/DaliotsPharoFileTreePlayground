@@ -1,0 +1,14 @@
+{
+	"category" : "TGListModel",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"itemPrintBlock" ],
+	"name" : "TGListModelPluggableItemPrinting",
+	"pools" : [
+		 ],
+	"super" : "PureListModel",
+	"type" : "normal" }

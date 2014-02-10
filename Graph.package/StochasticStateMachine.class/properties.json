@@ -1,0 +1,14 @@
+{
+	"category" : "Graph-Stochastic",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "StochasticStateMachine",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

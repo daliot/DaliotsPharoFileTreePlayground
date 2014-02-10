@@ -1,0 +1,14 @@
+{
+	"category" : "MultiDimensionalEnumeration",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "MultiDimensionalSelect",
+	"pools" : [
+		 ],
+	"super" : "MultiDimensionalEnumeration",
+	"type" : "normal" }

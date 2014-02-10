@@ -1,0 +1,3 @@
+as yet unclassified
+rawFilterForGUIModel
+^MethodClassIsClassOrSuperclass methodClass: Object

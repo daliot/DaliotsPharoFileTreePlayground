@@ -1,0 +1,14 @@
+{
+	"category" : "ObjectDiff-GUI",
+	"classinstvars" : [
+		"TheFormThatCached" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "FormCache",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

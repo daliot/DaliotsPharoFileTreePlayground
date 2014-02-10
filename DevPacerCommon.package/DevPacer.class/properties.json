@@ -1,0 +1,17 @@
+{
+	"category" : "DevPacerCommon",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"dueTime",
+		"runningAni",
+		"intervalMinutes",
+		"pacerClass" ],
+	"name" : "DevPacer",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

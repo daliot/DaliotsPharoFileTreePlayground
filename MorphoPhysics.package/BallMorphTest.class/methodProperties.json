@@ -1,0 +1,15 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"setUp" : "hjo 8/5/2009 14:45",
+		"testAcceleratedBy" : "hjo 8/5/2009 16:18",
+		"testAccessingVelocity" : "hjo 8/5/2009 14:47",
+		"testAngularlyAcceleratedBy10RotationCenterPoint0at20" : "hjo 8/5/2009 16:39",
+		"testAngularlyAcceleratedBy10RotationCenterPoint40at20" : "hjo 8/5/2009 16:40",
+		"testAngularlyAcceleratedBy20RotationCenterPoint0at20" : "hjo 8/5/2009 16:41",
+		"testAngularlyAcceleratedBy20RotationCenterPoint40at20" : "hjo 8/5/2009 16:42",
+		"testApplyFriction" : "hjo 8/5/2009 14:53",
+		"testForcedBy" : "hjo 8/5/2009 16:21",
+		"testMoveByVelocity" : "hjo 8/5/2009 14:49",
+		"testStoreOn" : "hjo 9/3/2009 17:50" } }

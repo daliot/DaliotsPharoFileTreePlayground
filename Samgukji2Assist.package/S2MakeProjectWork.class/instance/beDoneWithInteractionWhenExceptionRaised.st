@@ -1,0 +1,4 @@
+as yet unclassified
+beDoneWithInteractionWhenExceptionRaised
+	general loyaltyState
+		workBeDoneWithInteractionWhenExceptionRaised

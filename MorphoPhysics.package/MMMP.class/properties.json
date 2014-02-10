@@ -1,0 +1,14 @@
+{
+	"category" : "MorphoPhysics-Application",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"centerBall" ],
+	"name" : "MMMP",
+	"pools" : [
+		 ],
+	"super" : "MPSystem",
+	"type" : "normal" }

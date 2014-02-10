@@ -1,0 +1,14 @@
+{
+	"category" : "DevPacerCommon",
+	"classinstvars" : [
+		"Pacer" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "PacerBase",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

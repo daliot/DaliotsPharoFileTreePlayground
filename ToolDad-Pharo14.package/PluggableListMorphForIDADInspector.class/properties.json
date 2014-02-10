@@ -1,0 +1,14 @@
+{
+	"category" : "ToolDad-Pharo14",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "PluggableListMorphForIDADInspector",
+	"pools" : [
+		 ],
+	"super" : "PluggableListMorph",
+	"type" : "normal" }

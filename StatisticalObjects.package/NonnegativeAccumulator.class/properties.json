@@ -1,0 +1,14 @@
+{
+	"category" : "StatisticalObjects",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "NonnegativeAccumulator",
+	"pools" : [
+		 ],
+	"super" : "Accumulator",
+	"type" : "normal" }

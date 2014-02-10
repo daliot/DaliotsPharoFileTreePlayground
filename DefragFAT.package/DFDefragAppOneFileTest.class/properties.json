@@ -1,0 +1,15 @@
+{
+	"category" : "DefragFAT",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"app",
+		"file" ],
+	"name" : "DFDefragAppOneFileTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

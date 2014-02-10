@@ -1,0 +1,3 @@
+as yet unclassified
+goAndBeGovernerProjectShouldBeAbortedIfTargetProvinceIs: aS2Province 
+	^true

@@ -1,0 +1,17 @@
+{
+	"category" : "SieveCommon-GUI-FilterPanels",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"filter",
+		"guiModel",
+		"morph",
+		"textMorphChangedByNegation" ],
+	"name" : "FilterPanel",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

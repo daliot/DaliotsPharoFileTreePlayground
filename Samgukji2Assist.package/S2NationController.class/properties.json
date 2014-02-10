@@ -1,0 +1,19 @@
+{
+	"category" : "Samgukji2Assist-GUI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"model",
+		"selectedGeneral",
+		"provinceListModel",
+		"generalsOfCurrentProvinceListModel",
+		"generalSortingListModel",
+		"whatToDoListModel" ],
+	"name" : "S2NationController",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

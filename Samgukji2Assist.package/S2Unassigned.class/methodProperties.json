@@ -1,0 +1,13 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"generalIsAppointedCorrectly" : "HwaJong 1/26/2014 02:35",
+		"isGoodToBeInBorderProvince" : "HwaJong 1/16/2014 02:33",
+		"isGoodToBeInCapitalProvince" : "HwaJong 1/16/2014 02:33",
+		"isGoodToBeInEasyBackProvince" : "HwaJong 1/16/2014 02:35",
+		"isGoodToBeInLoyaltyRaisingProvince" : "HwaJong 1/26/2014 03:59",
+		"isGoverner" : "HwaJong 1/14/2014 15:03",
+		"isUnassigned" : "HwaJong 1/13/2014 18:56",
+		"makeProjectWithInteractionWhenExceptionRaised" : "HwaJong 2/4/2014 19:34",
+		"shortName" : "HwaJong 1/15/2014 22:28" } }

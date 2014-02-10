@@ -1,0 +1,3 @@
+initialize
+scrollSelectionIntoView
+	^self

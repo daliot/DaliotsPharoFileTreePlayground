@@ -1,0 +1,21 @@
+{
+	"category" : "Graph-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"graph",
+		"a",
+		"b",
+		"c",
+		"d",
+		"e",
+		"f",
+		"dij3" ],
+	"name" : "DijkstraSubPathTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

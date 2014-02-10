@@ -1,0 +1,15 @@
+{
+	"category" : "Unification",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"matchResult",
+		"filters" ],
+	"name" : "UQuery",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

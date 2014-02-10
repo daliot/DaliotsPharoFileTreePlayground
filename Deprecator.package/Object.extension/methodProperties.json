@@ -1,0 +1,8 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"deprecatedSince:" : "HwaJong 7/10/2013 11:36",
+		"deprecatedSince:useClass:classSideSelector:" : "HwaJong 7/10/2013 11:41",
+		"deprecatedSince:useClass:instanceSideSelector:" : "HwaJong 7/10/2013 11:31",
+		"deprecatedSince:useSelector:" : "HwaJong 7/10/2013 11:37" } }

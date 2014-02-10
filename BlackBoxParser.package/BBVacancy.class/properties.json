@@ -1,0 +1,14 @@
+{
+	"category" : "BlackBoxParser-Expression",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BBVacancy",
+	"pools" : [
+		 ],
+	"super" : "BBExpression",
+	"type" : "normal" }

@@ -1,0 +1,16 @@
+{
+	"category" : "QuantumLogic",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"sizeFixed",
+		"innerArray",
+		"defaultElement" ],
+	"name" : "QuantumTape",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

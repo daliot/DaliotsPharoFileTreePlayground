@@ -1,0 +1,14 @@
+{
+	"category" : "Samgukji2Assist-Project",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"general" ],
+	"name" : "S2LetGovernerProject",
+	"pools" : [
+		 ],
+	"super" : "S2Project",
+	"type" : "normal" }

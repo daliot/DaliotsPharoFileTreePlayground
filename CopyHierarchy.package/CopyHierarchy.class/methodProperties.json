@@ -1,0 +1,17 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"changeSuperclassAfterDupClass:" : "hjo 4/20/2012 11:33",
+		"classCategoryForDupedClass:" : "hjo 4/20/2012 11:51",
+		"classExistsByName:" : "hjo 4/20/2012 11:31",
+		"classNamePrefix:" : "hjo 4/20/2012 11:51",
+		"dupClass:" : "hjo 4/20/2012 11:30",
+		"moveClassNamed:toSuper:" : "hjo 4/20/2012 10:26",
+		"nameOfDupOfClass:" : "hjo 4/20/2012 10:52",
+		"removeCategoryOfDupes" : "hjo 4/20/2012 11:52",
+		"runCollection" : "hjo 4/20/2012 11:47",
+		"runGraidentFillStyle" : "hjo 4/20/2012 11:36",
+		"runLineSegment" : "hjo 4/20/2012 11:36",
+		"runWithAllKindOf:" : "hjo 4/20/2012 11:45",
+		"runWithClass:" : "hjo 4/20/2012 11:38" } }

@@ -1,0 +1,13 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"confidenceLevelOfClasses" : "hjo 12/19/2011 19:33",
+		"confidenceLevelOfClasses:" : "hjo 12/19/2011 19:42",
+		"confidenceLevelOfSelectors" : "hjo 12/19/2011 19:34",
+		"confidenceLevelOfSelectors:" : "hjo 12/19/2011 19:42",
+		"defaultConfidenceLevelOfClasses" : "hjo 12/19/2011 19:34",
+		"defaultConfidenceLevelOfSelectors" : "hjo 12/19/2011 19:34",
+		"meaningOfLevel:" : "hjo 12/19/2011 19:48",
+		"setConfidenceLevelOfClasses:to:" : "hjo 12/19/2011 19:41",
+		"setConfidenceLevelOfSelector:to:" : "hjo 12/19/2011 19:39" } }

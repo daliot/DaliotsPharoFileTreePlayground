@@ -1,0 +1,15 @@
+{
+	"category" : "Ani",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"friction",
+		"velocity" ],
+	"name" : "InertialEnvyAni",
+	"pools" : [
+		 ],
+	"super" : "GeneralEnvyAni",
+	"type" : "normal" }

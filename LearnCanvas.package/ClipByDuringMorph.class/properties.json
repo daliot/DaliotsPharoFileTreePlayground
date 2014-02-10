@@ -1,0 +1,14 @@
+{
+	"category" : "LearnCanvas",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ClipByDuringMorph",
+	"pools" : [
+		 ],
+	"super" : "LearnCanvasMorph",
+	"type" : "normal" }

@@ -1,0 +1,15 @@
+{
+	"category" : "Prolog",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"entries",
+		"flatGrandDomain" ],
+	"name" : "PrologKnowledgeBase",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

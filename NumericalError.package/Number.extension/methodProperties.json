@@ -1,0 +1,9 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"equals:" : "hjo 3/23/2008 20:15",
+		"equals:withError:" : "hjo 4/4/2008 14:03",
+		"equals:withRelativeError:" : "hjo 4/4/2008 14:05",
+		"equalsTo:" : "hjo 8/27/2008 12:41",
+		"relativeTo:" : "hjo 4/4/2008 14:06" } }

@@ -1,0 +1,14 @@
+{
+	"category" : "StatisticalObjects",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "StatisticsAgent",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

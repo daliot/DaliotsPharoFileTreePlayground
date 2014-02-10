@@ -1,0 +1,12 @@
+{
+	"class" : {
+		"general:province:" : "HwaJong 2/4/2014 23:48" },
+	"instance" : {
+		"general" : "HwaJong 2/4/2014 23:48",
+		"general:" : "HwaJong 2/4/2014 23:48",
+		"generalsGoingToProvince:" : "HwaJong 2/4/2014 23:48",
+		"gettersForEquality" : "HwaJong 2/4/2014 23:48",
+		"isInvolvingGeneral:" : "HwaJong 2/4/2014 23:56",
+		"province" : "HwaJong 2/4/2014 23:48",
+		"province:" : "HwaJong 2/4/2014 23:48",
+		"willMoveGeneralToProvince:" : "HwaJong 2/4/2014 23:56" } }

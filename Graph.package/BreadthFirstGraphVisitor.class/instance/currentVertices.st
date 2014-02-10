@@ -1,0 +1,4 @@
+accessing
+currentVertices
+
+	^currentVertices

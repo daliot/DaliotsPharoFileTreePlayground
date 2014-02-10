@@ -1,0 +1,17 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"setUp" : "hjo 2/3/2011 21:22",
+		"testBottomBarSidePattern" : "hjo 2/3/2011 21:25",
+		"testBottomLeftL" : "hjo 2/4/2011 14:30",
+		"testBottomRightL" : "hjo 2/4/2011 20:49",
+		"testFourColor" : "hjo 2/5/2011 13:35",
+		"testHorizontallyParallel" : "hjo 2/4/2011 13:34",
+		"testLeftBarSidePattern" : "hjo 2/3/2011 21:59",
+		"testRightBarSidePattern" : "hjo 2/3/2011 22:27",
+		"testTopBarSidePattern" : "hjo 2/3/2011 22:35",
+		"testTopLeftL" : "hjo 2/5/2011 12:17",
+		"testTopRightL" : "hjo 2/5/2011 12:13",
+		"testUnifiedSidePattern" : "hjo 2/4/2011 13:39",
+		"testVerticallyParallel" : "hjo 2/4/2011 13:46" } }

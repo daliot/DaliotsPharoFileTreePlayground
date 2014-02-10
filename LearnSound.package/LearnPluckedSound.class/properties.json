@@ -1,0 +1,14 @@
+{
+	"category" : "LearnSound",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"pluck" ],
+	"name" : "LearnPluckedSound",
+	"pools" : [
+		 ],
+	"super" : "LearnMIDI",
+	"type" : "normal" }

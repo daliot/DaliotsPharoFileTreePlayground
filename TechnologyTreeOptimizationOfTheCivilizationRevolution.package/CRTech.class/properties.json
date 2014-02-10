@@ -1,0 +1,19 @@
+{
+	"category" : "TechnologyTreeOptimizationOfTheCivilizationRevolution",
+	"classinstvars" : [
+		 ],
+	"classtraitcomposition" : "HashProofTrait classTrait",
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"requiredTechs",
+		"techName",
+		"bonus",
+		"level" ],
+	"name" : "CRTech",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"traitcomposition" : "HashProofTrait",
+	"type" : "normal" }

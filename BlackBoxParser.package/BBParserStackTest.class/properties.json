@@ -1,0 +1,15 @@
+{
+	"category" : "BlackBoxParser-test",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"parser",
+		"expectedStack" ],
+	"name" : "BBParserStackTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

@@ -1,0 +1,3 @@
+tests
+testdWhatAreYouGoingToDoWhenUserSaves
+self assert: doc whatAreYouGoingToDoWhenUserSaves equals: self whatShouldDocDoWhenUserSaves.

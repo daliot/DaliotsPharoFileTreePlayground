@@ -1,0 +1,14 @@
+{
+	"category" : "ObjectSheet-Morph-cell",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"morph" ],
+	"name" : "OSMorphCellMorph",
+	"pools" : [
+		 ],
+	"super" : "OSCellMorph",
+	"type" : "normal" }

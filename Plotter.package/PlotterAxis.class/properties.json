@@ -1,0 +1,18 @@
+{
+	"category" : "Plotter",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"fixedValue",
+		"ticks",
+		"pixelStart",
+		"pixelEnd",
+		"mapper" ],
+	"name" : "PlotterAxis",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

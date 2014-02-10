@@ -1,0 +1,14 @@
+{
+	"category" : "ObjectDiff-Test",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "DSEqualPointsTest",
+	"pools" : [
+		 ],
+	"super" : "DiffSheetTest",
+	"type" : "normal" }

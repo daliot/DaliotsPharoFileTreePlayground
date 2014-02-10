@@ -1,0 +1,14 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"collectLabelBlockForObjectsToChooseFrom" : "HwaJong 2/2/2014 20:25",
+		"isDefendingJob" : "HwaJong 2/4/2014 16:56",
+		"isDevelopingJob" : "HwaJong 1/23/2014 02:08",
+		"isEasyBackGovernerJob" : "HwaJong 1/31/2014 01:28",
+		"isInvadingJob" : "HwaJong 2/4/2014 19:22",
+		"isLoyaltyRaisingJob" : "HwaJong 2/4/2014 19:26",
+		"isUnassigned" : "HwaJong 1/13/2014 18:59",
+		"makeProjectWithInteractionWhenExceptionRaisedByAskingToChooseProvince" : "HwaJong 2/2/2014 19:44",
+		"provinceSortDescriptor" : "HwaJong 2/4/2014 23:58",
+		"shortName" : "HwaJong 2/5/2014 01:51" } }

@@ -1,0 +1,14 @@
+{
+	"category" : "WoodCutPictures-Functions",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "RotatedPicture",
+	"pools" : [
+		 ],
+	"super" : "UnaryFunctionalWoodCutPicture",
+	"type" : "normal" }

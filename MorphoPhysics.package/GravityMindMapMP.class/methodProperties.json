@@ -1,0 +1,21 @@
+{
+	"class" : {
+		"esug2010PresentationExample" : "hjo 12/29/2011 18:47",
+		"subclassTree" : "hjo 12/29/2011 18:47",
+		"subclassTree2" : "hjo 12/29/2011 18:47",
+		"subclassTreeWithGravity" : "hjo 1/2/2012 17:33",
+		"superclassChain" : "hjo 12/29/2011 18:47",
+		"wipeOutAllMorphs" : "hjo 12/29/2011 18:47" },
+	"instance" : {
+		"ani" : "hjo 12/29/2011 18:48",
+		"ani:" : "hjo 12/29/2011 18:48",
+		"defaultAni" : "hjo 1/2/2012 17:18",
+		"defaultGravity" : "hjo 1/2/2012 17:34",
+		"deleteMorphs" : "hjo 1/4/2012 09:38",
+		"fixCenterBall" : "hjo 1/2/2012 17:20",
+		"gravity" : "hjo 1/2/2012 17:19",
+		"gravity:" : "hjo 1/2/2012 17:19",
+		"initialize" : "hjo 12/29/2011 18:50",
+		"kickOut" : "hjo 1/4/2012 09:38",
+		"moveCenterBallToCenterXAndY:" : "hjo 1/2/2012 17:23",
+		"moveCenterBallToTopOfDisplay" : "hjo 1/2/2012 17:22" } }

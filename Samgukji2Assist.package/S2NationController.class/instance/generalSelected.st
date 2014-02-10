@@ -1,0 +1,3 @@
+as yet unclassified
+generalSelected
+	^self generalsOfCurrentProvinceListModel hasSelection 

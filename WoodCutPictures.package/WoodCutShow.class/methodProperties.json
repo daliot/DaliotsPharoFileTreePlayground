@@ -1,0 +1,18 @@
+{
+	"class" : {
+		"f" : "hjo 3/9/2008 12:01",
+		"fish" : "hjo 3/9/2008 12:01",
+		"triangle" : "hjo 3/13/2008 19:48" },
+	"instance" : {
+		"add:coordination:" : "hjo 3/7/2008 16:31",
+		"coordinatedFrame:" : "hjo 3/4/2008 10:55",
+		"defaultFrame" : "hjo 3/4/2008 11:36",
+		"frameOriginForCoordination:" : "hjo 2/29/2008 06:35",
+		"frameSize" : "hjo 3/4/2008 07:54",
+		"install" : "hjo 3/7/2008 16:52",
+		"paint" : "hjo 3/7/2008 15:19",
+		"paintOn:" : "hjo 3/7/2008 16:32",
+		"restoreDisplay" : "hjo 2/23/2008 16:48",
+		"unit" : "hjo 3/7/2008 17:02",
+		"unit:" : "hjo 3/7/2008 14:47",
+		"yMargin" : "hjo 2/29/2008 06:35" } }

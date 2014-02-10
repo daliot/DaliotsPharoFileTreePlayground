@@ -1,0 +1,4 @@
+answering
+coefficient
+
+	^coefficientVector

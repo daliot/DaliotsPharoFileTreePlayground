@@ -1,0 +1,14 @@
+{
+	"category" : "SmalltalkQuiz",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"theSelector" ],
+	"name" : "ClassThatUnderstandsMessageQuizSTQ",
+	"pools" : [
+		 ],
+	"super" : "QuizSTQ",
+	"type" : "normal" }

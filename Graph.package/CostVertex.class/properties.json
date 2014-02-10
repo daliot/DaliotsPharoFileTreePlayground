@@ -1,0 +1,14 @@
+{
+	"category" : "Graph-Extended",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"routingTable" ],
+	"name" : "CostVertex",
+	"pools" : [
+		 ],
+	"super" : "Vertex",
+	"type" : "normal" }

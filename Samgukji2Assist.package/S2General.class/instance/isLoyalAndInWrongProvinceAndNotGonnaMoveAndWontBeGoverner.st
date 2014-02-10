@@ -1,0 +1,3 @@
+as yet unclassified
+isLoyalAndInWrongProvinceAndNotGonnaMoveAndWontBeGoverner
+	^self isLoyalAndInWrongProvinceAndNotGonnaMove and: [ self willBeGovernerByProject not ]

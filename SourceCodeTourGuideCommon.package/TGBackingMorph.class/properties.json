@@ -1,0 +1,15 @@
+{
+	"category" : "SourceCodeTourGuideCommon",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"targetMorph",
+		"browserController" ],
+	"name" : "TGBackingMorph",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }

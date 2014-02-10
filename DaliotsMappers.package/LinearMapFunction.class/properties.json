@@ -1,0 +1,15 @@
+{
+	"category" : "DaliotsMappers",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"ratio",
+		"bias" ],
+	"name" : "LinearMapFunction",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,17 @@
+{
+	"category" : "MorphoPhysics",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"velocity",
+		"mass",
+		"charge",
+		"unselected" ],
+	"name" : "BallMorph",
+	"pools" : [
+		 ],
+	"super" : "EllipseMorph",
+	"type" : "normal" }

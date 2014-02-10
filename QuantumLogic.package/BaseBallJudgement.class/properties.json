@@ -1,0 +1,18 @@
+{
+	"category" : "QuantumLogic-Example",
+	"classinstvars" : [
+		 ],
+	"classtraitcomposition" : "HashProofTrait classTrait",
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"strikes",
+		"balls",
+		"submission" ],
+	"name" : "BaseBallJudgement",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"traitcomposition" : "HashProofTrait",
+	"type" : "normal" }

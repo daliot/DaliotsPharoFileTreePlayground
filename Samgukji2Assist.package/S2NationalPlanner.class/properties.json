@@ -1,0 +1,14 @@
+{
+	"category" : "Samgukji2Assist-Samgukji2Assist",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"nation" ],
+	"name" : "S2NationalPlanner",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

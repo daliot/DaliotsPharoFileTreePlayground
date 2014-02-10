@@ -1,0 +1,23 @@
+{
+	"class" : {
+		"newConnecting:and:" : "hjo 4/21/2009 21:13" },
+	"instance" : {
+		"applyForce" : "hjo 4/21/2009 21:33",
+		"applyForceBothEnds:" : "hjo 4/21/2009 21:00",
+		"attachTo:and:" : "hjo 4/21/2009 21:00",
+		"attachToCenterOfTwoBalls" : "hjo 8/6/2009 14:20",
+		"ball1" : "hjo 4/27/2009 23:58",
+		"ball1:" : "hjo 9/28/2010 21:23",
+		"ball2" : "hjo 4/27/2009 23:58",
+		"ball2:" : "hjo 9/28/2010 21:23",
+		"ballDisplacementVector" : "hjo 4/21/2009 21:00",
+		"balls" : "hjo 7/11/2009 13:30",
+		"connecting:and:" : "hjo 9/9/2009 21:54",
+		"connects:" : "hjo 9/16/2010 06:44",
+		"currentLength" : "hjo 4/21/2009 21:19",
+		"defaultBall1" : "hjo 4/27/2009 23:59",
+		"defaultBall2" : "hjo 4/28/2009 00:00",
+		"initialize" : "hjo 5/24/2009 10:34",
+		"step" : "hjo 8/6/2009 14:20",
+		"stepTime" : "hjo 4/21/2009 21:00",
+		"updateAppearance" : "hjo 4/26/2009 18:02" } }

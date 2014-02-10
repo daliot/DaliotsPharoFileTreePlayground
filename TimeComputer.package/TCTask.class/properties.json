@@ -1,0 +1,15 @@
+{
+	"category" : "TimeComputer",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"name",
+		"duration" ],
+	"name" : "TCTask",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

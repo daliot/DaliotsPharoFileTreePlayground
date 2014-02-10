@@ -1,0 +1,3 @@
+testing
+canOpenInnerDifferenceAtKey: aByteString 
+	^false

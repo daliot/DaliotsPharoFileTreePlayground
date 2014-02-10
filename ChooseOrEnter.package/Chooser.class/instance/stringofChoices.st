@@ -1,0 +1,3 @@
+accessing
+stringofChoices
+^choices collect: choicePrintingCode

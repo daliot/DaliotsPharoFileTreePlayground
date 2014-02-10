@@ -1,0 +1,15 @@
+{
+	"category" : "ImageFamilyTree",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"ancestor",
+		"descendant" ],
+	"name" : "AncestorJRIFT",
+	"pools" : [
+		 ],
+	"super" : "JudgeResultIFT",
+	"type" : "normal" }

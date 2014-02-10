@@ -1,0 +1,14 @@
+{
+	"category" : "SketchupRuby",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "SketchupRuby",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,16 @@
+{
+	"category" : "Samgukji2Assist-Project",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"targetProvinceId",
+		"comment",
+		"isFulfilled" ],
+	"name" : "S2SimpleInvasionProject",
+	"pools" : [
+		 ],
+	"super" : "S2Project",
+	"type" : "normal" }

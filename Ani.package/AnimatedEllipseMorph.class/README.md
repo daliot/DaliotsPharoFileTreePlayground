@@ -1,0 +1,1 @@
+Mimiced presentation of HansRosling 2006 TED.

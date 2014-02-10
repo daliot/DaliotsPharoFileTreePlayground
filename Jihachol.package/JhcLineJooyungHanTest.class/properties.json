@@ -1,0 +1,18 @@
+{
+	"category" : "Jihachol",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "hjo 10/13/2009 10:48",
+	"instvars" : [
+		"line",
+		"scrum",
+		"tdd",
+		"refactoring",
+		"pp" ],
+	"name" : "JhcLineJooyungHanTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

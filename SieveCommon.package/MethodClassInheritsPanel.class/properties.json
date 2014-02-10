@@ -1,0 +1,14 @@
+{
+	"category" : "SieveCommon-GUI-FilterPanels",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "MethodClassInheritsPanel",
+	"pools" : [
+		 ],
+	"super" : "FilterPanel",
+	"type" : "normal" }

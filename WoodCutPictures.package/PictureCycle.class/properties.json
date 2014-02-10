@@ -1,0 +1,14 @@
+{
+	"category" : "WoodCutPictures-ComplexFunctions",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "PictureCycle",
+	"pools" : [
+		 ],
+	"super" : "UnaryFunctionalWoodCutPicture",
+	"type" : "normal" }

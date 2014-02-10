@@ -1,0 +1,14 @@
+{
+	"category" : "Prolog-Test",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"k" ],
+	"name" : "PrologTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

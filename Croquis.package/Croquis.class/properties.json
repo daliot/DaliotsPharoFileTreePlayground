@@ -1,0 +1,17 @@
+{
+	"category" : "Croquis-main",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"superclassOfOutputClass",
+		"correctPluralToSingular",
+		"outputSystemCategory",
+		"asksUserToManuallyChooseSuperclassOfOutputClass" ],
+	"name" : "Croquis",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

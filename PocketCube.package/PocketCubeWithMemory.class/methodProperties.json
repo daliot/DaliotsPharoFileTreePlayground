@@ -1,0 +1,19 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"addToMoveHistory:" : "hjo 3/24/2011 23:33",
+		"allOperations" : "hjo 3/24/2011 17:13",
+		"firstInverseOperation" : "hjo 3/25/2011 12:20",
+		"forgetLastOperation" : "hjo 3/25/2011 12:48",
+		"initialize" : "hjo 3/24/2011 15:44",
+		"lastOperation" : "hjo 3/24/2011 16:21",
+		"pocketCubeIsModified" : "hjo 3/24/2011 18:03",
+		"rotateClockwise" : "hjo 3/24/2011 23:28",
+		"rotateCounterClockwise" : "hjo 3/24/2011 23:28",
+		"rotateLeft" : "hjo 3/24/2011 23:28",
+		"rotateRight" : "hjo 3/24/2011 23:29",
+		"twistLowerLayerLeft" : "hjo 3/24/2011 23:29",
+		"twistLowerLayerRight" : "hjo 3/24/2011 23:29",
+		"twistUpperLayerLeft" : "hjo 3/24/2011 23:29",
+		"twistUpperLayerRight" : "hjo 3/24/2011 23:29" } }

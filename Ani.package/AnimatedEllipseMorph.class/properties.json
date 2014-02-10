@@ -1,0 +1,14 @@
+{
+	"category" : "Ani-Demo-HansRosling",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "hjo 2/6/2009 16:55",
+	"instvars" : [
+		"stream" ],
+	"name" : "AnimatedEllipseMorph",
+	"pools" : [
+		 ],
+	"super" : "EllipseMorph",
+	"type" : "normal" }

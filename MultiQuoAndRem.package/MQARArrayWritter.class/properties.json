@@ -1,0 +1,17 @@
+{
+	"category" : "MultiQuoAndRem",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "hjo 7/2/2011 16:28",
+	"instvars" : [
+		"collection",
+		"position",
+		"readLimit",
+		"writeLimit" ],
+	"name" : "MQARArrayWritter",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

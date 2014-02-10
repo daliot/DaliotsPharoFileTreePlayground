@@ -1,0 +1,17 @@
+{
+	"category" : "Graph-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "hjo 9/18/2009 16:13",
+	"instvars" : [
+		"endPoint1",
+		"endPoint2",
+		"hasDirection",
+		"masterObject" ],
+	"name" : "Edge",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

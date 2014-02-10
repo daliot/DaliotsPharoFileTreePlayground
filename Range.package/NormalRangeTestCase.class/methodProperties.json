@@ -1,0 +1,16 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"includesStart" : "hjo 3/17/2008 14:13",
+		"includesStop" : "hjo 3/17/2008 14:13",
+		"setUp" : "hjo 3/17/2008 14:13",
+		"startNumber" : "hjo 3/17/2008 14:14",
+		"stopNumber" : "hjo 3/17/2008 14:14",
+		"testIncludesInside" : "hjo 3/17/2008 14:14",
+		"testIncludesLeftOutside" : "hjo 3/17/2008 14:14",
+		"testIncludesRightOutside" : "hjo 3/17/2008 14:15",
+		"testIncludesStart" : "hjo 4/28/2011 13:16",
+		"testIncludesStop" : "hjo 4/28/2011 13:18",
+		"testIsNormal" : "hjo 3/17/2008 14:15",
+		"testMiddel" : "hjo 4/28/2011 13:18" } }

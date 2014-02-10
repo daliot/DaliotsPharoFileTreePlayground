@@ -1,0 +1,16 @@
+{
+	"category" : "PCube-BasicElement",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"vertex1",
+		"vertex2",
+		"vertex3" ],
+	"name" : "PTriangle",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

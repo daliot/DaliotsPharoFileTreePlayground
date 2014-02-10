@@ -1,0 +1,14 @@
+{
+	"category" : "WoodCutPictures-Squarelimit",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "WoodCutTileV",
+	"pools" : [
+		 ],
+	"super" : "UnaryFunctionalWoodCutPicture",
+	"type" : "normal" }

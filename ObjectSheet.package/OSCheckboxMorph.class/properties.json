@@ -1,0 +1,14 @@
+{
+	"category" : "ObjectSheet-Morph-cell",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"checkboxMorph" ],
+	"name" : "OSCheckboxMorph",
+	"pools" : [
+		 ],
+	"super" : "OSCellMorph",
+	"type" : "normal" }

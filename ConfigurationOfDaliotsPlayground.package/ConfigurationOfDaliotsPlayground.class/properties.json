@@ -1,0 +1,14 @@
+{
+	"category" : "ConfigurationOfDaliotsPlayground",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"LastVersionLoad" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"project" ],
+	"name" : "ConfigurationOfDaliotsPlayground",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

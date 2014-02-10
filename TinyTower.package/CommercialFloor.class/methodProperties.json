@@ -1,0 +1,10 @@
+{
+	"class" : {
+		"number:job:" : "HwaJong 12/10/2012 17:21" },
+	"instance" : {
+		"hasJobNamed:" : "HwaJong 12/10/2012 17:49",
+		"isCommercialFloor" : "HwaJong 12/10/2012 01:30",
+		"job" : "HwaJong 12/10/2012 01:32",
+		"job:" : "HwaJong 12/10/2012 01:32",
+		"listRowLiteral" : "HwaJong 12/10/2012 17:26",
+		"maxPopulation" : "HwaJong 12/10/2012 01:14" } }

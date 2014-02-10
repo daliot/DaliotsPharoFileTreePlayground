@@ -1,0 +1,15 @@
+{
+	"category" : "TinyTower",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"floors",
+		"bitizens" ],
+	"name" : "TinyTowerGame",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

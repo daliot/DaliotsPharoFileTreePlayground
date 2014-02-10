@@ -1,0 +1,4 @@
+accessing
+fillColor
+
+	^picture fillColor

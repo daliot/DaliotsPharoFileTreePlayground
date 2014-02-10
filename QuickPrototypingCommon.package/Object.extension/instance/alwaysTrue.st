@@ -1,0 +1,3 @@
+*quickprototypingcommon
+alwaysTrue
+	^true

@@ -1,0 +1,3 @@
+testing
+isGoodToBeInBorderProvince
+	^false

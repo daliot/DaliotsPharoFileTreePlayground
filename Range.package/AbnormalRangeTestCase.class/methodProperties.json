@@ -1,0 +1,10 @@
+{
+	"class" : {
+		"isAbstract" : "hjo 3/17/2008 17:49" },
+	"instance" : {
+		"setUp" : "hjo 3/17/2008 14:10",
+		"testIsNormal50" : "hjo 3/17/2008 14:11",
+		"testIsNormal55CC" : "hjo 3/17/2008 14:11",
+		"testIsNormal55CO" : "hjo 3/17/2008 14:11",
+		"testIsNormal55OC" : "hjo 3/17/2008 14:11",
+		"testIsNormal55OO" : "hjo 3/17/2008 14:12" } }

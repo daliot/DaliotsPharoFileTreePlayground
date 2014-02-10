@@ -1,0 +1,9 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"setUp" : "HwaJong 10/28/2012 00:09",
+		"testObjectDiffKeys" : "HwaJong 10/28/2012 00:09",
+		"testObjectDiffValueAt1" : "HwaJong 10/28/2012 00:30",
+		"testObjectDiffValueAt2" : "HwaJong 10/28/2012 00:33",
+		"testObjectDiffValueAtDiffers" : "HwaJong 10/28/2012 00:34" } }

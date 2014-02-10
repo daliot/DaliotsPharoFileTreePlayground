@@ -1,0 +1,16 @@
+{
+	"category" : "TimeComputer",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"model",
+		"taskListModel",
+		"updatingProcess" ],
+	"name" : "TimeComputerController",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

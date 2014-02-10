@@ -1,0 +1,15 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"addTask:taking:" : "HwaJong 8/17/2013 16:53",
+		"availableTime" : "HwaJong 8/18/2013 14:32",
+		"completionTime" : "HwaJong 9/12/2013 14:28",
+		"deadline" : "HwaJong 8/17/2013 17:02",
+		"deadline:" : "HwaJong 8/17/2013 17:01",
+		"defaultTasks" : "HwaJong 8/17/2013 16:53",
+		"listTasks" : "HwaJong 8/17/2013 17:16",
+		"removeTaskAtIndex:" : "HwaJong 8/17/2013 17:15",
+		"sumOfTaskDurations" : "HwaJong 8/17/2013 17:07",
+		"tasks" : "HwaJong 8/17/2013 16:53",
+		"tasks:" : "HwaJong 8/17/2013 16:54" } }

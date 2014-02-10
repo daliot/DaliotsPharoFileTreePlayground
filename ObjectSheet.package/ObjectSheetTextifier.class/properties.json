@@ -1,0 +1,14 @@
+{
+	"category" : "ObjectSheet-Textifier",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"objectSheet" ],
+	"name" : "ObjectSheetTextifier",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

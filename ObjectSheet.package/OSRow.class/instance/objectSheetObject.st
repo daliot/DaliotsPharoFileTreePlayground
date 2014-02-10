@@ -1,0 +1,3 @@
+accessing
+objectSheetObject
+	^self object

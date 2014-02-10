@@ -1,0 +1,14 @@
+{
+	"category" : "PocketCube-Morph",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "PocketCubeVirtualSideController",
+	"pools" : [
+		 ],
+	"super" : "PocketCubeSideController",
+	"type" : "normal" }

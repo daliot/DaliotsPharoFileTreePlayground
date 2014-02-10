@@ -1,0 +1,14 @@
+{
+	"category" : "Graph-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "TreeLikeGraphTestCase",
+	"pools" : [
+		 ],
+	"super" : "GraphTestCase",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "Graph-Extended",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "NamedGraph",
+	"pools" : [
+		 ],
+	"super" : "Graph",
+	"type" : "normal" }

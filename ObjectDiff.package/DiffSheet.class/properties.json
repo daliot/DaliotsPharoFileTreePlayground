@@ -1,0 +1,17 @@
+{
+	"category" : "ObjectDiff",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"leftSideObject",
+		"rightSideObject",
+		"comparisonList",
+		"isShowDifferentOnly" ],
+	"name" : "DiffSheet",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

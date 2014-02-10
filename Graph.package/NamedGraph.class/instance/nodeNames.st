@@ -1,0 +1,4 @@
+names
+nodeNames
+	
+	^self vertexNames

@@ -1,0 +1,3 @@
+as yet unclassified
+makeProjectWithInteractionWhenExceptionRaised
+	general makeProjectToGoProvince: general nation capitalProvince

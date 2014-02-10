@@ -1,0 +1,15 @@
+{
+	"category" : "Ranking",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"rankOrder",
+		"attender" ],
+	"name" : "RankingEntry",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,17 @@
+{
+	"category" : "WoodCutPictures-ComplexFunctions",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"upperLeftPicture",
+		"upperRightPicture",
+		"lowerLeftPicture",
+		"lowerRightPicture" ],
+	"name" : "PictureQuartet",
+	"pools" : [
+		 ],
+	"super" : "FunctionalWoodCutPicture",
+	"type" : "normal" }

@@ -1,0 +1,3 @@
+testing
+canConnectSelectedConceptsStar
+	^ self conceptsSelectedCollection isEmpty not

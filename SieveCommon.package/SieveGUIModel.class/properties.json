@@ -1,0 +1,19 @@
+{
+	"category" : "SieveCommon-GUI-Main",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"IconForm" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"listModel",
+		"filterListModel",
+		"methodDefText",
+		"sieve",
+		"sortingMethodListModel",
+		"cachedAuthorNames" ],
+	"name" : "SieveGUIModel",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,3 @@
+testing
+isGoodToBeInLoyaltyRaisingProvince
+	^general isUnloyal 

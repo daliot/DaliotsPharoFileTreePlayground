@@ -1,0 +1,16 @@
+{
+	"category" : "PocketCube-Recognizer",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"pocketCube",
+		"scrambler",
+		"newClass" ],
+	"name" : "PocketCubePatternGenerator",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

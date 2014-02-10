@@ -1,0 +1,3 @@
+*DaliotsLinearAlgebra
+magnitude
+	^self abs

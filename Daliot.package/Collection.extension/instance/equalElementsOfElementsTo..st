@@ -1,0 +1,4 @@
+*Daliot
+equalElementsOfElementsTo: collectionOfCollection
+
+	^self elementsAsSet equalElementsTo: collectionOfCollection elementsAsSet

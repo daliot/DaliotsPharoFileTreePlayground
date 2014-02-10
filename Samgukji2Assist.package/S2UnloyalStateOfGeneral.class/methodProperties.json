@@ -1,0 +1,10 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"generalIsInProvinceWhereItShouldBe" : "HwaJong 1/28/2014 19:03",
+		"isLoyalLoyaltyState" : "HwaJong 1/24/2014 18:05",
+		"isUnloyalLoyaltyState" : "HwaJong 1/24/2014 14:06",
+		"oppositeState" : "HwaJong 1/31/2014 01:58",
+		"shortName" : "HwaJong 1/31/2014 01:55",
+		"workBeDoneWithInteractionWhenExceptionRaised" : "HwaJong 1/26/2014 01:00" } }

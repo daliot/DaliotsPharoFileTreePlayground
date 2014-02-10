@@ -1,0 +1,4 @@
+subroutines
+addChildrenToCostSortedObjects
+
+	costSortedObjects addAll: childrenOfLeastCostLife.

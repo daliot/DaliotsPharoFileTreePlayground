@@ -1,0 +1,3 @@
+*quickprototypingcommon
+mysteriousPadding
+	^10

@@ -1,0 +1,18 @@
+{
+	"category" : "QuantumLogic-Example",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"mansNationality",
+		"pet",
+		"smoke",
+		"color",
+		"drink" ],
+	"name" : "QuantumZebraHouse",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

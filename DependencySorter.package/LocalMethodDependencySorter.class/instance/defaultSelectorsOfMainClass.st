@@ -1,0 +1,4 @@
+defaults
+defaultSelectorsOfMainClass
+
+	^mainClass selectors

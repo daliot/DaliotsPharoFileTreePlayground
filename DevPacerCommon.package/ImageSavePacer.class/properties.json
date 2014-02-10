@@ -1,0 +1,14 @@
+{
+	"category" : "DevPacerCommon",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ImageSavePacer",
+	"pools" : [
+		 ],
+	"super" : "PacerBase",
+	"type" : "normal" }

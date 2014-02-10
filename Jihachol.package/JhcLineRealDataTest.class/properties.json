@@ -1,0 +1,14 @@
+{
+	"category" : "Jihachol-RealData",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"line" ],
+	"name" : "JhcLineRealDataTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

@@ -1,0 +1,11 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"classToTest" : "hjo 8/28/2009 19:47",
+		"setUp" : "hjo 8/28/2009 19:47",
+		"testApplyForceBothEnds" : "hjo 8/6/2009 14:26",
+		"testAttachToCenterOfTwoBalls" : "hjo 8/6/2009 14:44",
+		"testBallDisplacementVector" : "hjo 8/28/2009 19:40",
+		"testConnectingAnd" : "hjo 9/9/2009 21:54",
+		"testCurrentLength" : "hjo 8/28/2009 19:42" } }

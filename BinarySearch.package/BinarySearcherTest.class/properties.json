@@ -1,0 +1,14 @@
+{
+	"category" : "BinarySearch",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BinarySearcherTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

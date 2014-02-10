@@ -1,0 +1,14 @@
+{
+	"category" : "Samgukji2Assist-Samgukji2Assist",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"work" ],
+	"name" : "CannotMoveGeneralToProvinceSinceItIsNotAdjacent",
+	"pools" : [
+		 ],
+	"super" : "Error",
+	"type" : "normal" }

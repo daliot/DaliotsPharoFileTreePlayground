@@ -1,0 +1,14 @@
+{
+	"category" : "DevHelpersBase",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "DevHelpersBase",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,3 @@
+This test case tests the situation of line number 5 and line number 1. Each of these two lines is splitted into two for different directions. In this case the travel from main trunk to one of branches does not require a transfer, however the traver from one branch to the other needs a transfer at splitting station. 
+
+Jooyung's opinion: With this situation I modeled the main line consists of two sub-lines. The model solves the problem in simple way, and I think this model represents correctly the real situation.

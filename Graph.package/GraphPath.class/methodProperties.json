@@ -1,0 +1,25 @@
+{
+	"class" : {
+		"example" : "hjo 12/17/2009 12:53",
+		"from:to:through:" : "HwaJong 5/17/2013 03:08" },
+	"instance" : {
+		"containsSubPathFrom:to:" : "hjo 11/7/2009 11:29",
+		"cost" : "hjo 9/22/2009 16:59",
+		"defaultFirstVertex" : "HwaJong 5/18/2013 17:02",
+		"edgeToLastVertex" : "hjo 9/22/2009 14:02",
+		"edgeToLastVertex:" : "hjo 9/22/2009 14:02",
+		"edges" : "hjo 9/22/2009 18:19",
+		"firstVertex" : "HwaJong 5/18/2013 17:03",
+		"firstVertex:" : "HwaJong 5/18/2013 17:04",
+		"gettersForEquality" : "HwaJong 5/17/2013 03:27",
+		"includesVertex:" : "hjo 11/7/2009 11:23",
+		"lastVertex" : "hjo 9/22/2009 14:03",
+		"lastVertex:" : "hjo 9/22/2009 14:03",
+		"pathFrom" : "hjo 9/22/2009 14:03",
+		"pathFrom:" : "HwaJong 5/18/2013 17:04",
+		"printOn:" : "hjo 11/9/2009 14:44",
+		"routingTableRecursivelyVia:ofContainingPath:" : "HwaJong 5/19/2013 11:57",
+		"subPathFrom:to:" : "hjo 11/7/2009 17:36",
+		"subPathToEndFrom:" : "hjo 11/7/2009 15:18",
+		"updateRoutingTable" : "HwaJong 5/19/2013 11:45",
+		"vertices" : "hjo 9/22/2009 17:08" } }

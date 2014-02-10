@@ -1,0 +1,14 @@
+{
+	"category" : "Graph-StateMachine",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"inputToEdgeTable" ],
+	"name" : "State",
+	"pools" : [
+		 ],
+	"super" : "StateAbstract",
+	"type" : "normal" }

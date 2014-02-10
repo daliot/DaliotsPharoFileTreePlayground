@@ -1,0 +1,16 @@
+{
+	"category" : "Graph-Graphics",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"type",
+		"color",
+		"thickness" ],
+	"name" : "PlotEdge",
+	"pools" : [
+		 ],
+	"super" : "Edge",
+	"type" : "normal" }

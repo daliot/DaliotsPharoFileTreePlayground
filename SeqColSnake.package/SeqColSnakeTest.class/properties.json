@@ -1,0 +1,14 @@
+{
+	"category" : "SeqColSnake",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"scs" ],
+	"name" : "SeqColSnakeTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

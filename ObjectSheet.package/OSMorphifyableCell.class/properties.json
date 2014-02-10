@@ -1,0 +1,16 @@
+{
+	"category" : "ObjectSheet-Morph-cell",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"cell",
+		"sheetMorph",
+		"morphifyColumn" ],
+	"name" : "OSMorphifyableCell",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,3 @@
+*BetterArgumentNameByDebugger
+nameAsParameterOfMethodCreatedByDebugger
+	^superclass name 

@@ -1,0 +1,14 @@
+{
+	"category" : "Won",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"won" ],
+	"name" : "WonTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "Graph-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"path" ],
+	"name" : "GraphPathWith1VertexTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

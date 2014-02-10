@@ -1,0 +1,14 @@
+{
+	"category" : "DiceRoller-Test",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "hjo 8/6/2012 14:27",
+	"instvars" : [
+		 ],
+	"name" : "DRT3d3",
+	"pools" : [
+		 ],
+	"super" : "DiceEvaluationTest",
+	"type" : "normal" }

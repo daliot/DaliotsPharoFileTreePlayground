@@ -1,0 +1,4 @@
+actions
+openImplementorsOnSelectedCompiledMethodInMethodList
+
+	SystemNavigation default browseAllImplementorsOf: listModel selection selector.

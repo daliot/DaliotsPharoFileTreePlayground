@@ -1,0 +1,15 @@
+{
+	"category" : "Jihachol-Helpers",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"keyMap",
+		"keyedObject" ],
+	"name" : "KeyedObjectAccessor",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

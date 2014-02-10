@@ -1,0 +1,14 @@
+{
+	"category" : "StatPseudoCollections",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "CodeBookTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

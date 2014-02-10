@@ -1,0 +1,19 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"currentEvaluator" : "hjo 12/18/2011 12:13",
+		"currentEvaluator:" : "hjo 12/18/2011 12:14",
+		"defaultCurrentEvaluator" : "hjo 12/18/2011 12:14",
+		"defaultOperation" : "hjo 12/18/2011 12:18",
+		"defaultStiffness" : "hjo 12/18/2011 12:18",
+		"defaultTargetEvaluator" : "hjo 12/18/2011 12:19",
+		"nexAnimationValue" : "hjo 12/18/2011 12:23",
+		"operation" : "hjo 12/18/2011 12:19",
+		"operation:" : "hjo 12/18/2011 12:20",
+		"rollModel:follower:aspect:" : "hjo 12/18/2011 15:42",
+		"step" : "hjo 12/18/2011 12:20",
+		"stiffness" : "hjo 12/18/2011 12:21",
+		"stiffness:" : "hjo 12/18/2011 12:21",
+		"targetEvaluator" : "hjo 12/18/2011 12:22",
+		"targetEvaluator:" : "hjo 12/18/2011 12:22" } }

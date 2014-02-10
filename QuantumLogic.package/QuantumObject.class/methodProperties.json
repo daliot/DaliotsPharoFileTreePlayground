@@ -1,0 +1,16 @@
+{
+	"class" : {
+		"fromQuantumObjects:gettingBlock:" : "hjo 2/1/2012 21:33",
+		"possibilities:" : "hjo 1/28/2012 17:54",
+		"unionPossibilitiesOfQuantumObjects:" : "hjo 2/1/2012 21:15" },
+	"instance" : {
+		"be:" : "hjo 2/1/2012 14:06",
+		"collectPossibilities:" : "hjo 2/15/2012 23:00",
+		"determinedValue" : "hjo 2/1/2012 18:24",
+		"isDetermined" : "hjo 1/28/2012 17:55",
+		"possibilities" : "hjo 1/28/2012 19:47",
+		"possibilities:" : "hjo 1/28/2012 20:42",
+		"printOn:" : "hjo 2/29/2012 23:39",
+		"quantumCopy" : "hjo 2/25/2012 10:00",
+		"removePossibility:" : "hjo 1/28/2012 20:18",
+		"selfSelectPossibilities:" : "HwaJong 1/2/2014 17:19" } }

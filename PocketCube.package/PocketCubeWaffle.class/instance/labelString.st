@@ -1,0 +1,4 @@
+accessing
+labelString 
+
+	^'PocketCube Waffle'

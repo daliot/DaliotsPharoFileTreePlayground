@@ -1,0 +1,14 @@
+{
+	"category" : "TinyTower",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ResidentFloor",
+	"pools" : [
+		 ],
+	"super" : "Floor",
+	"type" : "normal" }

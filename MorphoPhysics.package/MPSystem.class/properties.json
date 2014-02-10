@@ -1,0 +1,16 @@
+{
+	"category" : "MorphoPhysics-Application",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"balls",
+		"electricForceMorphs",
+		"rubberBandMorphs" ],
+	"name" : "MPSystem",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,18 @@
+{
+	"category" : "MorphoPhysics-Coop",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"classes",
+		"classBalls",
+		"focusedBall",
+		"rubberBandMorphs",
+		"electricForceMorphs" ],
+	"name" : "Coop",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

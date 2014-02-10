@@ -1,0 +1,1 @@
+test for accessing instance variables defined distinct classes of a hierarchy.

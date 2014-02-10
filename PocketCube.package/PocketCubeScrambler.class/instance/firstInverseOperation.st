@@ -1,0 +1,3 @@
+as yet unclassified
+firstInverseOperation
+	^ self translateToSelectorSequence last inverseOperation

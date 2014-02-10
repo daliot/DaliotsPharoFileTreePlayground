@@ -1,0 +1,15 @@
+{
+	"category" : "PCube-Rendering",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"projectionPoint",
+		"depth" ],
+	"name" : "PProjectedPoint",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "Ani",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "EnvyAni",
+	"pools" : [
+		 ],
+	"super" : "GeneralEnvyAni",
+	"type" : "normal" }

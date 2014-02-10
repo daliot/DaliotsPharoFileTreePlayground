@@ -1,0 +1,3 @@
+*ObjectDiff
+listItemText
+^self printString

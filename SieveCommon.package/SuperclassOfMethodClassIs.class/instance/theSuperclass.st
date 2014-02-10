@@ -1,0 +1,3 @@
+accessing
+theSuperclass
+	^ classFilter referenceClass

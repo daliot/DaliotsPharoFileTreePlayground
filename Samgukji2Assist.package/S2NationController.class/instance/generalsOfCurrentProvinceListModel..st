@@ -1,0 +1,3 @@
+as yet unclassified
+generalsOfCurrentProvinceListModel: aTGListModel
+	generalsOfCurrentProvinceListModel := aTGListModel

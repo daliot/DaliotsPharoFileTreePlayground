@@ -1,0 +1,3 @@
+as yet unclassified
+beUnloyal
+	self setLoyaltyStateOfClass: S2UnloyalStateOfGeneral

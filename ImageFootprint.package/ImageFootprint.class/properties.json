@@ -1,0 +1,14 @@
+{
+	"category" : "ImageFootprint",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ImageFootprint",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

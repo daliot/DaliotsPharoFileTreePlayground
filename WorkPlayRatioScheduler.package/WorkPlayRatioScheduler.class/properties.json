@@ -1,0 +1,17 @@
+{
+	"category" : "WorkPlayRatioScheduler",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"workMin",
+		"workPerPlayRatio",
+		"mins",
+		"schedule" ],
+	"name" : "WorkPlayRatioScheduler",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

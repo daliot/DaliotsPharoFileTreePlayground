@@ -1,0 +1,1 @@
+I am stripped off version of WriteStream. MultiQuoAndRem can be computed faster by using me than by using OrderedCollection.

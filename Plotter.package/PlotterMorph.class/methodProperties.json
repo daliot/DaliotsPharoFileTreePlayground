@@ -1,0 +1,12 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"controlledByBisect:" : "HwaJong 12/18/2012 17:26",
+		"drawOn:" : "HwaJong 12/21/2012 01:10",
+		"initialize" : "HwaJong 12/20/2012 14:58",
+		"initializePlotter" : "HwaJong 12/20/2012 15:25",
+		"plotter:" : "HwaJong 12/18/2012 16:52",
+		"showFormOnly" : "HwaJong 12/20/2012 00:32",
+		"showPlotterOverForm" : "HwaJong 12/20/2012 00:42",
+		"showPlottingOnly" : "HwaJong 12/20/2012 00:33" } }

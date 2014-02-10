@@ -1,0 +1,4 @@
+filter panels
+canAddFilterPanel
+
+	^true

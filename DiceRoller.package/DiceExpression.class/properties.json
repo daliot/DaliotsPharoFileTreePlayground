@@ -1,0 +1,14 @@
+{
+	"category" : "DiceRoller",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "DiceExpression",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

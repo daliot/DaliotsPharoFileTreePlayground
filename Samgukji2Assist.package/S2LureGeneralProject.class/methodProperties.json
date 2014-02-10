@@ -1,0 +1,16 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"generalName" : "HwaJong 1/24/2014 13:56",
+		"generalName:" : "HwaJong 1/14/2014 22:54",
+		"generalsGoingToProvince:" : "HwaJong 1/24/2014 15:16",
+		"gettersForEquality" : "HwaJong 1/24/2014 13:56",
+		"isFulfilled" : "HwaJong 1/24/2014 15:40",
+		"isGoingToMoveGeneral:" : "HwaJong 1/24/2014 14:01",
+		"isGoingToRaiseLoyaltyOfGeneral:" : "HwaJong 1/29/2014 00:15",
+		"isInvolvingGeneral:" : "HwaJong 1/29/2014 17:02",
+		"printOn:" : "HwaJong 1/24/2014 16:34",
+		"provinceId" : "HwaJong 1/24/2014 13:56",
+		"provinceId:" : "HwaJong 1/14/2014 22:54",
+		"putCommandOn:ifAtProvince:" : "HwaJong 1/24/2014 23:17" } }

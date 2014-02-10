@@ -1,0 +1,19 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"addColumnLength:" : "hjo 11/28/2011 09:32",
+		"addFixedColumnLength:" : "hjo 11/28/2011 10:26",
+		"addFixedRowLength:" : "hjo 11/28/2011 10:15",
+		"addProportionalColumnLength:" : "hjo 11/28/2011 10:49",
+		"addProportionalRowLength:" : "hjo 11/28/2011 10:16",
+		"addRowLength:" : "hjo 11/28/2011 09:31",
+		"bounds" : "hjo 11/28/2011 08:26",
+		"bounds:" : "hjo 11/28/2011 08:21",
+		"boundsOfHoleAtRow:atColumn:" : "hjo 11/28/2011 08:32",
+		"columnLengths" : "hjo 11/28/2011 08:24",
+		"columnLengths:" : "hjo 11/28/2011 08:24",
+		"defaultColumnLengths" : "hjo 11/28/2011 08:24",
+		"defaultRowLengths" : "hjo 11/28/2011 08:23",
+		"rowLengths" : "hjo 11/28/2011 08:22",
+		"rowLengths:" : "hjo 11/28/2011 08:23" } }

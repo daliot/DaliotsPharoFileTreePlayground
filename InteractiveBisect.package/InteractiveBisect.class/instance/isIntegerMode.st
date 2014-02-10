@@ -1,0 +1,4 @@
+testing
+isIntegerMode
+
+	^self integerMode

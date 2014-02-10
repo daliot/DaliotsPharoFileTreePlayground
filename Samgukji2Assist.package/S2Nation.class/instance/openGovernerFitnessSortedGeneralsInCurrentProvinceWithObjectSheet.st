@@ -1,0 +1,4 @@
+object sheet
+openGovernerFitnessSortedGeneralsInCurrentProvinceWithObjectSheet
+
+	self openGovernerFitnessSortedGeneralsInProvince: self currentProvince

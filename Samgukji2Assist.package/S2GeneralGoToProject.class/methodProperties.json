@@ -1,0 +1,17 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"canCoexistWith:" : "HwaJong 2/5/2014 19:05",
+		"canCoexistWithGeneralGoToBorderProject:" : "HwaJong 2/7/2014 19:55",
+		"canCoexistWithGeneralGoToProject:" : "HwaJong 2/5/2014 19:13",
+		"canCoexistWithGoAndBeGovernerProject:" : "HwaJong 2/5/2014 19:12",
+		"canCoexistWithGoAndBeLoyalProject:" : "HwaJong 2/5/2014 19:12",
+		"isAbortedProject" : "HwaJong 2/5/2014 20:45",
+		"isFulfilled" : "HwaJong 1/15/2014 03:09",
+		"isGoingToMoveGeneral:" : "HwaJong 1/16/2014 02:49",
+		"isGoingToRaiseLoyaltyOfGeneral:" : "HwaJong 1/26/2014 00:52",
+		"printOn:" : "HwaJong 1/15/2014 00:26",
+		"putCommandOn:ifAtProvince:" : "HwaJong 1/26/2014 01:04",
+		"putCommandOn:ifAtProvince:asWorkOfProject:" : "HwaJong 2/2/2014 19:55",
+		"willMakeGovernerOutOf:" : "HwaJong 2/1/2014 03:12" } }

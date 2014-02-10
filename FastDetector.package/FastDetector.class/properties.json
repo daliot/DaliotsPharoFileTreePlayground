@@ -1,0 +1,16 @@
+{
+	"category" : "FastDetector",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"keyGenerator",
+		"collection",
+		"dictionary" ],
+	"name" : "FastDetector",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

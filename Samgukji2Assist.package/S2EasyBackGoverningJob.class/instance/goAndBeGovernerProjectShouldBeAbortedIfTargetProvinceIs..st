@@ -1,0 +1,3 @@
+as yet unclassified
+goAndBeGovernerProjectShouldBeAbortedIfTargetProvinceIs: aS2Province 
+	^aS2Province typeEvaluated goAndBeGovernerProjectShouldBeAbortedIfGeneralsJobIsEasyBackGoverningJob

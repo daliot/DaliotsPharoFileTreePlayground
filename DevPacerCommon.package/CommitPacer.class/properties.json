@@ -1,0 +1,16 @@
+{
+	"category" : "DevPacerCommon",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"ChangeOpSet",
+		"GrandPatch",
+		"NumberOfChangesTolerable" ],
+	"commentStamp" : "HwaJong 5/8/2013 18:34",
+	"instvars" : [
+		 ],
+	"name" : "CommitPacer",
+	"pools" : [
+		 ],
+	"super" : "PacerBase",
+	"type" : "normal" }

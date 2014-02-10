@@ -1,0 +1,14 @@
+{
+	"category" : "Samgukji2Assist-Strategy",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"province" ],
+	"name" : "S2StateOfProvince",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

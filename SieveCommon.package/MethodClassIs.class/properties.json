@@ -1,0 +1,14 @@
+{
+	"category" : "SieveCommon-Model-Filters",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "MethodClassIs",
+	"pools" : [
+		 ],
+	"super" : "MethodFilterByClassFilter",
+	"type" : "normal" }

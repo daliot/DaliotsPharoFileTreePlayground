@@ -1,0 +1,3 @@
+private
+gettersForEquality
+	^#(dimension contents)

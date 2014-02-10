@@ -1,0 +1,14 @@
+{
+	"category" : "LearnSound",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"mixedSound" ],
+	"name" : "PhoneCallMIDI",
+	"pools" : [
+		 ],
+	"super" : "LongerSoundExample",
+	"type" : "normal" }

@@ -1,0 +1,8 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"test1IsAncestorOf2" : "hjo 11/14/2010 16:49",
+		"test2IsAncestorOf1" : "hjo 11/14/2010 16:50",
+		"testIdentical" : "hjo 11/14/2010 16:35",
+		"testShareCommonAncestor" : "hjo 11/20/2010 17:32" } }

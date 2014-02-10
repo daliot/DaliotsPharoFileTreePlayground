@@ -1,0 +1,4 @@
+gui
+buttonLabelString
+
+	^'open'

@@ -1,0 +1,14 @@
+{
+	"category" : "TestableGraphics",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"oldCanvasContents" ],
+	"name" : "CanvasContents",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

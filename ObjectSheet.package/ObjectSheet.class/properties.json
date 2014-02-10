@@ -1,0 +1,17 @@
+{
+	"category" : "ObjectSheet-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"name",
+		"columns",
+		"rows",
+		"cells" ],
+	"name" : "ObjectSheet",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

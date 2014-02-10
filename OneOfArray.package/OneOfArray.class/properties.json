@@ -1,0 +1,15 @@
+{
+	"category" : "OneOfArray",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"array",
+		"selectionIndex" ],
+	"name" : "OneOfArray",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

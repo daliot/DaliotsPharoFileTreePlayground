@@ -1,0 +1,15 @@
+{
+	"category" : "DiceRoller",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "hjo 8/1/2012 12:23",
+	"instvars" : [
+		"rolls",
+		"sideOfDice" ],
+	"name" : "DERollsDSides",
+	"pools" : [
+		 ],
+	"super" : "DiceExpression",
+	"type" : "normal" }

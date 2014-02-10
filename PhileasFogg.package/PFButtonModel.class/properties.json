@@ -1,0 +1,15 @@
+{
+	"category" : "PhileasFogg",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"controller",
+		"modelClass" ],
+	"name" : "PFButtonModel",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,3 @@
+*BetterArgumentNameByDebugger
+nameAsParameterOfMethodCreatedByDebugger
+	^self name

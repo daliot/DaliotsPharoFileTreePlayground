@@ -1,0 +1,14 @@
+{
+	"category" : "Samgukji2Assist-Strategy",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"teamTag" ],
+	"name" : "S2InvadingJob",
+	"pools" : [
+		 ],
+	"super" : "S2Job",
+	"type" : "normal" }

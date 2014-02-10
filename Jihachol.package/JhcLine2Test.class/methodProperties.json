@@ -1,0 +1,12 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"setUp" : "jhan 10/13/2009 09:54",
+		"testFromMullaeToDorimcheon" : "hjo 10/12/2009 15:09",
+		"testFromSeongsuToSomewhere" : "jhan 10/13/2009 09:55",
+		"testFromWangsimniToSindap" : "jhan 10/12/2009 16:28",
+		"testLineColor" : "hjo 10/13/2009 14:27",
+		"testSeongsuHasTwoLines" : "hjo 10/31/2009 14:48",
+		"testStationsOfEachPartExist" : "hjo 10/10/2009 09:02",
+		"testTtukseomHasOneLine" : "hjo 10/31/2009 14:51" } }

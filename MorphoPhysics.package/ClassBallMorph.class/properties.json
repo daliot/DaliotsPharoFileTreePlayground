@@ -1,0 +1,14 @@
+{
+	"category" : "MorphoPhysics-Coop",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"modelClass" ],
+	"name" : "ClassBallMorph",
+	"pools" : [
+		 ],
+	"super" : "ConceptBallMorph",
+	"type" : "normal" }

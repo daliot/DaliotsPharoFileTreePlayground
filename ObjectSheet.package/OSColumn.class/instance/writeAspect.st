@@ -1,0 +1,3 @@
+accessing
+writeAspect
+	^ writeAspect

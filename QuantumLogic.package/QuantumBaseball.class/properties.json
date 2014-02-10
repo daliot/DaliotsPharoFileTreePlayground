@@ -1,0 +1,16 @@
+{
+	"category" : "QuantumLogic-Example",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"judge",
+		"judgements",
+		"quantumObject" ],
+	"name" : "QuantumBaseball",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

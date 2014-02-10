@@ -1,0 +1,15 @@
+{
+	"category" : "BloodType",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"gene1",
+		"gene2" ],
+	"name" : "BloodType",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,3 @@
+testing
+playerIsAtGoal
+^playerRowColumn = goalRowColumn 

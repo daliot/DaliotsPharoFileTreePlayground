@@ -1,0 +1,15 @@
+{
+	"category" : "PocketCube-SidePatterns",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"colorOfL",
+		"colorOfDot" ],
+	"name" : "LSidePattern",
+	"pools" : [
+		 ],
+	"super" : "SidePattern",
+	"type" : "normal" }

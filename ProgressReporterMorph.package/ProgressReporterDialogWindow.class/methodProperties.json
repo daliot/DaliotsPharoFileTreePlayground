@@ -1,0 +1,17 @@
+{
+	"class" : {
+		"example" : "HwaJong 1/29/2013 23:11" },
+	"instance" : {
+		"cancel" : "HwaJong 1/29/2013 22:53",
+		"completeRatio:" : "HwaJong 1/29/2013 22:37",
+		"createWorkProcess" : "HwaJong 1/29/2013 22:05",
+		"defaultLabel" : "HwaJong 1/29/2013 22:43",
+		"initialize" : "HwaJong 1/29/2013 22:44",
+		"ok" : "HwaJong 1/29/2013 23:06",
+		"open" : "HwaJong 1/29/2013 22:55",
+		"progressBarValue" : "HwaJong 1/29/2013 22:31",
+		"release" : "HwaJong 1/29/2013 22:38",
+		"step" : "HwaJong 1/29/2013 22:37",
+		"stepTime" : "HwaJong 1/29/2013 22:33",
+		"work:" : "HwaJong 1/29/2013 22:10",
+		"workingMessage:" : "HwaJong 1/29/2013 22:34" } }

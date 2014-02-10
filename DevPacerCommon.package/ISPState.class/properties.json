@@ -1,0 +1,15 @@
+{
+	"category" : "DevPacerCommon",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"message",
+		"color" ],
+	"name" : "ISPState",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

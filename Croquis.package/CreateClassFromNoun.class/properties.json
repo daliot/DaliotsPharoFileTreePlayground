@@ -1,0 +1,17 @@
+{
+	"category" : "Croquis-sub operation",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"words",
+		"className",
+		"englishNoun",
+		"croquis" ],
+	"name" : "CreateClassFromNoun",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

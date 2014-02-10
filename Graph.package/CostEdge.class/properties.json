@@ -1,0 +1,14 @@
+{
+	"category" : "Graph-Extended",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"cost" ],
+	"name" : "CostEdge",
+	"pools" : [
+		 ],
+	"super" : "Edge",
+	"type" : "normal" }

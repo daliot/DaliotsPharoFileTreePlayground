@@ -1,0 +1,15 @@
+{
+	"category" : "WoodCutPictures-ComplexFunctions",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"subPicture",
+		"blank" ],
+	"name" : "SierpinskiPicture",
+	"pools" : [
+		 ],
+	"super" : "FunctionalWoodCutPicture",
+	"type" : "normal" }

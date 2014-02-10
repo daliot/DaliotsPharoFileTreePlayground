@@ -1,0 +1,18 @@
+{
+	"category" : "DijEvolution",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"ancestors",
+		"costSortedObjects",
+		"leastCostLife",
+		"breedingCode",
+		"childrenOfLeastCostLife" ],
+	"name" : "DijEvolution",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

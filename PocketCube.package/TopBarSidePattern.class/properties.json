@@ -1,0 +1,14 @@
+{
+	"category" : "PocketCube-SidePatterns",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "TopBarSidePattern",
+	"pools" : [
+		 ],
+	"super" : "BarSidePattern",
+	"type" : "normal" }

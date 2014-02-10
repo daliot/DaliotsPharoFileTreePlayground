@@ -1,0 +1,14 @@
+{
+	"category" : "PocketCube-SidePatterns",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ParallelSidePattern",
+	"pools" : [
+		 ],
+	"super" : "SidePattern",
+	"type" : "normal" }

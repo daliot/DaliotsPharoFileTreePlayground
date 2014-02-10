@@ -1,0 +1,3 @@
+as yet unclassified
+isGoodToBeInEasyBackProvince
+	^general province isDevelopingProvince 

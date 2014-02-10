@@ -1,0 +1,21 @@
+{
+	"class" : {
+		"howToUse" : "hjo 1/30/2009 16:21" },
+	"instance" : {
+		"currentState" : "hjo 1/26/2009 15:40",
+		"currentState:" : "hjo 1/26/2009 15:40",
+		"defaultVocabulary" : "hjo 1/29/2009 22:26",
+		"lettersSortedByOccurrence" : "hjo 1/29/2009 19:50",
+		"recommendALetter" : "hjo 1/29/2009 19:14",
+		"reset" : "hjo 1/29/2009 19:20",
+		"resetWithLength:" : "hjo 1/29/2009 20:40",
+		"selectALetterFromCandidates:" : "hjo 1/29/2009 18:34",
+		"useLetter:" : "hjo 1/26/2009 15:45",
+		"useRecommendedLetter" : "hjo 1/29/2009 18:21",
+		"usedLetters" : "hjo 1/26/2009 15:45",
+		"usedLetters:" : "hjo 1/26/2009 15:44",
+		"vocabulary" : "hjo 1/26/2009 15:50",
+		"vocabulary:" : "hjo 1/26/2009 15:49",
+		"vocabularyMatchingCurrentState" : "hjo 1/29/2009 19:14",
+		"vocabularyOfGivenLength" : "hjo 1/29/2009 17:51",
+		"vocabularyOfLength:" : "hjo 1/29/2009 17:52" } }

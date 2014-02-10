@@ -1,0 +1,3 @@
+*SievePharo20
+selectorForGettingMethodDataForListMorph
+	^nil

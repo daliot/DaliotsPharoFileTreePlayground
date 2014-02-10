@@ -1,0 +1,17 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"setUp" : "hjo 9/17/2011 19:07",
+		"testAAndA" : "hjo 9/17/2011 19:09",
+		"testAAndB" : "hjo 9/17/2011 19:09",
+		"testAAndO" : "hjo 9/17/2011 19:09",
+		"testBAndA" : "hjo 9/17/2011 19:10",
+		"testBAndB" : "hjo 9/17/2011 19:10",
+		"testBAndO" : "hjo 9/17/2011 19:10",
+		"testCanParentOfBloodTypeOfHaveChildOfBloodType" : "hjo 9/17/2011 19:17",
+		"testOAndA" : "hjo 9/17/2011 19:08",
+		"testOAndB" : "hjo 9/17/2011 19:08",
+		"testOAndO" : "hjo 9/17/2011 19:07",
+		"testPossibleCases" : "hjo 9/17/2011 19:11",
+		"testPossibleParentCombinationToYieldAChildWithBloodType" : "hjo 9/17/2011 19:14" } }

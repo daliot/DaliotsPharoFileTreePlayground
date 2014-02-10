@@ -1,0 +1,14 @@
+{
+	"category" : "PocketCube",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"moveHistory" ],
+	"name" : "PocketCubeWithMemory",
+	"pools" : [
+		 ],
+	"super" : "PocketCube",
+	"type" : "normal" }

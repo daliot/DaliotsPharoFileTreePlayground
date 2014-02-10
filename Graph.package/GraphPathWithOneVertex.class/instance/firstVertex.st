@@ -1,0 +1,4 @@
+accessing
+firstVertex
+
+	^self vertex

@@ -1,0 +1,1 @@
+Vertex is a material to form a Graph. Vertex can be connect by Edge and it knows all Edges that connects to it.

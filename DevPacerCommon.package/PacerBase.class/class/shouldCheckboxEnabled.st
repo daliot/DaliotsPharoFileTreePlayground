@@ -1,0 +1,4 @@
+gui
+shouldCheckboxEnabled
+
+	^true

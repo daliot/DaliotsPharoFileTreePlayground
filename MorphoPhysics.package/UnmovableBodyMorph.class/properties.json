@@ -1,0 +1,14 @@
+{
+	"category" : "MorphoPhysics",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "UnmovableBodyMorph",
+	"pools" : [
+		 ],
+	"super" : "EllipseMorph",
+	"type" : "normal" }

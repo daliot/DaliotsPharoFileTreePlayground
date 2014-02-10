@@ -1,0 +1,15 @@
+{
+	"category" : "DiceRoller-Test",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"expression",
+		"parser" ],
+	"name" : "DiceParsingTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

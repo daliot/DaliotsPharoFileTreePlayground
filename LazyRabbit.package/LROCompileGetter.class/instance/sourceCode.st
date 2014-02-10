@@ -4,4 +4,4 @@ sourceCode
 	^variableName ,
 '
 
-	^',variableName,' setDefault: #', variableName ,'Default for: self withSetter: #',variableName,':'
+	^',variableName,' setDefault: #default', variableName capitalized ,' for: self withSetter: #',variableName,':'

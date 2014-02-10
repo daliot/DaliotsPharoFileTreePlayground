@@ -1,0 +1,14 @@
+{
+	"category" : "Jihachol-Morphic",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"station" ],
+	"name" : "JhcStationMorph",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }

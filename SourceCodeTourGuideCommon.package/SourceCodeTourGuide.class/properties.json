@@ -1,0 +1,17 @@
+{
+	"category" : "SourceCodeTourGuideCommon",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"FlagIconCache" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"browserController",
+		"listModel",
+		"title",
+		"documentLogic" ],
+	"name" : "SourceCodeTourGuide",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

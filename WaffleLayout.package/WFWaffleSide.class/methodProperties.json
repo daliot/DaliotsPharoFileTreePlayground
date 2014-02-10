@@ -1,0 +1,22 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"absoluteLengthPerProportion" : "hjo 11/28/2011 08:15",
+		"absoluteLengthPerProportion:" : "hjo 11/28/2011 08:15",
+		"addLength:" : "hjo 11/28/2011 08:15",
+		"defaultAbsoluteLengthPerProportion" : "hjo 11/28/2011 08:14",
+		"defaultLengths" : "hjo 11/28/2011 07:55",
+		"defaultRange" : "hjo 11/28/2011 07:51",
+		"fixedLengths" : "hjo 11/28/2011 07:57",
+		"length" : "hjo 11/28/2011 07:50",
+		"lengthOfHoleAtIndex:" : "hjo 11/28/2011 08:19",
+		"lengthThatProportionalLengthsMayDivide" : "hjo 11/28/2011 08:08",
+		"lengths" : "hjo 11/28/2011 07:55",
+		"lengths:" : "hjo 11/28/2011 07:55",
+		"proportionalLengths" : "hjo 11/28/2011 08:03",
+		"range" : "hjo 11/28/2011 07:51",
+		"range:" : "hjo 11/28/2011 08:15",
+		"rangeOfHoleAtIndex:" : "hjo 11/28/2011 09:28",
+		"sumOfFixedLengths" : "hjo 11/28/2011 09:23",
+		"sumOfProportions" : "hjo 11/28/2011 08:02" } }

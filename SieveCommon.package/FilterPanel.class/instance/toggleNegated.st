@@ -1,0 +1,4 @@
+as yet unclassified
+toggleNegated
+filter toggleNegated.
+self updateTextMorphChangedByNegation.

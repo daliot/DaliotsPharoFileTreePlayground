@@ -1,0 +1,17 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"classes:" : "HwaJong 12/2/2013 14:59",
+		"commitMoveCommonMethods" : "HwaJong 12/2/2013 15:01",
+		"commonSuperclass:" : "HwaJong 12/2/2013 14:59",
+		"getCommonSelectors" : "HwaJong 12/2/2013 14:59",
+		"initializeCommonSelectorsFromClasses" : "HwaJong 12/2/2013 16:50",
+		"moveMethods" : "HwaJong 12/2/2013 14:59",
+		"precollectCommonSelectors" : "HwaJong 12/2/2013 16:59",
+		"rejectSelectorReferingClassVariable" : "HwaJong 12/2/2013 16:58",
+		"rejectSelectorsHavingPragmas" : "HwaJong 12/2/2013 16:55",
+		"rejectSelectorsIfSourceCodeOfSuperclassAndSubclassIsDifferent" : "HwaJong 12/2/2013 15:15",
+		"rejectSuperSendingSelectors" : "HwaJong 12/2/2013 16:52",
+		"rejectTraitMethods" : "HwaJong 12/2/2013 15:01",
+		"selectSelectorsSourceCodeOfAllSubclassesAreSame" : "HwaJong 12/2/2013 14:59" } }

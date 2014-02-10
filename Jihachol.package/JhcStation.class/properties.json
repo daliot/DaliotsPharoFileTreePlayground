@@ -1,0 +1,20 @@
+{
+	"category" : "Jihachol",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"name",
+		"id",
+		"line",
+		"secondName",
+		"screenPosition",
+		"platform1",
+		"platform2" ],
+	"name" : "JhcStation",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

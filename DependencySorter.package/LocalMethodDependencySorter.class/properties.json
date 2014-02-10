@@ -1,0 +1,15 @@
+{
+	"category" : "DependencySorter",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"mainClass",
+		"selectorsOfMainClass" ],
+	"name" : "LocalMethodDependencySorter",
+	"pools" : [
+		 ],
+	"super" : "DependencySorter",
+	"type" : "normal" }

@@ -1,0 +1,11 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"click" : "HwaJong 10/2/2012 23:07",
+		"clickPosition:" : "HwaJong 10/2/2012 21:36",
+		"getClickPositionFromUser" : "HwaJong 10/2/2012 21:36",
+		"go" : "HwaJong 10/2/2012 21:36",
+		"newMouseButtonEvent" : "HwaJong 10/2/2012 23:01",
+		"newMouseDownEvent" : "HwaJong 10/2/2012 23:00",
+		"newMouseUpEvent" : "HwaJong 10/2/2012 23:00" } }

@@ -1,0 +1,10 @@
+as yet unclassified
+reorganizeViews
+
+	self moveScrollPaneToFitResetOfTheArea.
+	self moveInstanceVariablesMorphBelowTopicClassNameMorph.
+	self moveUserClassButtonesMorphBelowInstanceVariablesMorph.
+	self resizeUserClassButtonesMorphToFitButtons.
+
+	contentViewOfScrollPane width: self scrollPane width.
+	contentViewOfScrollPane height: self userClassButtonesMorph bottom.

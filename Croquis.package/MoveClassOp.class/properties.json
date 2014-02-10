@@ -1,0 +1,16 @@
+{
+	"category" : "Croquis-sub operation",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"croquis",
+		"classToMove",
+		"movableClasses" ],
+	"name" : "MoveClassOp",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

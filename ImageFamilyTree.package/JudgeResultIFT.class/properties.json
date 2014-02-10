@@ -1,0 +1,14 @@
+{
+	"category" : "ImageFamilyTree",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "JudgeResultIFT",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

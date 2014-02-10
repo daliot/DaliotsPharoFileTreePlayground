@@ -1,0 +1,14 @@
+{
+	"category" : "DiceRoller",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BBDiceRoll",
+	"pools" : [
+		 ],
+	"super" : "BBBinaryExpression",
+	"type" : "normal" }

@@ -1,0 +1,18 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"addChildrenToCostSortedObjects" : "hjo 6/28/2012 01:21",
+		"addSeed:" : "hjo 6/27/2012 16:31",
+		"ancestors" : "hjo 6/27/2012 13:49",
+		"breedingCode:" : "hjo 6/28/2012 00:38",
+		"canStep" : "hjo 6/27/2012 20:32",
+		"costSortedObjects" : "hjo 6/27/2012 13:51",
+		"dropChildren" : "hjo 6/28/2012 01:21",
+		"getLeastCostLifeFromSorted" : "hjo 6/27/2012 16:59",
+		"initialize" : "hjo 6/28/2012 00:40",
+		"jionLeastCostLifeToAncestors" : "hjo 6/27/2012 17:00",
+		"leaveOnlyTheLeastCostLifeIfThereAreManyLivesOfSameObjectsInTheCostSortedObjects" : "hjo 6/28/2012 01:27",
+		"makeChildren" : "hjo 6/28/2012 01:21",
+		"runUntilEqual:" : "hjo 6/28/2012 00:42",
+		"step" : "hjo 6/28/2012 01:27" } }

@@ -1,0 +1,14 @@
+{
+	"category" : "MultiQuoAndRem",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"dividers" ],
+	"name" : "MultiQuoAndRem",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,3 @@
+testing
+hasSaveMedium
+^camp notNil

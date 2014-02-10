@@ -1,0 +1,13 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"classShould:" : "hjo 8/9/2012 08:00",
+		"classShouldnt:" : "hjo 8/9/2012 08:05",
+		"initialize" : "hjo 8/9/2012 07:59",
+		"matchResult" : "hjo 8/8/2012 17:30",
+		"shouldBe:" : "hjo 8/9/2012 08:06",
+		"shouldntBe:" : "hjo 8/9/2012 08:08",
+		"unify:" : "hjo 8/9/2012 08:00",
+		"unifyWithNonQuery:" : "hjo 8/8/2012 17:45",
+		"unifyWithQuery:" : "hjo 8/8/2012 17:50" } }

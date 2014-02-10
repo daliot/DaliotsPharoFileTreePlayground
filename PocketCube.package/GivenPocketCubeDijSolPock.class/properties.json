@@ -1,0 +1,14 @@
+{
+	"category" : "PocketCube-DijEvolution",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "GivenPocketCubeDijSolPock",
+	"pools" : [
+		 ],
+	"super" : "DijEvolutionSolvingPocketCube",
+	"type" : "normal" }

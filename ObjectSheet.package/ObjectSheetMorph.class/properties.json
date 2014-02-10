@@ -1,0 +1,19 @@
+{
+	"category" : "ObjectSheet-Morph",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"waffle",
+		"sheetModel",
+		"bigMorph",
+		"treatsFirstColumnAsRowHeaderAspect",
+		"updateMethod",
+		"morphifyColumns" ],
+	"name" : "ObjectSheetMorph",
+	"pools" : [
+		 ],
+	"super" : "ScrollPane",
+	"type" : "normal" }

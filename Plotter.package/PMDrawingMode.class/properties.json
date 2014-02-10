@@ -1,0 +1,14 @@
+{
+	"category" : "Plotter-morph",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "PMDrawingMode",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

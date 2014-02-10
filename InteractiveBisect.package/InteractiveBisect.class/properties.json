@@ -1,0 +1,18 @@
+{
+	"category" : "InteractiveBisect",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"announcer",
+		"integerMode",
+		"inputNumber",
+		"tooSmallNumber",
+		"tooBigNumber" ],
+	"name" : "InteractiveBisect",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

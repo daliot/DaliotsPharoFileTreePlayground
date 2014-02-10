@@ -1,0 +1,14 @@
+{
+	"category" : "MorphoPhysics",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"stableLength" ],
+	"name" : "RubberBandMorph",
+	"pools" : [
+		 ],
+	"super" : "ForceMorph",
+	"type" : "normal" }

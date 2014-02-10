@@ -1,0 +1,14 @@
+{
+	"category" : "QuantumLogic",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "OutOfQuantumPossibility",
+	"pools" : [
+		 ],
+	"super" : "Error",
+	"type" : "normal" }

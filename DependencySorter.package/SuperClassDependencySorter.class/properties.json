@@ -1,0 +1,14 @@
+{
+	"category" : "DependencySorter",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "SuperClassDependencySorter",
+	"pools" : [
+		 ],
+	"super" : "DependencySorter",
+	"type" : "normal" }

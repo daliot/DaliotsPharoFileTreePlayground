@@ -1,0 +1,15 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"setUp" : "hjo 7/17/2010 19:45",
+		"testCopyInLowerLayer" : "hjo 7/17/2010 20:03",
+		"testCopyInUpperLayer" : "hjo 7/17/2010 20:01",
+		"testCopyOutLowerLayer" : "hjo 7/17/2010 19:54",
+		"testCopyOutUpperLayer" : "hjo 7/17/2010 19:53",
+		"testEqual" : "hjo 7/18/2010 01:31",
+		"testHash" : "hjo 7/18/2010 01:32",
+		"testPrintPieces" : "hjo 7/18/2010 07:54",
+		"testRotateClockwise" : "hjo 7/17/2010 19:35",
+		"testRotateCounterClockwise" : "hjo 7/17/2010 19:46",
+		"testSetup" : "hjo 7/17/2010 19:37" } }

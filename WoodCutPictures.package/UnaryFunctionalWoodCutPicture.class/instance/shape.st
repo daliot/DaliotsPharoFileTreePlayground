@@ -1,0 +1,4 @@
+accessing
+shape
+
+	^picture shape

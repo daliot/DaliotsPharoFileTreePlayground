@@ -1,0 +1,3 @@
+as yet unclassified
+updateTextMorphChangedByNegation
+textMorphChangedByNegation contents: self contentsForChangingTextMorph

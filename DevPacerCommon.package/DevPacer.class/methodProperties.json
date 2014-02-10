@@ -1,0 +1,23 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"countDownString" : "hjo 5/17/2012 11:08",
+		"defaultRunningAni" : "HwaJong 11/28/2012 14:00",
+		"disable" : "hjo 5/17/2012 10:50",
+		"dueTime" : "hjo 5/17/2012 08:43",
+		"dueTime:" : "hjo 5/17/2012 08:48",
+		"dueTimeHasExpired" : "hjo 5/17/2012 11:07",
+		"dueTimeIsNotSet" : "hjo 5/17/2012 11:05",
+		"enable" : "hjo 5/16/2012 21:39",
+		"intervalMinutes" : "hjo 5/17/2012 08:43",
+		"intervalMinutes:" : "hjo 6/10/2012 10:37",
+		"isEnabled" : "hjo 5/16/2012 21:43",
+		"isRunning" : "hjo 5/17/2012 10:48",
+		"messageString" : "hjo 5/17/2012 08:39",
+		"pacerClass:" : "hjo 5/17/2012 11:24",
+		"pacerOperation" : "HwaJong 11/28/2012 14:00",
+		"runningAni" : "hjo 5/16/2012 21:37",
+		"runningAni:" : "hjo 5/16/2012 21:37",
+		"stateColor" : "hjo 5/17/2012 08:30",
+		"stateObject" : "hjo 5/17/2012 08:38" } }

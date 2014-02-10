@@ -1,0 +1,16 @@
+{
+	"category" : "WoodCutPictures-Squarelimit",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"exCorner",
+		"exSide",
+		"tileU" ],
+	"name" : "WoodCutCorner",
+	"pools" : [
+		 ],
+	"super" : "FunctionalWoodCutPicture",
+	"type" : "normal" }

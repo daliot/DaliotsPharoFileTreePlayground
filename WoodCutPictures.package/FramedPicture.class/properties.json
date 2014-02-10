@@ -1,0 +1,15 @@
+{
+	"category" : "WoodCutPictures-Shows",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"picture",
+		"frame" ],
+	"name" : "FramedPicture",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

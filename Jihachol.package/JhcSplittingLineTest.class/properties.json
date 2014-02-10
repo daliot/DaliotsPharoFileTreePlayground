@@ -1,0 +1,19 @@
+{
+	"category" : "Jihachol",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "jhan 10/19/2009 22:46",
+	"instvars" : [
+		"split",
+		"fork1",
+		"fork2",
+		"root",
+		"line1",
+		"line2" ],
+	"name" : "JhcSplittingLineTest",
+	"pools" : [
+		 ],
+	"super" : "JhcLineRealDataTest",
+	"type" : "normal" }

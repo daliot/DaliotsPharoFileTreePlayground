@@ -1,0 +1,4 @@
+accessing
+fillColor
+
+	^Color red

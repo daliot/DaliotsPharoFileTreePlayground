@@ -1,0 +1,3 @@
+as yet unclassified
+isEasyBackProvince
+	^self typeEvaluated isEasyBackProvinceType

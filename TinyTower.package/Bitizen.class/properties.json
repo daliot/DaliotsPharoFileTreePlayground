@@ -1,0 +1,22 @@
+{
+	"category" : "TinyTower",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"bitName",
+		"foodAbility",
+		"serviceAbility",
+		"recreationAbility",
+		"retailAbility",
+		"creativeAbility",
+		"homeFloor",
+		"jobFloor",
+		"dreamJobName" ],
+	"name" : "Bitizen",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

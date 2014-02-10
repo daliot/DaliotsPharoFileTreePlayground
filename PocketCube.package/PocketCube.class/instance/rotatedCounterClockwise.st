@@ -1,0 +1,4 @@
+breeding
+rotatedCounterClockwise
+	
+	^self copyForBreeding rotateCounterClockwise

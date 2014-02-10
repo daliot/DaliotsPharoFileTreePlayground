@@ -1,0 +1,3 @@
+actions
+openClassRefOnSelectedCompiledMethodInMethodList
+	SystemNavigation default browseAllCallsOnClass: listModel selection methodClass

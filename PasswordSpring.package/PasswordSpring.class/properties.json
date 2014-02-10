@@ -1,0 +1,14 @@
+{
+	"category" : "PasswordSpring",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "PasswordSpring",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

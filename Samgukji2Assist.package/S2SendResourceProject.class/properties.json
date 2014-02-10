@@ -1,0 +1,16 @@
+{
+	"category" : "Samgukji2Assist-Project",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"province",
+		"gold",
+		"rice" ],
+	"name" : "S2SendResourceProject",
+	"pools" : [
+		 ],
+	"super" : "S2Project",
+	"type" : "normal" }
